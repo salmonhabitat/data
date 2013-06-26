@@ -35,3 +35,11 @@ Both our study and production large woody debris additions.
 Fields: __contact, efish, id, longpro, notes, owner, shelter, stocked, treatment, trib, type, utm_cbx, utm_cbt, utm_ctx, utm_cty, utm_tbx, utm_tby, utm_ttx, utm_tty, watershed, created_at, updated_at__
 
 Downloads: [JSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20lwd), [GeoJSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20lwd&format=geojson), [SHAPEFILE](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20lwd&format=shp)
+
+**Temperature loggers**
+
+Most of Downeast Maine has been blanketed with temperature loggers thanks to Scott Craig at the MEFRO office. Many of these are no longer active locations, but at some point, data was collected at each point.
+
+**Wes Ashe Study Sites**
+
+Project locations for our man Wes Ashe's Masters 'First-Summer Survival and Growth of Juvenile Atlantic Salmon in Headwater Streams: Implications for Restoring Connectivity at Road Culverts'.
