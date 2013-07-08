@@ -4,9 +4,9 @@ share-data
 Available datasets
 ------------------
 
-**SHRU, Critical Habitat, and HUC12 watershed boundaries**
+SHRU, Critical Habitat, and HUC12 watershed boundaries
 
-This is just a convenience layer. Bundled up the SHRU, Critical Habitat, and HUC 12 watershed boundaries into a single, giant, layer. `[JSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries)`, `[GeoJSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries&format=geojson)`, `[SHAPEFILE](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries&format=shp)`
+> This is just a convenience layer. Bundled up the SHRU, Critical Habitat, and HUC 12 watershed boundaries into a single, giant, layer. [JSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries), [GeoJSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries&format=geojson), [SHAPEFILE](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries&format=shp)
 
 **Completed projects**
 
@@ -29,3 +29,7 @@ Most of Downeast Maine has been blanketed with temperature loggers thanks to Sco
 **Wes Ashe Study Sites**
 
 Project locations for our man Wes Ashe's Masters 'First-Summer Survival and Growth of Juvenile Atlantic Salmon in Headwater Streams: Implications for Restoring Connectivity at Road Culverts'.
+
+
+Inspiration
+-----------
