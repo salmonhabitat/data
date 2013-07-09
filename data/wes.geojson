@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26919" } },
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "id": 19, "tributary": "Honeymoon", "nso": 30, "usfwsid": "2006-025", "width": 2.5, "length": 300, "F9": null }, "geometry": { "type": "Point", "coordinates": [ 598557.0, 4976627.0 ] } },
