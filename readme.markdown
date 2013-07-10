@@ -4,9 +4,6 @@ share-data
 Available datasets
 ------------------
 
-SHRU, Critical Habitat, and HUC12 watershed boundaries
-> This is just a convenience layer. Bundled up the SHRU, Critical Habitat, and HUC 12 watershed boundaries into a single, giant, layer. [JSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries), [GeoJSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries&format=geojson), [SHAPEFILE](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20boundaries&format=shp)
-
 - [Completed projects](https://github.com/salmonhabitat/share-data/blob/master/data/completedProjects.geojson)
 > All of our completed restoration projects. Includes culvert replacements, bridges, and decommissions! [JSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20crossings), [GeoJSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20crossings&format=geojson), [SHAPEFILE](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20crossings&format=shp)
 
