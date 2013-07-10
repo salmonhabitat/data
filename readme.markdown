@@ -1,6 +1,8 @@
 share-data
 ==========
 
+_datasets relevant to anadromous species restoration in the Downeast Maine 'Salmon Habitat Recovery Unit'. If you have questions/requests, don't hesistate to send [Jacques](mailto:hi@jacquestardie.org)!_
+
 Available datasets
 ------------------
 
@@ -18,6 +20,13 @@ Available datasets
 
 - [Wes Ashe Study Sites](https://github.com/salmonhabitat/share-data/blob/master/data/wesAsheStudySites.geojson)
 > Project locations for our man Wes Ashe's Masters 'First-Summer Survival and Growth of Juvenile Atlantic Salmon in Headwater Streams: Implications for Restoring Connectivity at Road Culverts'.
+
+Using the data
+--------------
+
+If you're just looking to browse the data and see what's available, just click on the files! _Thanks Github :)_
+
+Otherwise, I'd suggest you take a look at [this fantastic guide](http://blog.geomusings.com/2013/06/18/geojson-on-github-now-what/) put together by [@billdollins](https://twitter.com/billdollins).
 
 
 Inspiration
