@@ -19,7 +19,7 @@ Large Woody Debris projects
 Temperature loggers
 > Most of Downeast Maine has been blanketed with temperature loggers thanks to Scott Craig at the MEFRO office. Many of these are no longer active locations, but at some point, data was collected at each point.
 
-Wes Ashe Study Sites
+[Wes Ashe Study Sites](https://github.com/salmonhabitat/share-data/blob/master/data/wesAsheStudySites.geojson)
 > Project locations for our man Wes Ashe's Masters 'First-Summer Survival and Growth of Juvenile Atlantic Salmon in Headwater Streams: Implications for Restoring Connectivity at Road Culverts'.
 
 
