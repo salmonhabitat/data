@@ -6,19 +6,19 @@ _datasets relevant to anadromous species restoration in the Downeast Maine 'Salm
 Available datasets
 ------------------
 
-- [Completed projects](https://github.com/salmonhabitat/share-data/blob/master/data/completedProjects.geojson)
+**[Completed projects](https://github.com/salmonhabitat/share-data/blob/master/data/completedProjects.geojson)**
 > All of our completed restoration projects. Includes culvert replacements, bridges, and decommissions! [JSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20crossings), [GeoJSON](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20crossings&format=geojson), [SHAPEFILE](http://jacques.cartodb.com/api/v2/sql?q=SELECT%20*%20FROM%20crossings&format=shp)
 
-- [Historic features](https://github.com/salmonhabitat/share-data/blob/master/data/historicFeatures.geojson)
+**[Historic features](https://github.com/salmonhabitat/share-data/blob/master/data/historicFeatures.geojson)**
 > The locations and descriptions of historic features we've found/stumbled across in Downeast Maine. Most are remnants from the log-drive era. Includes features like remnant dams, wingwalls, and mills.
 
-- [Large Woody Debris projects](https://github.com/salmonhabitat/share-data/blob/master/data/largeWoodyDebris.geojson)
+**[Large Woody Debris projects](https://github.com/salmonhabitat/share-data/blob/master/data/largeWoodyDebris.geojson)**
 > Both our study and production large woody debris additions.
 
-- [Temperature loggers](https://github.com/salmonhabitat/share-data/blob/master/data/loggers.geojson)
+**[Temperature loggers](https://github.com/salmonhabitat/share-data/blob/master/data/loggers.geojson)**
 > Most of Downeast Maine has been blanketed with temperature loggers thanks to Scott Craig at the MEFRO office. Many of these are no longer active locations, but at some point, data was collected at each point.
 
-- [Wes Ashe Study Sites](https://github.com/salmonhabitat/share-data/blob/master/data/wesAsheStudySites.geojson)
+**[Wes Ashe Study Sites](https://github.com/salmonhabitat/share-data/blob/master/data/wesAsheStudySites.geojson)**
 > Project locations for our man Wes Ashe's Masters 'First-Summer Survival and Growth of Juvenile Atlantic Salmon in Headwater Streams: Implications for Restoring Connectivity at Road Culverts'.
 
 Using the data
