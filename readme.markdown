@@ -3,9 +3,24 @@ data
 
 datasets relevant to anadromous species restoration in Maine
 
+#### Data collected by SHARE
+
 | Name | Description |
 | ---- | ----------- |
-| [Completed projects](https://github.com/salmonhabitat/data/blob/master/data/completed.geojson) | Road/stream crossing culverts completed by SHARE from 2005-today. |
+| [Completed projects](https://github.com/salmonhabitat/data/blob/master/data/completed.geojson)    | Road/stream crossing culverts completed by SHARE from 2005-today. |
+| [Historic features](https://github.com/salmonhabitat/data/blob/master/data/historic.geojson)      | Historic features we've identified. Remnant dams, walls, etc. |
+| [Temperature loggers](https://github.com/salmonhabitat/data/blob/master/data/loggers.geojson)     | Temperature logger locations. |
+| [Wes Ashe Masters' Sites](https://github.com/salmonhabitat/data/blob/master/data/wesAshe.geojson) | The locations of Wes Ashe's M.S. (Production of Atlantic salmon in 
+headwater streams”) study sites |
+
+#### Boundaries
+
+| Name | Description |
+| ---- | ----------- |
+| [HUC8](https://github.com/salmonhabitat/data/blob/master/data/watersheds/huc8.geojson) | HUC8 watershed boundaries |
+| [HUC10](https://github.com/salmonhabitat/data/blob/master/data/watersheds/huc10.geojson) | HUC10 watershed boundaries |
+| [HUC12](https://github.com/salmonhabitat/data/blob/master/data/watersheds/huc12.geojson) | HUC12 watershed boundaries |
+
 
 ### Resources
 
