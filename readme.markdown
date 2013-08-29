@@ -1,7 +1,7 @@
 Data
 ====
 
-Datasets relevant to anadromous species restoration in Maine.
+_Datasets relevant to anadromous species restoration in Maine._
 
 Download
 --------
@@ -21,7 +21,7 @@ Download
 | ---- | ---------- |
 | [All LWD projects](https://github.com/salmonhabitat/data/blob/master/data/lwd/largeWoodyDebris.geojson)       | A summary of SHARE's LWD additions. |
 | [2013 coordination](https://github.com/salmonhabitat/data/blob/master/data/lwd/2013lwdCoordination.geojson)   | Study sites requiring surveys in Fall 2013. A collaboration with DMR. |
-[ [Pembroke stream additions](https://github.com/salmonhabitat/data/blob/master/data/lwd/pembrook.geojson)      | Pembroke stream inventory. Accounts for each tree pulled. |
+| [Pembroke stream additions](https://github.com/salmonhabitat/data/blob/master/data/lwd/pembrook.geojson)      | Pembroke stream inventory. Accounts for each tree pulled. |
 
 **Boundaries**
 
