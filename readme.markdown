@@ -1,7 +1,10 @@
-data
+Data
 ====
 
-Datasets relevant to anadromous species restoration in Maine
+Datasets relevant to anadromous species restoration in Maine.
+
+Download
+--------
 
 **Point data**
 
@@ -13,7 +16,7 @@ Datasets relevant to anadromous species restoration in Maine
 | [Wes Ashe Masters' Sites](https://github.com/salmonhabitat/data/blob/master/data/wesAshe.geojson) | The locations of Wes Ashe's M.S. (Production of Atlantic salmon in 
 headwater streams”) study sites |
 
-** Large woody debris (LWD)**
+**Large woody debris (LWD)**
 
 | Name | Boundaries |
 | ---- | ---------- |
@@ -27,11 +30,13 @@ headwater streams”) study sites |
 | [HUC12](https://github.com/salmonhabitat/data/blob/master/data/watersheds/huc12.geojson) | HUC12 watershed boundaries |
 
 
-## Resources
+Resources
+---------
 
 - [GeoJSON on Github](http://blog.geomusings.com/2013/06/18/geojson-on-github-now-what/)
 - [Git and Github for data](http://blog.okfn.org/2013/07/02/git-and-github-for-data/).
 
-## Questions?
+Questions?
+----------
 
 [Email Jacques](mailto:hi@jacquestardie.org?subject=share data github repo)
