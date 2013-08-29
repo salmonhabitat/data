@@ -13,13 +13,15 @@ Download
 | [Completed projects](https://github.com/salmonhabitat/data/blob/master/data/completed.geojson)    | Road/stream crossing culverts completed by SHARE from 2005-today. |
 | [Historic features](https://github.com/salmonhabitat/data/blob/master/data/historic.geojson)      | Historic features we've identified. Remnant dams, walls, etc. |
 | [Temperature loggers](https://github.com/salmonhabitat/data/blob/master/data/loggers.geojson)     | Temperature logger locations. |
-| [Wes Ashe Masters' Sites](https://github.com/salmonhabitat/data/blob/master/data/wesAshe.geojson) | The locations of Wes Ashe's M.S. (Production of Atlantic salmon in 
-headwater streams”) study sites |
+| [Wes Ashe Masters' Sites](https://github.com/salmonhabitat/data/blob/master/data/wesAshe.geojson) | The locations of Wes Ashe's M.S. (Production of Atlantic salmon in headwater streams”) study sites |
 
 **Large woody debris (LWD)**
 
 | Name | Boundaries |
 | ---- | ---------- |
+| [All LWD projects](https://github.com/salmonhabitat/data/blob/master/data/lwd/largeWoodyDebris.geojson)       | A summary of SHARE's LWD additions. |
+| [2013 coordination](https://github.com/salmonhabitat/data/blob/master/data/lwd/2013lwdCoordination.geojson)   | Study sites requiring surveys in Fall 2013. A collaboration with DMR. |
+[ [Pembroke stream additions](https://github.com/salmonhabitat/data/blob/master/data/lwd/pembrook.geojson)      | Pembroke stream inventory. Accounts for each tree pulled. |
 
 **Boundaries**
 
