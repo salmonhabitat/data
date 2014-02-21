@@ -1,0 +1,237 @@
+Identification_Information:  
+	SMMS_Type:  1
+	Citation:  
+		Citation_Information:  
+			Originator:  Maine State Planning Office (MESPO), Maine Office of Geographic Information Systems (comp.) (ed.)
+			Publication_Date:  20050922
+			Title:  GEOCODESLVA
+			Geospatial_Data_Presentation_Form:  tabular digital data
+			Series_Information:  
+				Series_Name:  Maine GIS
+				Issue_Identification:  SDE server; Internet Data Catalog; Tables
+			Publication_Information:  
+				Publication_Place:  Augusta ME
+				Publisher:  Maine Office of Geographic Information Systems (MEGIS)
+			Online_Linkage:  http://megis.maine.gov/catalog/
+			SMMS_Citation_Linkages_Hyperlinked:  false
+	Description:  
+		Abstract:  GEOCODESLVA is a table that lists names of Maine settlements, locations, unincorporated villages (L), incorporated villages (V), alternate names (A), with GEOCODE, 1971. Fields include: LVANAME, COUNTY, GEOCODE, STATUS.  Information for this table was drawn from "Standard Geographic Code for Minor Civil Divisions by County", published by the Maine State Planning Office, August 1982. For additional information on locations, villages and alternate names see http://megis.maine.gov/ for a "GIS Link" to the Maine State Archives "Maine Minor Civil Divisions Legal History Database". All fields are data type TEXT.
+		Purpose:  The table provides a list of village corporations, settlements, locations, unincorporated villages and alternate names. "Any place name which has been assigned the letter code V is a legally existing though not necessarily operationally active village corporation....The letter code A is used for alternate names of an MCD. The code is used where there has been a change of name. For example Sabattus was changed from Webster. It is also used where an unorganized MCD has become incorporated. For example, Jerusalem Twp incorporated to become the Town of Carrabassett Valley. A third usage is where a MCD may be known by more than one name." (Standard Geographic Code for Minor Civil Division by County, published by the Maine State Planning Office, August 1982)
+		Supplemental_Information:  Available for download in .dbf and .txt format  in Maine GIS final data directories at /home11/crypt83/tables and through the Maine GIS Data Catalog "Tables" link  http://megis.maine.gov/catalog/ .
+	Time_Period_of_Content:  
+		Time_Period_Information:  
+			Single_Date/Time:  
+				Calendar_Date:  198208
+		Currentness_Reference:  publication date
+	Status:  
+		Progress:  Complete
+	Keywords:  
+		Theme:  
+			Theme_Keyword_Thesaurus:  ISO Keyword Thesaurus
+			Theme_Keyword:  society
+			Theme_Keyword:  boundaries
+			Theme_Keyword:  imageryBaseMapsEarthCover
+		Theme:  
+			Theme_Keyword_Thesaurus:  Maine GIS Thesaurus-Theme
+			Theme_Keyword:  location
+			Theme_Keyword:  village
+			Theme_Keyword:  alternate name
+		Place:  
+			Place_Keyword_Thesaurus:  Maine GIS Thesaurus-Place
+			Place_Keyword:  Maine
+		Stratum:  
+			Stratum_Keyword_Thesaurus:  GCMD Parameter Keyword
+			Stratum_Keyword:  human dimensions
+	Access_Constraints:  Secondary distribution by permission only. Please see Maine Office of Geographic Information Systems (MEGIS) License Agreement at http://megis.maine.gov/ . Any secondary distribution must have this documentation appended.
+	Use_Constraints:  Users must assume responsibility in determining the usability of this data for their purposes. Please confirm that you are using the correct copy of data from the Maine GIS Data Catalog.
+	Point_of_Contact:  
+		Contact_Information:  
+			Contact_Organization_Primary:  
+				Contact_Organization:  (MEGIS) Maine Office of Geographic Information Systems
+			Contact_Position:  GIS Coordinator
+			Contact_Address:  
+				Address_Type:  mailing address
+				Address:  State House Station 145
+				City:  Augusta
+				State_or_Province:  ME
+				Postal_Code:  04333-0145
+				Country:  USA
+			Contact_Voice_Telephone:  (207) 624-7700
+			Contact_Facsimile_Telephone:  (207) 287-3842
+			SMMS_Contact_Email_Hyperlinked:  false
+			Hours_of_Service:  Monday through Friday 0800 - 1700 EST
+	Data_Set_Credit:  Credit should always be given to the data source and/or originator when the data is transferred or printed.
+	Native_Data_Set_Environment:  Maine Office of Information Technology (OIT) Oracle 9i, Maine Office of Geographic Information Systems (MEGIS), Maine GIS SDE, SDEUSER, SDE.DEFAULT, Maine GIS Internet Data Catalog http://megis.maine.gov/catalog/, Maine GIS server /home11/crypt83/tables in comma delimited .txt and .dbf format, ~ .46 MB
+	Cross_Reference:  
+		Citation_Information:  
+			Originator:  Maine Office of Geographic Information Systems (MEGIS)
+			Publication_Date:  20070701
+			Publication_Time:  Unknown
+			Title:  metwp24
+			Geospatial_Data_Presentation_Form:  vector digital data
+			Series_Information:  
+				Series_Name:  Maine GIS
+				Issue_Identification:  SDE server; Internet Data Catalog
+			Publication_Information:  
+				Publication_Place:  Augusta ME
+				Publisher:  Maine Office of Geographic Information Systems
+			Other_Citation_Details:  1:24000
+			Online_Linkage:  http://megis.maine.gov/catalog/
+			SMMS_Citation_Linkages_Hyperlinked:  true
+			SMMS_Citation_Source_Scale:  24000
+			SMMS_Citation_Source_Media:  online
+			SMMS_Citation_Source_Time_Period:  
+				Time_Period_Information:  
+					Range_of_Dates/Times:  
+						Beginning_Date:  19480101
+						Beginning_Time:  Unknown
+						Ending_Date:  20050822
+						Ending_Time:  Unknown
+			SMMS_Citation_Source_Currentness:  source dates
+	SMMS_Dataset_Capture_Browse:  false
+Data_Quality_Information:  
+	Lineage:  
+		Process_Step:  
+			Process_Description:  NAME CHANGES:
+				Centerville to Centerville Twp (effective July 1, 2004, LD 1624 First Regular Session 121st)
+				T17 R5 WELS to Cross Lake Twp (effective 6/8/2004, LD 1925, P&S 2003 C46 Second Special Session of the 121st)
+				T5 R9 NWP to Ebeemee Twp (effective 12/23/2004, LD 1924, P&S 2003 C46 Second Special Session of the 121st)
+				
+				STATUS CHANGE:
+				Centerville Twp to LURC = 'y' (effective July 1, 2004, LD 1624 First Regular Session 121st)
+				
+				LURC parcel boundary added within:
+				T2 R9 WELS  (line screendig from LURC/BSP description of parcel in LURC jurisdiction re: 7/9/1993 Plisgah & Day survey)
+				
+				Table updates:
+				GEOCODES
+				GEOCODESLVA
+				GEOMCDCCD
+				MEPOPS
+			Process_Date:  20050622
+			Process_Contact:  
+				Contact_Information:  
+					Contact_Organization_Primary:  
+						Contact_Organization:  (MEDOCLURC) Maine Department of Conservation Land Use Regulation Commission
+						Contact_Person:  Ellen Jackson
+					Contact_Position:  Programmer Analyst
+					Contact_Address:  
+						Address_Type:  mailing address
+						Address:  SHS 22
+						City:  Augusta
+						State_or_Province:  ME
+						Postal_Code:  04333
+						Country:  USA
+					Contact_Voice_Telephone:  (207) 287-4943
+					Contact_Electronic_Mail_Address:  Ellen.Jackson@state.me.us
+					SMMS_Contact_Email_Hyperlinked:  false
+		Process_Step:  
+			Process_Description:  Edits were posted to the MEGIS.Boundaries METWP24 from MEDOT to reflect the following legislated updates:
+				
+				NAME CHANGES:
+				Town of Verona to Town of Verona Island (effective March 2004, LD1653 enacts 03/05/2004 enacts P&SL 1861 C25 Sec. 4)
+				Town of Westport to Town of Westport Island (effective November 2003, LD37 signed 418/2003 enacts P&S1828 C511 Sect. 7)
+				
+				BOUNDARY CHANGE:
+				Bridgton/Harrison (effective 4/17/2003, LD793 boundary line between the Town of Bridgton and the  
+				Town of Harrison along Long Lake is reestablished along the  
+				center of the lake)
+				
+				RELATED Table updates:
+				GEOCODES
+				GEOCODESLVA
+				GEOMCDCCD
+				MEPOPS
+			Process_Date:  20050617
+			Process_Contact:  
+				Contact_Information:  
+					Contact_Organization_Primary:  
+						Contact_Organization:  (MEDOT) Maine Department of Transportation
+					Contact_Position:  GIS Coordinator
+					Contact_Address:  
+						Address_Type:  mailing address
+						Address:  State House Station 16
+						City:  Augusta
+						State_or_Province:  ME
+						Postal_Code:  04333
+						Country:  USA
+					Contact_Voice_Telephone:  (207) 624-3300
+					Contact_Facsimile_Telephone:  (207)624-3301
+					SMMS_Contact_Email_Hyperlinked:  false
+					Hours_of_Service:  Monday through Friday 0800 - 1700 EST
+					Contact_Instructions:  Contact the Bureau of Planning, Systems Management section. Ask for the GIS Coordinator.
+		Process_Step:  
+			Process_Description:  Updated geocodes for Cedar Grove, Dresden Mills, Hatchs Corner, South Dresden and West Dresden from 15060 to 15070 which is the correct geocode for the place names to correct error reported by customer on 04/09/2008.
+			Process_Date:  20080410
+			Process_Contact:  
+				Contact_Information:  
+					Contact_Organization_Primary:  
+						Contact_Organization:  (MEGIS) Maine Office of Geographic Information Systems
+					Contact_Position:  GIS Coordinator
+					Contact_Address:  
+						Address_Type:  mailing address
+						Address:  State House Station 145
+						City:  Augusta
+						State_or_Province:  ME
+						Postal_Code:  04333-0145
+						Country:  USA
+					Contact_Voice_Telephone:  (207) 624-7700
+					Contact_Facsimile_Telephone:  (207) 287-3842
+					SMMS_Contact_Email_Hyperlinked:  false
+					Hours_of_Service:  Monday through Friday 0800 - 1700 EST
+Distribution_Information:  
+	SMMS_Distribution_Name:  Standard Table
+	Distributor:  
+		Contact_Information:  
+			Contact_Organization_Primary:  
+				Contact_Organization:  Maine Office of Geographic Information Systems
+			Contact_Position:  GIS Coordinator
+			Contact_Address:  
+				Address_Type:  mailing address
+				Address:  State House Station 145
+				City:  Augusta
+				State_or_Province:  ME
+				Postal_Code:  04333-0145
+				Country:  USA
+			Contact_Voice_Telephone:  207 624-7700
+			Contact_Facsimile_Telephone:  207 287-4563
+			SMMS_Contact_Email_Hyperlinked:  false
+			Hours_of_Service:  Monday through Friday 0800 - 1700 EST
+	Standard_Order_Process:  
+		Digital_Form:  
+			Digital_Transfer_Information:  
+				Format_Name:  DBF
+				Format_Version_Number:  Microsoft Access 2002 V.10 SP3
+				Format_Specification:  dBase file structure
+				ASCII_File_Structure:  
+					Case_Sensitive:  false
+				Format_Information_Content:  The dBase provides a simple interface to dbf-format databases and is widely used in GIS and other applications.
+			Digital_Transfer_Option:  
+				Online_Option:  
+					Access_Instructions:  Anyone with an internet browser can view and download these data from http://megis.maine.gov/catalog.
+				SMMS_Distribution_Type:  1
+		Fees:  None
+		Turnaround:  Data is available for immediate download from the Maine GIS Data Catalog.
+		SMMS_Distribution_Type:  1
+Metadata_Reference_Information:  
+	Metadata_Date:  20030130
+	Metadata_Review_Date:  20070925
+	Metadata_Future_Review_Date:  
+	Metadata_Contact:  
+		Contact_Information:  
+			Contact_Organization_Primary:  
+				Contact_Organization:  Maine Office of Geographic Information Systems
+			Contact_Position:  GIS Coordinator
+			Contact_Address:  
+				Address_Type:  mailing address
+				Address:  State House Station 145
+				City:  Augusta
+				State_or_Province:  ME
+				Postal_Code:  04333-0145
+				Country:  USA
+			Contact_Voice_Telephone:  207 624-7700
+			Contact_Facsimile_Telephone:  207 287-4563
+			SMMS_Contact_Email_Hyperlinked:  false
+			Hours_of_Service:  Monday through Friday 0800 - 1700 EST
+	Metadata_Standard_Name:  FGDC Content Standards for Digital Geospatial Metadata
+	Metadata_Standard_Version:  FGDC-STD-001-1998

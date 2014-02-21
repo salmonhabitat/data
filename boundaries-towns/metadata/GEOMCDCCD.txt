@@ -1,0 +1,277 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Maine Office of Geographic Information Systems (MEGIS)
+      Publication_Date: 20110330
+      Title: GEOMCDCCD
+      Geospatial_Data_Presentation_Form: tabular digital data
+      Series_Information:
+        Series_Name: Maine GIS
+        Issue_Identification: SDE server; Internet Data Catalog; Tables
+      Publication_Information:
+        Publication_Place: Augusta ME
+        Publisher: Maine Office of Geographic Information Systems (MEGIS)
+      Online_Linkage: http://megis.maine.gov/catalog/
+  Description:
+    Abstract: GEOMCDCCD is a table that  lists GEOCODES by the US Census Bureau COUSUB number, a unique ID for USCB census county divisions (CCDs). The file can be related to METWP24, METWP100, and METWP250 on the field GEOCODE. Fields in GEOMCDCCD include: SUMLEV, STATEFIPS, COUNTY, COUNTYFIPS, COUSUBNAME, COUSUB, COUSUBNUM, TOWN, GEOCODE, STATUS, GEOCODENUM, POP00, SQM, POPDEN00_SQM, ACRES. Populations for unorganized minor civil divisions, reported by USCB as UT groups, were derived by spatial join of BLKS00 centroids with METWP24. The centroid analysis cannot be exact, Census blocks in the UT groups extend beyond minor civil division boundaries. Average size of Census blocks in the UT groups is one square mile. Relate fields are data type TEXT, statistical fields including POP00, SQM, POPDEN00_SQM, ACRES, COUSUBNUM, GEOCODENUM are data type NUMBER.
+    Purpose: The table provides a cross reference between the standard geocode for Maine minor civil divisions and reservations, and U.S. Census Bureau identifiers for census county subdivisions.  PLEASE NOTE: there is often no direct 1:1 relationship between minor civil division boundaries and census county divisions or other Census geographic units. The rural character of Maine, and especially northern Maine, often requires the USCB to report counts and tabulations over larger areas for statistical reasons and for reasons of confidentiality. The USCB redefines these areas as population shifts.
+    Supplemental_Information: Available for download in .dbf and .txt format through the Maine GIS Data Catalog "Tables" link  http://megis.maine.gov/catalog/
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Time_of_Day: unknown
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: REQUIRED: Western-most coordinate of the limit of coverage expressed in longitude.
+      East_Bounding_Coordinate: REQUIRED: Eastern-most coordinate of the limit of coverage expressed in longitude.
+      North_Bounding_Coordinate: REQUIRED: Northern-most coordinate of the limit of coverage expressed in latitude.
+      South_Bounding_Coordinate: REQUIRED: Southern-most coordinate of the limit of coverage expressed in latitude.
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO Keyword Thesaurus
+      Theme_Keyword: boundaries
+      Theme_Keyword: society
+    Theme:
+      Theme_Keyword_Thesaurus: Maine GIS Thesaurus-Theme
+      Theme_Keyword: census county divisions
+      Theme_Keyword: geocodes
+      Theme_Keyword: fips
+    Place:
+      Place_Keyword_Thesaurus: Maine GIS Thesaurus-Place
+      Place_Keyword: Maine
+    Stratum:
+      Stratum_Keyword_Thesaurus: GCMD Parameter Keyword
+      Stratum_Keyword: human dimensions
+  Access_Constraints: none
+  Use_Constraints: Users must assume responsibility in determining the usability of this data for their purposes. Please confirm that you are using the correct copy of data from the Maine GIS Data Catalog.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: (MEGIS) Maine Office of Geographic Information Systems
+        Contact_Person: GIS Coordinator
+      Contact_Position: GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing address
+        Address: State House Station 174
+        City: Augusta
+        State_or_Province: ME
+        Postal_Code: 04333-0174
+        Country: USA
+      Contact_Voice_Telephone: 207 624-7700
+      Contact_Facsimile_Telephone: 207 287-3842
+      Hours_of_Service: Monday through Friday 0800 - 1700 EST
+  Data_Set_Credit: Credit should always be given to the data source and/or originator when the data is transferred or printed.
+  Native_Data_Set_Environment: Maine Office of Information Technology (OIT) Oracle 9i, Maine Office of Geographic Information Systems (MEGIS), Maine GIS SDE, SDEUSER, SDE.DEFAULT, Maine GIS Internet Data Catalog http://megis.maine.gov/catalog/ "Tables" link
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Department of Commerce (USDOC), Bureau of the Census (USCB), Maine Office of Geographic Information Systems (MEGIS) (comp., ed.)
+      Publication_Date: 20021101
+      Title: mcdccd00
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: Census 2000
+        Issue_Identification: Redistricting Data
+      Publication_Information:
+        Publication_Place: Augusta ME
+        Publisher: Maine Office of Geographic Information Systems (MEGIS)
+      Other_Citation_Details: MCDCCD00 was created to facilitate mapping, analysis, and use of Census 2000 data with other Maine GIS data layers. To extend analysis to other Maine GIS data layers, a table GEOMCDCCD has been created for use with the coverage METWP24. GEOMCDCCD provides a crosswalk between Standard Geocodes for Maine Minor Civil Divisions and the Census County Division FIPS code COUSUB00 in MCDCCD00. The table is published and available for download through the "Tables" link of the MEGIS internet Data Catalog.
+      Online_Linkage: http://megis.maine.gov/catalog/
+  Cross_Reference:
+    Citation_Information:
+      Originator: Maine Office of Geographic Information Systems (MEGIS)
+      Publication_Date: 20070701
+      Publication_Time: Unknown
+      Title: metwp24
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: Maine GIS
+        Issue_Identification: SDE server; Internet Data Catalog
+      Publication_Information:
+        Publication_Place: Augusta ME
+        Publisher: Maine Office of Geographic Information Systems
+      Other_Citation_Details: 1:24000
+      Online_Linkage: http://megis.maine.gov/catalog/
+Data_Quality_Information:
+  Lineage:
+    Process_Step:
+      Process_Description:
+        NAME CHANGES:
+        Centerville to Centerville Twp (effective July 1, 2004, LD 1624 First Regular Session 121st)
+        T17 R5 WELS to Cross Lake Twp (effective 6/8/2004, LD 1925, P&S 2003 C46 Second Special Session of the 121st)
+        T5 R9 NWP to Ebeemee Twp (effective 12/23/2004, LD 1924, P&S 2003 C46 Second Special Session of the 121st)
+
+        STATUS CHANGE:
+        Centerville Twp to LURC = 'y' (effective July 1, 2004, LD 1624 First Regular Session 121st)
+
+        LURC parcel boundary added within:
+        T2 R9 WELS  (line screendig from LURC/BSP description of parcel in LURC jurisdiction re: 7/9/1993 Plisgah & Day survey)
+
+        Table updates:
+        GEOCODES
+        GEOCODESLVA
+        GEOMCDCCD
+        MEPOPS
+      Process_Date: 20050622
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: (MEDOCLURC) Maine Department of Conservation Land Use Regulation Commission
+            Contact_Person: Ellen Jackson
+          Contact_Position: Programmer Analyst
+          Contact_Address:
+            Address_Type: mailing address
+            Address: SHS 22
+            City: Augusta
+            State_or_Province: ME
+            Postal_Code: 04333
+            Country: USA
+          Contact_Voice_Telephone: (207) 287-4943
+          Contact_Electronic_Mail_Address: Ellen.Jackson@maine.gov
+    Process_Step:
+      Process_Description:
+        Edits were posted to the MEGIS.Boundaries METWP24 from MEDOT to reflect the following legislated updates:
+
+        NAME CHANGES:
+        Town of Verona to Town of Verona Island (effective March 2004, LD1653 enacts 03/05/2004 enacts P&SL 1861 C25 Sec. 4)
+        Town of Westport to Town of Westport Island (effective November 2003, LD37 signed 418/2003 enacts P&S1828 C511 Sect. 7)
+
+        BOUNDARY CHANGE:
+        Bridgton/Harrison (effective 4/17/2003, LD793 boundary line between the Town of Bridgton and the  
+        Town of Harrison along Long Lake is reestablished along the  
+        center of the lake)
+
+        RELATED Table updates:
+        GEOCODES
+        GEOCODESLVA
+        GEOMCDCCD
+        MEPOPS
+      Process_Date: 20050617
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: (MEDOT) Maine Department of Transportation
+          Contact_Position: GIS Coordinator
+          Contact_Address:
+            Address_Type: mailing address
+            Address: State House Station 16
+            City: Augusta
+            State_or_Province: ME
+            Postal_Code: 04333
+            Country: USA
+          Contact_Voice_Telephone: (207) 624-3300
+          Contact_Facsimile_Telephone: (207)624-3301
+          Hours_of_Service: Monday through Friday 0800 - 1700 EST
+          Contact_Instructions: Contact the Bureau of Planning, Systems Management section. Ask for the GIS Coordinator.
+    Process_Step:
+      Process_Description: Name change:  In accordance with L.D. 797 "An Act To Fully Implement the Legislative Intent in Prohibiting Offensive Place Names" the unorganized territory Squapan Twp was changed to Scopan Twp.
+      Process_Date: 20110330
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maine Office of GIS
+          Contact_Position: GIS Coordinator
+          Contact_Address:
+            Address_Type: mailing address
+            Address: State House Station 174
+            City: Augusta
+            State_or_Province: Maine
+            Postal_Code: 04333
+            Country: USA
+          Contact_Voice_Telephone: 207-624-7700
+          Contact_Facsimile_Telephone: 207-287-3842
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: MEGIS.GEOMCDCCD
+    Attribute:
+      Attribute_Label: OBJECTID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: SUMLEV
+    Attribute:
+      Attribute_Label: STATEFIPS
+    Attribute:
+      Attribute_Label: COUNTY
+    Attribute:
+      Attribute_Label: COUNTYFIPS
+    Attribute:
+      Attribute_Label: COUSUB00NA
+    Attribute:
+      Attribute_Label: COUSUB00
+    Attribute:
+      Attribute_Label: COUSUB00NU
+    Attribute:
+      Attribute_Label: TOWN
+    Attribute:
+      Attribute_Label: STATUS
+    Attribute:
+      Attribute_Label: GEOCODE
+    Attribute:
+      Attribute_Label: GEOCODENUM
+    Attribute:
+      Attribute_Label: POP00
+    Attribute:
+      Attribute_Label: SQM
+    Attribute:
+      Attribute_Label: POPDEN00_S
+    Attribute:
+      Attribute_Label: ACRES
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: (MEGIS) Maine Office of Geographic Information Systems
+        Contact_Person: GIS Coordinator
+      Contact_Position: GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing address
+        Address: State House Station 174
+        City: Augusta
+        State_or_Province: ME
+        Postal_Code: 04333-0174
+        Country: USA
+      Contact_Voice_Telephone: 207 624-7700
+      Contact_Facsimile_Telephone: 207 287-3842
+      Hours_of_Service: Monday through Friday 0800 - 1700 EST
+  Resource_Description: http://megis.maine.gov/catalog/
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: DBF
+        Format_Version_Number: Microsoft Access 2002 V.10 SP3
+        Format_Specification: dBase file structure
+        Format_Information_Content: The dBase provides a simple interface to dbf-format databases and is widely used in GIS and other applications.
+      Digital_Transfer_Option:
+        Online_Option:
+          Access_Instructions: Anyone with an internet browser can view and download these data from http://megis.maine.gov/catalog.
+    Fees: None
+    Turnaround: Data is available for immediate download from the Maine GIS Data Catalog.
+Metadata_Reference_Information:
+  Metadata_Date: 20030130
+  Metadata_Review_Date: 20100112
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: (MEGIS) Maine Office of Geographic Information Systems
+        Contact_Person: GIS Coordinator
+      Contact_Position: GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing address
+        Address: State House Station 174
+        City: Augusta
+        State_or_Province: ME
+        Postal_Code: 04333-0174
+        Country: USA
+      Contact_Voice_Telephone: 207 624-7700
+      Contact_Facsimile_Telephone: 207 287-3842
+      Hours_of_Service: Monday through Friday 0800 - 1700 EST
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time

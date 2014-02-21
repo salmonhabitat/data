@@ -1,0 +1,934 @@
+"520","060","23","Penobscot","019","North Penobscot UT","52710",52710,"Grindstone Twp","U","19802",19802,72,38,2,24259
+"521","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T5 R8 WELS","U","19828",19828,0,39,0,24732
+"522","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T5 R7 WELS","U","19827",19827,14,39,0,24753
+"523","060","23","Penobscot","019","North Penobscot UT","52710",52710,"Soldiertown Twp T2 R7 WELS","U","19811",19811,10,42,0,26987
+"524","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T7 R7 WELS","U","19833",19833,0,37,0,23749
+"525","060","23","Penobscot","019","Old Town city","55225",55225,"Old Town","C","19480",19480,8130,45,181,28675
+"526","060","23","Penobscot","019","Orono town","55565",55565,"Orono","T","19490",19490,9112,20,456,12531
+"527","060","23","Penobscot","019","Orrington town","55680",55680,"Orrington","T","19500",19500,3526,26,136,16890
+"528","060","23","Penobscot","019","Passadumkeag town","57045",57045,"Passadumkeag","T","19510",19510,441,24,18,15289
+"529","060","23","Penobscot","019","Patten town","57150",57150,"Patten","T","19520",19520,1111,38,29,24459
+"530","060","23","Penobscot","019","Penobscot Indian Island Reservation","57937",57937,"Indian Island","R","19630",19630,562,3,187,1797
+"531","060","23","Penobscot","019","Plymouth town","59950",59950,"Plymouth","T","19530",19530,1257,31,41,19853
+"532","060","23","Penobscot","019","Prentiss UT","60790",60790,"Prentiss Twp T7 R3 NBPP","U","19540",19540,214,38,6,24446
+"533","060","23","Penobscot","019","Seboeis plantation","67160",67160,"Seboeis Plt","P","19550",19550,41,42,1,26727
+"534","060","23","Penobscot","019","Springfield town","73250",73250,"Springfield","T","19560",19560,379,38,10,24636
+"535","060","23","Penobscot","019","Stacyville town","73600",73600,"Stacyville","T","19570",19570,405,39,10,25282
+"536","060","23","Penobscot","019","Stetson town","74055",74055,"Stetson","T","19580",19580,981,37,27,23435
+"537","060","23","Penobscot","019","Twombly UT","78015",78015,"T3 R1 NBPP","U","19820",19820,2,45,0,28947
+"538","060","23","Penobscot","019","Veazie town","78780",78780,"Veazie","T","19590",19590,1744,3,581,2006
+"539","060","23","Penobscot","019","Webster plantation","81055",81055,"Webster Plt","P","19600",19600,82,37,2,23482
+"540","060","23","Penobscot","019","Whitney UT","85230",85230,"Pukakon Twp","U","19826",19826,0,18,0,11584
+"541","060","23","Penobscot","019","Winn town","86305",86305,"Winn","T","19610",19610,420,44,10,28478
+"542","060","23","Penobscot","019","Woodville town","87390",87390,"Woodville","T","19620",19620,286,43,7,27660
+"543","060","23","Piscataquis","021","Abbot town","00100",100,"Abbot","T","21010",21010,630,36,18,22830
+"544","060","23","Piscataquis","021","Atkinson town","01920",1920,"Atkinson","T","21020",21020,323,39,8,24974
+"545","060","23","Piscataquis","021","Beaver Cove town","03740",3740,"Beaver Cove","T","21037",21037,91,33,3,20922
+"546","060","23","Piscataquis","021","Blanchard UT","05560",5560,"Blanchard Twp","U","21040",21040,83,45,2,28872
+"547","060","23","Piscataquis","021","Bowerbank town","06400",6400,"Bowerbank","T","21050",21050,123,47,3,30320
+"548","060","23","Piscataquis","021","Brownville town","08325",8325,"Brownville","T","21060",21060,1259,45,28,28526
+"549","060","23","Piscataquis","021","Dover-Foxcroft town","18195",18195,"Dover-Foxcroft","T","21070",21070,4211,71,59,45517
+"550","060","23","Piscataquis","021","Greenville town","29535",29535,"Greenville","T","21090",21090,1623,46,35,29504
+"551","060","23","Piscataquis","021","Guilford town","30095",30095,"Guilford","T","21100",21100,1531,36,43,22833
+"552","060","23","Piscataquis","021","Kingsbury plantation","37095",37095,"Kingsbury Plt","P","21110",21110,9,45,0,28653
+"553","060","23","Piscataquis","021","Lake View plantation","37970",37970,"Lake View Plt","P","21120",21120,43,53,1,33772
+"554","060","23","Piscataquis","021","Medford town","44830",44830,"Medford","T","21130",21130,231,43,5,27602
+"555","060","23","Piscataquis","021","Milo town","46020",46020,"Milo","T","21140",21140,2383,34,70,21716
+"556","060","23","Piscataquis","021","Monson town","46580",46580,"Monson","T","21150",21150,666,49,14,31401
+"557","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Nesourdnahunk Twp","U","21819",21819,0,39,0,25258
+"558","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Williamsburg Twp","U","21827",21827,65,25,3,16196
+"559","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T1 R9 WELS","U","21833",21833,94,36,3,22826
+"560","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Trout Brook Twp","U","21826",21826,0,39,0,25061
+"561","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Shawtown Twp","U","21823",21823,15,42,0,26869
+"562","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Katahdin Iron Works Twp","U","21812",21812,0,40,0,25294
+"563","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T10 R11 WELS","U","21887",21887,0,38,0,24433
+"564","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T8 R11 WELS","U","21875",21875,0,39,0,24920
+"565","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T4 R9 NWP","U","21845",21845,1,40,0,25565
+"566","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T4 R9 WELS","U","21846",21846,0,38,0,24616
+"567","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T5 R11 WELS","U","21855",21855,4,38,0,24590
+"568","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Bowdoin College Grant West Twp","U","21803",21803,1,44,0,28231
+"569","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Rainbow Twp","U","21822",21822,0,39,0,24650
+"570","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Ebeemee Twp","U","21853",21853,20,35,1,22103
+"571","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Elliottsville Twp","U","21080",21080,40,52,1,33399
+"572","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T5 R9 WELS","U","21854",21854,0,39,0,24734
+"573","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T10 R10 WELS","U","21886",21886,0,40,0,25689
+"574","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T6 R10 WELS","U","21859",21859,0,39,0,25120
+"575","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T6 R11 WELS","U","21860",21860,5,39,0,24994
+"576","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Mount Katahdin Twp","U","21818",21818,0,38,0,24048
+"577","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T7 R10 WELS","U","21867",21867,0,40,0,25458
+"578","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T7 R11 WELS","U","21868",21868,0,40,0,25528
+"579","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T3 R11 WELS","U","21842",21842,0,34,0,22054
+"580","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T3 R10 WELS","U","21841",21841,0,38,0,24092
+"581","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T7 R9 NWP","U","21865",21865,0,36,0,22870
+"582","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T7 R9 WELS","U","21866",21866,0,39,0,25001
+"583","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T10 R9 WELS","U","21885",21885,0,38,0,24296
+"584","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"TA R11 WELS","U","21829",21829,0,38,0,24590
+"585","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T8 R10 WELS","U","21874",21874,0,40,0,25610
+"586","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T9 R10 WELS","U","21879",21879,0,39,0,24872
+"587","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T2 R9 WELS","U","21837",21837,0,39,0,25226
+"588","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T8 R9 WELS","U","21873",21873,0,39,0,24950
+"589","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Barnard Twp","U","21030",21030,86,25,3,16197
+"590","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Frenchtown Twp","U","21809",21809,5,37,0,23774
+"591","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"TB R11 WELS","U","21831",21831,0,52,0,33260
+"592","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"TB R10 WELS","U","21830",21830,0,29,0,18531
+"593","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T10 R12 WELS","U","21888",21888,0,37,0,23687
+"594","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"Bowdoin College Grant East Twp","U","21802",21802,2,44,0,28277
+"595","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T4 R10 WELS","U","21847",21847,0,41,0,26005
+"596","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"TA R10 WELS","U","21828",21828,0,37,0,23612
+"597","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T9 R9 WELS","U","21878",21878,0,37,0,23579
+"598","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T1 R10 WELS","U","21834",21834,0,36,0,23281
+"599","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T1 R11 WELS","U","21835",21835,6,38,0,24174
+"600","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T1 R12 WELS","U","21836",21836,0,37,0,23446
+"601","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T1 R13 WELS","U","21814",21814,0,35,0,22683
+"602","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T9 R11 WELS","U","21880",21880,0,37,0,23968
+"603","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T2 R12 WELS","U","21839",21839,1,37,0,23718
+"604","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T4 R11 WELS","U","21848",21848,0,43,0,27367
+"605","060","23","Piscataquis","021","Northeast Piscataquis UT","51105",51105,"T2 R10 WELS","U","21838",21838,2,39,0,24902
+"606","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T6 R15 WELS","U","21864",21864,0,39,0,25009
+"607","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Lily Bay Twp","U","21815",21815,24,35,1,22522
+"608","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T7 R15 WELS","U","21872",21872,0,39,0,25037
+"609","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Lobster Twp","U","21817",21817,0,37,0,23890
+"610","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T7 R14 WELS","U","21871",21871,0,40,0,25401
+"611","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T7 R13 WELS","U","21870",21870,0,39,0,24891
+"612","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T7 R12 WELS","U","21869",21869,3,38,0,24613
+"613","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Soper Mountain Twp","U","21824",21824,0,37,0,23632
+"614","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T4 R12 WELS","U","21849",21849,0,42,0,26911
+"615","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Islands of Moosehead Lake","U","21000",21000,0,12,0,7800
+"616","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T4 R13 WELS","U","21850",21850,11,41,0,26270
+"617","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Northeast Carry Twp","U","21820",21820,2,39,0,25047
+"618","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Harfords Point Twp","U","21811",21811,27,1,27,394
+"619","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T4 R15 WELS","U","21852",21852,0,35,0,22691
+"620","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T6 R14 WELS","U","21863",21863,0,38,0,24640
+"621","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T6 R13 WELS","U","21862",21862,0,37,0,23752
+"622","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Cove Point Twp","U","21805",21805,1,1,0,75
+"623","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T6 R12 WELS","U","21861",21861,4,38,0,24317
+"624","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T5 R12 WELS","U","21856",21856,1,37,0,23984
+"625","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Days Academy Grant Twp","U","21806",21806,4,25,0,16259
+"626","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T5 R14 WELS","U","21857",21857,1,38,0,24056
+"627","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T5 R15 WELS","U","21858",21858,0,36,0,23052
+"628","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T4 R14 WELS","U","21851",21851,0,43,0,27364
+"629","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T8 R15 WELS","U","21877",21877,0,38,0,24241
+"630","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T9 R15 WELS","U","21884",21884,0,38,0,24271
+"631","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Big Moose Twp","U","21801",21801,17,34,0,22065
+"632","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T9 R14 WELS","U","21883",21883,0,37,0,23767
+"633","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T9 R13 WELS","U","21882",21882,0,38,0,24036
+"634","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T9 R12 WELS","U","21881",21881,0,36,0,23221
+"635","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T2 R13 WELS","U","21840",21840,7,36,0,23298
+"636","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"TX R14 WELS","U","21832",21832,0,10,0,6335
+"637","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Chesuncook Twp","U","21804",21804,0,37,0,23540
+"638","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T3 R13 WELS","U","21844",21844,0,39,0,24679
+"639","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Moosehead Junction Twp","U","21816",21816,56,39,1,24681
+"640","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Kineo Twp","U","21813",21813,0,2,0,1058
+"641","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T10 R14 WELS","U","21890",21890,0,36,0,23367
+"642","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Spencer Bay Twp","U","21825",21825,0,37,0,23796
+"643","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T10 R15 WELS","U","21891",21891,0,37,0,23667
+"644","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T8 R14 WELS","U","21876",21876,0,39,0,24735
+"645","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"Eagle Lake Twp","U","21807",21807,0,38,0,24613
+"646","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"East Middlesex Canal Grant Twp","U","21808",21808,0,38,0,24629
+"647","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T10 R13 WELS","U","21889",21889,0,37,0,23799
+"648","060","23","Piscataquis","021","Northwest Piscataquis UT","53628",53628,"T3 R12 WELS","U","21843",21843,1,37,0,23688
+"649","060","23","Piscataquis","021","Parkman town","56765",56765,"Parkman","T","21160",21160,811,46,18,29452
+"650","060","23","Piscataquis","021","Sangerville town","65865",65865,"Sangerville","T","21170",21170,1270,40,32,25396
+"651","060","23","Piscataquis","021","Sebec town","66950",66950,"Sebec","T","21180",21180,612,38,16,24191
+"652","060","23","Piscataquis","021","Shirley town","68140",68140,"Shirley","T","21190",21190,183,54,3,34624
+"653","060","23","Piscataquis","021","Southeast Piscataquis UT","70655",70655,"Orneville Twp","U","21821",21821,254,38,7,24419
+"654","060","23","Piscataquis","021","Wellington town","81405",81405,"Wellington","T","21200",21200,258,40,6,25536
+"655","060","23","Piscataquis","021","Willimantic town","85710",85710,"Willimantic","T","21210",21210,135,48,3,30640
+"656","060","23","Sagadahoc","023","Arrowsic town","01570",1570,"Arrowsic","T","23010",23010,477,8,60,5019
+"657","060","23","Sagadahoc","023","Bath city","03355",3355,"Bath","C","23020",23020,9266,9,1030,5878
+"658","060","23","Sagadahoc","023","Bowdoin town","06260",6260,"Bowdoin","T","23030",23030,2727,44,62,27869
+"659","060","23","Sagadahoc","023","Bowdoinham town","06365",6365,"Bowdoinham","T","23040",23040,2612,34,77,21960
+"660","060","23","Sagadahoc","023","Georgetown town","27295",27295,"Georgetown","T","23050",23050,1020,19,54,11926
+"661","060","23","Sagadahoc","023","Perkins UT","58070",58070,"Perkins Twp Swan Island","U","23801",23801,0,2,0,1481
+"662","060","23","Sagadahoc","023","Phippsburg town","58515",58515,"Phippsburg","T","23060",23060,2106,29,73,18668
+"663","060","23","Sagadahoc","023","Richmond town","62645",62645,"Richmond","T","23070",23070,3298,31,106,19762
+"664","060","23","Sagadahoc","023","Topsham town","76960",76960,"Topsham","T","23080",23080,9100,33,276,20852
+"665","060","23","Sagadahoc","023","West Bath town","81930",81930,"West Bath","T","23090",23090,1798,12,150,7694
+"666","060","23","Sagadahoc","023","Woolwich town","87460",87460,"Woolwich","T","23100",23100,2810,36,78,22921
+"667","060","23","Somerset","025","Anson town","01395",1395,"Anson","T","25010",25010,2583,48,54,30886
+"668","060","23","Somerset","025","Athens town","01885",1885,"Athens","T","25020",25020,847,44,19,27887
+"669","060","23","Somerset","025","Bingham town","05000",5000,"Bingham","T","25030",25030,989,35,28,22588
+"670","060","23","Somerset","025","Brighton plantation","07380",7380,"Brighton Plt","P","25040",25040,86,40,2,25307
+"671","060","23","Somerset","025","Cambridge town","09655",9655,"Cambridge","T","25050",25050,492,19,26,12392
+"672","060","23","Somerset","025","Canaan town","09935",9935,"Canaan","T","25060",25060,2017,42,48,26940
+"673","060","23","Somerset","025","Caratunk town","10495",10495,"Caratunk","T","25070",25070,108,55,2,35345
+"674","060","23","Somerset","025","Central Somerset UT","11820",11820,"Lexington Twp","U","25831",25831,175,41,4,25960
+"675","060","23","Somerset","025","Central Somerset UT","11820",11820,"Concord Twp","U","25818",25818,161,37,4,23834
+"676","060","23","Somerset","025","Cornville town","14555",14555,"Cornville","T","25080",25080,1208,41,29,26182
+"677","060","23","Somerset","025","Dennistown plantation","17285",17285,"Dennistown Plt","P","25090",25090,30,40,1,25815
+"678","060","23","Somerset","025","Detroit town","17460",17460,"Detroit","T","25100",25100,816,20,41,13055
+"1","060","23","Androscoggin","001","Auburn city","02060",2060,"Auburn","C","01010",1010,23203,66,352,42051
+"2","060","23","Androscoggin","001","Durham town","19105",19105,"Durham","T","01020",1020,3381,39,87,24972
+"3","060","23","Androscoggin","001","Greene town","29255",29255,"Greene","T","01030",1030,4076,35,116,22506
+"4","060","23","Androscoggin","001","Leeds town","38565",38565,"Leeds","T","01040",1040,2001,43,47,27785
+"5","060","23","Androscoggin","001","Lewiston city","38740",38740,"Lewiston","C","01050",1050,35690,36,991,22729
+"6","060","23","Androscoggin","001","Lisbon town","40035",40035,"Lisbon","T","01060",1060,9077,24,378,15240
+"7","060","23","Androscoggin","001","Livermore town","40665",40665,"Livermore","T","01070",1070,2106,39,54,25199
+"8","060","23","Androscoggin","001","Livermore Falls town","40770",40770,"Livermore Falls","T","01080",1080,3227,20,161,13062
+"9","060","23","Androscoggin","001","Mechanic Falls town","44585",44585,"Mechanic Falls","T","01090",1090,3138,11,285,7137
+"10","060","23","Androscoggin","001","Minot town","46160",46160,"Minot","T","01100",1100,2248,30,75,19036
+"11","060","23","Androscoggin","001","Poland town","60020",60020,"Poland","T","01110",1110,4866,47,104,30185
+"12","060","23","Androscoggin","001","Sabattus town","64570",64570,"Sabattus","T","01140",1140,4486,27,166,17194
+"13","060","23","Androscoggin","001","Turner town","77800",77800,"Turner","T","01120",1120,4972,63,79,40118
+"14","060","23","Androscoggin","001","Wales town","79585",79585,"Wales","T","01130",1130,1322,17,78,10782
+"15","060","23","Aroostook","003","Allagash town","00800",800,"Allagash","T","03010",3010,277,131,2,84041
+"16","060","23","Aroostook","003","Amity town","01220",1220,"Amity","T","03020",3020,199,42,5,26686
+"17","060","23","Aroostook","003","Ashland town","01710",1710,"Ashland","T","03030",3030,1474,81,18,52150
+"18","060","23","Aroostook","003","Bancroft town","02760",2760,"Bancroft","T","03040",3040,61,41,1,26216
+"19","060","23","Aroostook","003","Blaine town","05385",5385,"Blaine","T","03060",3060,806,19,42,11929
+"20","060","23","Aroostook","003","Bridgewater town","07065",7065,"Bridgewater","T","03070",3070,612,39,16,24926
+"21","060","23","Aroostook","003","Caribou city","10565",10565,"Caribou","C","03080",3080,8312,80,104,51226
+"22","060","23","Aroostook","003","Cary plantation","11020",11020,"Cary Plt","P","03090",3090,217,19,11,11998
+"23","060","23","Aroostook","003","Castle Hill town","11300",11300,"Castle Hill","T","03100",3100,454,36,13,23122
+"24","060","23","Aroostook","003","Caswell town","11335",11335,"Caswell","T","03110",3110,326,42,8,26584
+"25","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T8 R5 WELS","U","03823",3823,0,37,0,23948
+"26","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T8 R3 WELS","U","03822",3822,0,36,0,22989
+"27","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"Cox Patent","U","03803",3803,4,1,4,932
+"28","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T9 R5 WELS","U","03826",3826,1,38,0,24529
+"29","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T9 R3 WELS","U","03824",3824,0,38,0,24294
+"30","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T7 R5 WELS","U","03821",3821,0,38,0,24562
+"31","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"E Twp","U","03160",3160,53,21,3,13751
+"32","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T9 R4 WELS","U","03825",3825,0,38,0,24484
+"33","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"TC R2 WELS","U","03814",3814,0,39,0,24952
+"34","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T11 R4 WELS","U","03833",3833,19,41,0,26249
+"35","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"T10 R3 WELS","U","03829",3829,0,42,0,26576
+"36","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"Webbertown Twp","U","03812",3812,11,40,0,25737
+"37","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"Scopan Twp","U","03810",3810,0,41,0,26113
+"38","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"Saint Croix Twp","U","03808",3808,1,40,0,25465
+"39","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"Dudley Twp","U","03804",3804,0,37,0,23405
+"40","060","23","Aroostook","003","Central Aroostook UT","11785",11785,"TD R2 WELS","U","03815",3815,6,39,0,24689
+"41","060","23","Aroostook","003","Chapman town","12000",12000,"Chapman","T","03120",3120,465,39,12,24830
+"42","060","23","Aroostook","003","Connor UT","13900",13900,"Connor Twp","U","03802",3802,424,39,11,25217
+"43","060","23","Aroostook","003","Crystal town","15395",15395,"Crystal","T","03130",3130,285,40,7,25855
+"44","060","23","Aroostook","003","Cyr plantation","15990",15990,"Cyr Plt","P","03140",3140,117,38,3,24517
+"45","060","23","Aroostook","003","Dyer Brook town","19210",19210,"Dyer Brook","T","03150",3150,199,38,5,24636
+"46","060","23","Aroostook","003","Eagle Lake town","19420",19420,"Eagle Lake","T","03170",3170,815,39,21,25249
+"47","060","23","Aroostook","003","Easton town","21380",21380,"Easton","T","03180",3180,1249,39,32,24902
+"48","060","23","Aroostook","003","Fort Fairfield town","25615",25615,"Fort Fairfield","T","03190",3190,3579,78,46,50116
+"49","060","23","Aroostook","003","Fort Kent town","25755",25755,"Fort Kent","T","03200",3200,4233,55,77,35239
+"50","060","23","Aroostook","003","Frenchville town","26735",26735,"Frenchville","T","03210",3210,1225,29,42,18673
+"51","060","23","Aroostook","003","Garfield plantation","27120",27120,"Garfield Plt","P","03220",3220,86,39,2,24665
+"52","060","23","Aroostook","003","Glenwood plantation","27855",27855,"Glenwood Plt","P","03230",3230,0,39,0,25283
+"53","060","23","Aroostook","003","Grand Isle town","28590",28590,"Grand Isle","T","03240",3240,518,35,15,22625
+"54","060","23","Aroostook","003","Hamlin town","30690",30690,"Hamlin","T","03250",3250,257,24,11,15376
+"55","060","23","Aroostook","003","Hammond town","30725",30725,"Hammond","T","03260",3260,98,39,3,25193
+"56","060","23","Aroostook","003","Haynesville town","32195",32195,"Haynesville","T","03270",3270,122,42,3,26794
+"57","060","23","Aroostook","003","Hersey town","32685",32685,"Hersey","T","03280",3280,63,40,2,25494
+"58","060","23","Aroostook","003","Hodgdon town","33385",33385,"Hodgdon","T","03290",3290,1240,40,31,25566
+"59","060","23","Aroostook","003","Houlton town","33980",33980,"Houlton","T","03300",3300,6476,37,175,23487
+"60","060","23","Aroostook","003","Island Falls town","35065",35065,"Island Falls","T","03310",3310,793,41,19,26070
+"61","060","23","Aroostook","003","Limestone town","39300",39300,"Limestone","T","03320",3320,2361,41,58,26090
+"62","060","23","Aroostook","003","Linneus town","39965",39965,"Linneus","T","03330",3330,892,45,20,29082
+"63","060","23","Aroostook","003","Littleton town","40595",40595,"Littleton","T","03340",3340,955,38,25,24522
+"64","060","23","Aroostook","003","Ludlow town","41715",41715,"Ludlow","T","03350",3350,402,22,18,14084
+"65","060","23","Aroostook","003","Macwahoc plantation","42450",42450,"Macwahoc Plt","P","03360",3360,98,30,3,18931
+"66","060","23","Aroostook","003","Madawaska town","42520",42520,"Madawaska","T","03370",3370,4534,56,81,35912
+"67","060","23","Aroostook","003","Mapleton town","43255",43255,"Mapleton","T","03380",3380,1889,34,56,21964
+"68","060","23","Aroostook","003","Mars Hill town","43710",43710,"Mars Hill","T","03390",3390,1480,35,42,22519
+"69","060","23","Aroostook","003","Masardis town","43990",43990,"Masardis","T","03400",3400,255,40,6,25532
+"70","060","23","Aroostook","003","Merrill town","45180",45180,"Merrill","T","03410",3410,249,37,7,23904
+"71","060","23","Aroostook","003","Monticello town","46685",46685,"Monticello","T","03420",3420,790,38,21,24564
+"72","060","23","Aroostook","003","Moro plantation","47175",47175,"Moro Plt","P","03430",3430,63,37,2,23369
+"73","060","23","Aroostook","003","Nashville plantation","48120",48120,"Nashville Plt","P","03440",3440,55,36,2,22764
+"74","060","23","Aroostook","003","New Canada town","48575",48575,"New Canada","T","03450",3450,306,36,8,23259
+"75","060","23","Aroostook","003","New Limerick town","48960",48960,"New Limerick","T","03460",3460,523,20,26,12490
+"76","060","23","Aroostook","003","New Sweden town","49415",49415,"New Sweden","T","03470",3470,621,35,18,22129
+"77","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R14 WELS","U","03864",3864,0,37,0,23722
+"78","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R16 WELS","U","03854",3854,0,37,0,23421
+"79","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R17 WELS","U","03855",3855,0,38,0,24549
+"80","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R7 WELS","U","03845",3845,0,39,0,24736
+"81","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R14 WELS","U","03852",3852,0,37,0,23514
+"82","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R9 WELS","U","03847",3847,0,37,0,23772
+"83","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R12 WELS","U","03850",3850,0,37,0,23782
+"84","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R10 WELS","U","03860",3860,0,38,0,24289
+"85","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R11 WELS","U","03861",3861,0,37,0,23939
+"86","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R12 WELS","U","03862",3862,0,37,0,23566
+"87","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R13 WELS","U","03863",3863,0,37,0,23696
+"88","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R8 WELS","U","03846",3846,2,37,0,23626
+"89","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T10 R7 WELS","U","03831",3831,0,39,0,25099
+"90","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R12 WELS","U","03839",3839,0,37,0,23845
+"91","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R11 WELS","U","03838",3838,0,37,0,23840
+"92","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R14 WELS","U","03841",3841,1,37,0,23570
+"93","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R15 WELS","U","03842",3842,0,37,0,23644
+"94","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R10 WELS","U","03837",3837,0,40,0,25475
+"95","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R16 WELS","U","03843",3843,0,37,0,23678
+"96","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T16 R8 WELS","U","03892",3892,5,38,0,24038
+"97","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T10 R8 WELS","U","03832",3832,0,37,0,23820
+"98","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R7 WELS","U","03834",3834,0,42,0,26827
+"99","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R8 WELS","U","03835",3835,0,37,0,23883
+"100","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R9 WELS","U","03836",3836,0,38,0,24237
+"101","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R10 WELS","U","03848",3848,0,39,0,24751
+"102","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R11 WELS","U","03849",3849,0,37,0,23923
+"103","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R13 WELS","U","03840",3840,0,37,0,23903
+"104","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T10 R6 WELS","U","03830",3830,0,37,0,23888
+"105","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T11 R17 WELS","U","03844",3844,1,48,0,30649
+"106","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T17 R14 WELS","U","03902",3902,0,22,0,14181
+"107","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R8 WELS","U","03881",3881,0,35,0,22687
+"108","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R9 WELS","U","03882",3882,0,36,0,22826
+"109","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R13 WELS","U","03851",3851,0,37,0,23742
+"110","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T16 R12 WELS","U","03894",3894,0,36,0,23250
+"111","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T16 R13 WELS","U","03895",3895,0,37,0,23462
+"112","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T16 R14 WELS","U","03896",3896,0,47,0,30273
+"113","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T16 R9 WELS","U","03893",3893,0,38,0,24414
+"114","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R15 WELS","U","03888",3888,0,37,0,23397
+"115","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T17 R13 WELS","U","03901",3901,0,37,0,23614
+"116","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R14 WELS","U","03887",3887,0,37,0,23398
+"117","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T9 R8 WELS","U","03828",3828,0,37,0,23461
+"118","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T18 R10 WELS","U","03903",3903,0,45,0,28954
+"119","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T18 R11 WELS","U","03904",3904,0,37,0,23818
+"120","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T18 R12 WELS","U","03905",3905,0,37,0,23598
+"121","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T18 R13 WELS","U","03906",3906,0,34,0,21500
+"122","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T19 R11 WELS","U","03907",3907,2,45,0,28933
+"123","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T19 R12 WELS","U","03908",3908,0,44,0,28140
+"124","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T9 R7 WELS","U","03827",3827,0,37,0,23664
+"125","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T17 R12 WELS","U","03900",3900,0,37,0,23524
+"126","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R15 WELS","U","03877",3877,0,36,0,22957
+"127","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R16 WELS","U","03866",3866,0,52,0,33111
+"128","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R7 WELS","U","03857",3857,0,37,0,23666
+"129","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R8 WELS","U","03858",3858,0,37,0,23823
+"130","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R9 WELS","U","03859",3859,0,37,0,23375
+"131","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R10 WELS","U","03872",3872,0,38,0,24400
+"132","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R11 WELS","U","03873",3873,0,37,0,23895
+"133","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R12 WELS","U","03874",3874,0,36,0,23265
+"134","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"Big Twenty Twp","U","03801",3801,4,58,0,37062
+"135","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R14 WELS","U","03876",3876,0,36,0,23253
+"136","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T13 R15 WELS","U","03865",3865,0,37,0,23766
+"137","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R16 WELS","U","03878",3878,11,25,0,15999
+"138","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R7 WELS","U","03869",3869,0,40,0,25889
+"139","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R8 WELS","U","03870",3870,0,37,0,23730
+"140","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R9 WELS","U","03871",3871,0,37,0,23458
+"141","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R10 WELS","U","03883",3883,0,37,0,23866
+"142","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R11 WELS","U","03884",3884,0,37,0,23537
+"143","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R12 WELS","U","03885",3885,1,36,0,22886
+"144","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T15 R13 WELS","U","03886",3886,0,37,0,23597
+"145","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T14 R13 WELS","U","03875",3875,0,37,0,23785
+"146","060","23","Aroostook","003","Northwest Aroostook UT","53602",53602,"T12 R15 WELS","U","03853",3853,0,37,0,23634
+"147","060","23","Aroostook","003","Oakfield town","54385",54385,"Oakfield","T","03480",3480,732,36,20,22967
+"148","060","23","Aroostook","003","Orient town","55435",55435,"Orient","T","03490",3490,145,38,4,24089
+"149","060","23","Aroostook","003","Oxbow plantation","56205",56205,"Oxbow Plt","P","03500",3500,56,38,1,24482
+"150","060","23","Aroostook","003","Perham town","58060",58060,"Perham","T","03510",3510,434,37,12,23433
+"151","060","23","Aroostook","003","Portage Lake town","60300",60300,"Portage Lake","T","03520",3520,390,35,11,22100
+"152","060","23","Aroostook","003","Presque Isle city","60825",60825,"Presque Isle","C","03530",3530,9511,78,122,49633
+"153","060","23","Aroostook","003","Reed plantation","62400",62400,"Reed Plt","P","03540",3540,207,59,4,37858
+"154","060","23","Aroostook","003","St. Agatha town","64780",64780,"Saint Agatha","T","03550",3550,802,35,23,22593
+"155","060","23","Aroostook","003","St. Francis town","65025",65025,"Saint Francis","T","03560",3560,577,30,19,19415
+"156","060","23","Aroostook","003","St. John plantation","65200",65200,"Saint John Plt","P","03570",3570,282,51,6,32958
+"157","060","23","Aroostook","003","Sherman town","67790",67790,"Sherman","T","03580",3580,937,40,23,25920
+"158","060","23","Aroostook","003","Smyrna town","69260",69260,"Smyrna","T","03590",3590,415,35,12,22513
+"159","060","23","Aroostook","003","South Aroostook UT","69930",69930,"Forkstown Twp","U","03805",3805,11,32,0,20721
+"160","060","23","Aroostook","003","South Aroostook UT","69930",69930,"Benedicta Twp","U","03050",3050,228,20,11,12917
+"161","060","23","Aroostook","003","South Aroostook UT","69930",69930,"Upper Molunkus Twp","U","03811",3811,0,18,0,11682
+"162","060","23","Aroostook","003","South Aroostook UT","69930",69930,"T1 R5 WELS","U","03816",3816,36,40,1,25671
+"163","060","23","Aroostook","003","South Aroostook UT","69930",69930,"T2 R4 WELS","U","03817",3817,28,40,1,25799
+"164","060","23","Aroostook","003","South Aroostook UT","69930",69930,"Molunkus Twp","U","03806",3806,102,39,3,24935
+"165","060","23","Aroostook","003","South Aroostook UT","69930",69930,"TA R2 WELS","U","03813",3813,3,20,0,12942
+"166","060","23","Aroostook","003","South Aroostook UT","69930",69930,"T4 R3 WELS","U","03820",3820,6,40,0,25633
+"167","060","23","Aroostook","003","South Aroostook UT","69930",69930,"North Yarmouth Academy Grant Twp","U","03807",3807,4,19,0,12340
+"168","060","23","Aroostook","003","South Aroostook UT","69930",69930,"Silver Ridge Twp","U","03809",3809,68,19,4,12290
+"169","060","23","Aroostook","003","South Aroostook UT","69930",69930,"T3 R4 WELS","U","03819",3819,0,42,0,26610
+"170","060","23","Aroostook","003","South Aroostook UT","69930",69930,"T3 R3 WELS","U","03818",3818,0,38,0,24217
+"171","060","23","Aroostook","003","Square Lake UT","73472",73472,"T14 R5 WELS","U","03867",3867,0,43,0,27266
+"172","060","23","Aroostook","003","Square Lake UT","73472",73472,"T16 R6 WELS","U","03891",3891,31,35,1,22656
+"173","060","23","Aroostook","003","Square Lake UT","73472",73472,"T13 R5 WELS","U","03856",3856,0,41,0,26025
+"174","060","23","Aroostook","003","Square Lake UT","73472",73472,"T14 R6 WELS","U","03868",3868,7,37,0,23568
+"175","060","23","Aroostook","003","Square Lake UT","73472",73472,"T15 R5 WELS","U","03879",3879,0,42,0,26848
+"176","060","23","Aroostook","003","Square Lake UT","73472",73472,"T15 R6 WELS","U","03880",3880,0,36,0,22795
+"177","060","23","Aroostook","003","Square Lake UT","73472",73472,"Madawaska Lake Twp","U","03889",3889,134,36,4,23249
+"178","060","23","Aroostook","003","Square Lake UT","73472",73472,"T16 R5 WELS","U","03890",3890,60,42,1,27038
+"179","060","23","Aroostook","003","Square Lake UT","73472",73472,"T17 R4 WELS","U","03898",3898,223,36,6,23196
+"180","060","23","Aroostook","003","Square Lake UT","73472",73472,"Cross Lake Twp","U","03899",3899,128,43,3,27378
+"181","060","23","Aroostook","003","Square Lake UT","73472",73472,"T17 R3 WELS","U","03897",3897,32,35,1,22363
+"182","060","23","Aroostook","003","Stockholm town","74405",74405,"Stockholm","T","03600",3600,271,34,8,21915
+"183","060","23","Aroostook","003","Van Buren town","78570",78570,"Van Buren","T","03610",3610,2631,35,75,22300
+"184","060","23","Aroostook","003","Wade town","79270",79270,"Wade","T","03620",3620,250,36,7,23260
+"185","060","23","Aroostook","003","Wallagrass town","79865",79865,"Wallagrass","T","03630",3630,561,41,14,26097
+"186","060","23","Aroostook","003","Washburn town","80285",80285,"Washburn","T","03640",3640,1627,35,46,22348
+"187","060","23","Aroostook","003","Westfield town","82770",82770,"Westfield","T","03650",3650,559,40,14,25764
+"188","060","23","Aroostook","003","Westmanland town","83540",83540,"Westmanland","T","03660",3660,71,36,2,23312
+"189","060","23","Aroostook","003","Weston town","83785",83785,"Weston","T","03670",3670,203,41,5,25936
+"190","060","23","Aroostook","003","Winterville plantation","86865",86865,"Winterville Plt","P","03680",3680,196,39,5,24950
+"191","060","23","Aroostook","003","Woodland town","87215",87215,"Woodland","T","03690",3690,1403,35,40,22544
+"192","060","23","Cumberland","005","Baldwin town","02655",2655,"Baldwin","T","05010",5010,1290,36,36,23256
+"193","060","23","Cumberland","005","Bridgton town","07170",7170,"Bridgton","T","05020",5020,4883,67,73,42901
+"194","060","23","Cumberland","005","Brunswick town","08430",8430,"Brunswick","T","05030",5030,21172,47,450,30257
+"195","060","23","Cumberland","005","Cape Elizabeth town","10180",10180,"Cape Elizabeth","T","05040",5040,9068,15,605,9484
+"196","060","23","Cumberland","005","Casco town","11125",11125,"Casco","T","05050",5050,3469,38,91,24315
+"197","060","23","Cumberland","005","Cumberland town","15430",15430,"Cumberland","T","05060",5060,7159,26,275,16858
+"198","060","23","Cumberland","005","Falmouth town","24495",24495,"Falmouth","T","05070",5070,10310,30,344,19126
+"199","060","23","Cumberland","005","Freeport town","26525",26525,"Freeport","T","05080",5080,7800,35,223,22268
+"200","060","23","Cumberland","005","Frye Island town","27025",27025,"Frye Island","T","05085",5085,0,2,0,1017
+"201","060","23","Cumberland","005","Gorham town","28240",28240,"Gorham","T","05090",5090,14141,51,277,32806
+"202","060","23","Cumberland","005","Gray town","28870",28870,"Gray","T","05100",5100,6820,46,148,29421
+"203","060","23","Cumberland","005","Harpswell town","31390",31390,"Harpswell","T","05110",5110,5239,24,218,15281
+"204","060","23","Cumberland","005","Harrison town","31600",31600,"Harrison","T","05120",5120,2315,34,68,21743
+"205","060","23","Cumberland","005","Long Island town","41067",41067,"Long Island","T","05125",5125,202,1,202,938
+"206","060","23","Cumberland","005","Naples town","48085",48085,"Naples","T","05130",5130,3274,37,88,23829
+"207","060","23","Cumberland","005","New Gloucester town","48820",48820,"New Gloucester","T","05140",5140,4803,48,100,30579
+"208","060","23","Cumberland","005","North Yarmouth town","53860",53860,"North Yarmouth","T","05150",5150,3210,21,153,13697
+"209","060","23","Cumberland","005","Portland city","60545",60545,"Portland","C","05170",5170,64249,21,3059,13656
+"210","060","23","Cumberland","005","Pownal town","60685",60685,"Pownal","T","05180",5180,1491,23,65,14631
+"211","060","23","Cumberland","005","Raymond town","61945",61945,"Raymond","T","05190",5190,4299,45,96,28630
+"212","060","23","Cumberland","005","Scarborough town","66145",66145,"Scarborough","T","05200",5200,16970,48,354,30534
+"213","060","23","Cumberland","005","Sebago town","66775",66775,"Sebago","T","05210",5210,1433,49,29,31302
+"214","060","23","Cumberland","005","South Portland city","71990",71990,"South Portland","C","05220",5220,23324,12,1944,7730
+"215","060","23","Cumberland","005","Standish town","73670",73670,"Standish","T","05230",5230,9285,81,115,51554
+"216","060","23","Cumberland","005","Westbrook city","82105",82105,"Westbrook","C","05240",5240,16142,17,950,11088
+"217","060","23","Cumberland","005","Windham town","86025",86025,"Windham","T","05250",5250,14904,50,298,32080
+"218","060","23","Cumberland","005","Yarmouth town","87845",87845,"Yarmouth","T","05260",5260,8360,14,597,8646
+"219","060","23","Franklin","007","Avon town","02235",2235,"Avon","T","07010",7010,504,42,12,26637
+"220","060","23","Franklin","007","Carrabassett Valley town","10740",10740,"Carrabassett Valley","T","07018",7018,399,78,5,49648
+"221","060","23","Franklin","007","Carthage town","10915",10915,"Carthage","T","07020",7020,520,33,16,21406
+"222","060","23","Franklin","007","Chesterville town","12595",12595,"Chesterville","T","07030",7030,1170,38,31,24060
+"223","060","23","Franklin","007","Coplin plantation","14205",14205,"Coplin Plt","P","07040",7040,135,33,4,21138
+"224","060","23","Franklin","007","Dallas plantation","16165",16165,"Dallas Plt","P","07050",7050,250,40,6,25844
+"225","060","23","Franklin","007","East Central Franklin UT","19865",19865,"Mount Abram Twp","U","07817",7817,67,30,2,19293
+"226","060","23","Franklin","007","East Central Franklin UT","19865",19865,"Salem Twp","U","07820",7820,94,23,4,14898
+"227","060","23","Franklin","007","East Central Franklin UT","19865",19865,"Freeman Twp","U","07808",7808,365,34,11,21765
+"228","060","23","Franklin","007","East Central Franklin UT","19865",19865,"Redington Twp","U","07819",7819,0,42,0,26912
+"229","060","23","Franklin","007","Eustis town","24005",24005,"Eustis","T","07060",7060,685,41,17,26527
+"230","060","23","Franklin","007","Farmington town","24775",24775,"Farmington","T","07070",7070,7410,56,132,35706
+"231","060","23","Franklin","007","Industry town","34820",34820,"Industry","T","07080",7080,790,31,25,19813
+"232","060","23","Franklin","007","Jay town","35625",35625,"Jay","T","07090",7090,4985,49,102,31468
+"233","060","23","Franklin","007","Kingfield town","37025",37025,"Kingfield","T","07100",7100,1103,43,26,27682
+"234","060","23","Franklin","007","Madrid town","42765",42765,"Madrid Twp","U","07110",7110,173,42,4,26716
+"235","060","23","Franklin","007","New Sharon town","49345",49345,"New Sharon","T","07120",7120,1297,47,28,29949
+"236","060","23","Franklin","007","New Vineyard town","49520",49520,"New Vineyard","T","07130",7130,725,36,20,23164
+"237","060","23","Franklin","007","North Franklin UT","51400",51400,"Davis Twp","U","07806",7806,1,35,0,22369
+"238","060","23","Franklin","007","North Franklin UT","51400",51400,"Gorham Gore","U","07809",7809,0,14,0,9205
+"239","060","23","Franklin","007","North Franklin UT","51400",51400,"Tim Pond Twp","U","07825",7825,2,42,0,26618
+"240","060","23","Franklin","007","North Franklin UT","51400",51400,"Chain of Ponds Twp","U","07803",7803,0,43,0,27537
+"241","060","23","Franklin","007","North Franklin UT","51400",51400,"Coburn Gore","U","07804",7804,4,14,0,8758
+"242","060","23","Franklin","007","North Franklin UT","51400",51400,"Jim Pond Twp","U","07811",7811,2,38,0,24178
+"243","060","23","Franklin","007","North Franklin UT","51400",51400,"Kibby Twp","U","07812",7812,0,43,0,27483
+"244","060","23","Franklin","007","North Franklin UT","51400",51400,"Alder Stream Twp","U","07801",7801,7,38,0,24597
+"245","060","23","Franklin","007","North Franklin UT","51400",51400,"Lang Twp","U","07813",7813,19,35,1,22546
+"246","060","23","Franklin","007","North Franklin UT","51400",51400,"Beattie Twp","U","07802",7802,0,18,0,11294
+"247","060","23","Franklin","007","North Franklin UT","51400",51400,"Lowelltown Twp","U","07814",7814,0,38,0,24267
+"248","060","23","Franklin","007","North Franklin UT","51400",51400,"Skinner Twp","U","07822",7822,5,40,0,25451
+"249","060","23","Franklin","007","North Franklin UT","51400",51400,"Seven Ponds Twp","U","07821",7821,0,38,0,24444
+"250","060","23","Franklin","007","North Franklin UT","51400",51400,"Massachusetts Gore","U","07815",7815,0,15,0,9605
+"251","060","23","Franklin","007","North Franklin UT","51400",51400,"Stetsontown Twp","U","07823",7823,1,42,0,26876
+"252","060","23","Franklin","007","North Franklin UT","51400",51400,"Merrill Strip Twp","U","07816",7816,0,15,0,9553
+"253","060","23","Franklin","007","Phillips town","58445",58445,"Phillips","T","07140",7140,990,51,19,32614
+"254","060","23","Franklin","007","Rangeley town","61840",61840,"Rangeley","T","07150",7150,1052,56,19,35580
+"255","060","23","Franklin","007","Rangeley plantation","61875",61875,"Rangeley Plt","P","07160",7160,123,47,3,30393
+"256","060","23","Franklin","007","Sandy River plantation","65655",65655,"Sandy River Plt","P","07170",7170,93,35,3,22564
+"257","060","23","Franklin","007","South Franklin UT","70760",70760,"Perkins Twp","U","07818",7818,55,9,6,5484
+"258","060","23","Franklin","007","South Franklin UT","70760",70760,"Washington Twp","U","07827",7827,15,4,4,2482
+"259","060","23","Franklin","007","Strong town","74825",74825,"Strong","T","07180",7180,1259,29,43,18513
+"260","060","23","Franklin","007","Temple town","75980",75980,"Temple","T","07190",7190,572,36,16,22871
+"261","060","23","Franklin","007","Weld town","81300",81300,"Weld","T","07200",7200,402,63,6,40217
+"262","060","23","Franklin","007","West Central Franklin UT","82235",82235,"Township 6 North of Weld","U","07826",7826,0,44,0,28140
+"263","060","23","Franklin","007","West Central Franklin UT","82235",82235,"Township E","U","07807",7807,0,29,0,18469
+"264","060","23","Franklin","007","West Central Franklin UT","82235",82235,"Township D","U","07805",7805,0,32,0,20321
+"265","060","23","Franklin","007","Wilton town","85850",85850,"Wilton","T","07210",7210,4123,43,96,27391
+"266","060","23","Franklin","007","Wyman UT","87680",87680,"Wyman Twp","U","07828",7828,70,20,4,13068
+"267","060","23","Hancock","009","East Hancock UT","20405",20405,"T7 SD","U","09803",9803,14,23,1,14647
+"268","060","23","Hancock","009","Ellsworth city","23200",23200,"Ellsworth","C","09130",9130,6456,93,69,59487
+"269","060","23","Hancock","009","Franklin town","26350",26350,"Franklin","T","09140",9140,1370,38,36,24066
+"270","060","23","Hancock","009","Frenchboro town","26595",26595,"Frenchboro","T","09190",9190,38,5,8,3061
+"271","060","23","Hancock","009","Gouldsboro town","28450",28450,"Gouldsboro","T","09150",9150,1941,48,40,30457
+"272","060","23","Hancock","009","Great Pond town","28975",28975,"Great Pond","T","09160",9160,47,40,1,25511
+"273","060","23","Hancock","009","Hancock town","30970",30970,"Hancock","T","09170",9170,2147,30,72,19253
+"274","060","23","Hancock","009","Lamoine town","38180",38180,"Lamoine","T","09180",9180,1495,18,83,11504
+"275","060","23","Hancock","009","Mariaville town","43430",43430,"Mariaville","T","09200",9200,414,47,9,29950
+"276","060","23","Hancock","009","Mount Desert town","47630",47630,"Mount Desert","T","09210",9210,2109,39,54,24981
+"277","060","23","Hancock","009","Northwest Hancock UT","53620",53620,"T32 MD","U","09810",9810,4,41,0,26204
+"278","060","23","Hancock","009","Orland town","55505",55505,"Orland","T","09220",9220,2134,51,42,32802
+"279","060","23","Hancock","009","Osborn town","55855",55855,"Osborn","T","09230",9230,69,38,2,24330
+"280","060","23","Hancock","009","Otis town","55890",55890,"Otis","T","09240",9240,543,29,19,18277
+"281","060","23","Hancock","009","Penobscot town","57920",57920,"Penobscot","T","09250",9250,1344,41,33,26353
+"282","060","23","Hancock","009","Sedgwick town","67300",67300,"Sedgwick","T","09260",9260,1102,27,41,17492
+"283","060","23","Hancock","009","Sorrento town","69750",69750,"Sorrento","T","09270",9270,290,4,72,2554
+"284","060","23","Hancock","009","Southwest Harbor town","72865",72865,"Southwest Harbor","T","09280",9280,1966,14,140,8837
+"285","060","23","Hancock","009","Stonington town","74580",74580,"Stonington","T","09290",9290,1152,10,115,6204
+"286","060","23","Hancock","009","Sullivan town","74965",74965,"Sullivan","T","09300",9300,1185,28,42,17992
+"287","060","23","Hancock","009","Surry town","75280",75280,"Surry","T","09310",9310,1361,39,35,24889
+"288","060","23","Hancock","009","Swans Island town","75455",75455,"Swans Island","T","09320",9320,327,14,23,8858
+"289","060","23","Hancock","009","Tremont town","77345",77345,"Tremont","T","09330",9330,1529,17,90,11007
+"290","060","23","Hancock","009","Trenton town","77415",77415,"Trenton","T","09340",9340,1370,18,76,11664
+"291","060","23","Hancock","009","Verona town","78920",78920,"Verona Island","T","09350",9350,533,6,89,3989
+"292","060","23","Hancock","009","Waltham town","80040",80040,"Waltham","T","09360",9360,306,33,9,21039
+"293","060","23","Hancock","009","Winter Harbor town","86655",86655,"Winter Harbor","T","09370",9370,988,14,71,9245
+"294","060","23","Kennebec","011","Albion town","00590",590,"Albion","T","11010",11010,1946,39,50,25234
+"295","060","23","Kennebec","011","Augusta city","02100",2100,"Augusta","C","11020",11020,18560,58,320,36951
+"296","060","23","Kennebec","011","Belgrade town","04020",4020,"Belgrade","T","11030",11030,2978,58,51,37052
+"297","060","23","Kennebec","011","Benton town","04475",4475,"Benton","T","11040",11040,2557,29,88,18589
+"298","060","23","Kennebec","011","Chelsea town","12350",12350,"Chelsea","T","11050",11050,2559,20,128,12537
+"299","060","23","Kennebec","011","China town","12735",12735,"China","T","11060",11060,4106,57,72,36361
+"300","060","23","Kennebec","011","Clinton town","13470",13470,"Clinton","T","11070",11070,3340,45,74,28645
+"301","060","23","Kennebec","011","Farmingdale town","24670",24670,"Farmingdale","T","11080",11080,2804,11,255,7206
+"302","060","23","Kennebec","011","Fayette town","24950",24950,"Fayette","T","11090",11090,1040,31,34,20150
+"303","060","23","Kennebec","011","Gardiner city","27085",27085,"Gardiner","C","11100",11100,6198,16,387,10195
+"304","060","23","Kennebec","011","Hallowell city","30550",30550,"Hallowell","C","11110",11110,2467,6,411,3772
+"305","060","23","Kennebec","011","Litchfield town","40175",40175,"Litchfield","T","11120",11120,3110,40,78,25363
+"306","060","23","Kennebec","011","Manchester town","43080",43080,"Manchester","T","11130",11130,2465,23,107,14461
+"307","060","23","Kennebec","011","Monmouth town","46405",46405,"Monmouth","T","11140",11140,3785,39,97,24972
+"308","060","23","Kennebec","011","Mount Vernon town","47770",47770,"Mount Vernon","T","11150",11150,1524,43,35,27773
+"309","060","23","Kennebec","011","Oakland town","54560",54560,"Oakland","T","11160",11160,5959,28,213,18014
+"310","060","23","Kennebec","011","Pittston town","59110",59110,"Pittston","T","11170",11170,2548,32,80,20758
+"311","060","23","Kennebec","011","Randolph town","61700",61700,"Randolph","T","11180",11180,1911,2,956,1427
+"312","060","23","Kennebec","011","Readfield town","62190",62190,"Readfield","T","11190",11190,2360,31,76,19799
+"313","060","23","Kennebec","011","Rome town","63835",63835,"Rome","T","11200",11200,980,32,31,20287
+"314","060","23","Kennebec","011","Sidney town","68385",68385,"Sidney","T","11210",11210,3514,45,78,29104
+"315","060","23","Kennebec","011","Unity UT","78190",78190,"Unity Twp","U","11801",11801,31,10,3,6671
+"316","060","23","Kennebec","011","Vassalboro town","78745",78745,"Vassalboro","T","11220",11220,4047,48,84,30574
+"317","060","23","Kennebec","011","Vienna town","79025",79025,"Vienna","T","11230",11230,527,25,21,16271
+"318","060","23","Kennebec","011","Waterville city","80740",80740,"Waterville","C","11240",11240,15605,14,1115,8987
+"319","060","23","Kennebec","011","Wayne town","80880",80880,"Wayne","T","11250",11250,1112,26,43,16375
+"320","060","23","Kennebec","011","West Gardiner town","82945",82945,"West Gardiner","T","11260",11260,2902,27,107,17314
+"321","060","23","Kennebec","011","Windsor town","86165",86165,"Windsor","T","11270",11270,2204,35,63,22719
+"322","060","23","Kennebec","011","Winslow town","86515",86515,"Winslow","T","11280",11280,7743,39,199,24731
+"323","060","23","Kennebec","011","Winthrop town","86970",86970,"Winthrop","T","11290",11290,6232,38,164,24238
+"324","060","23","Knox","013","Appleton town","01465",1465,"Appleton","T","13010",13010,1271,33,39,21354
+"325","060","23","Knox","013","Camden town","09725",9725,"Camden","T","13020",13020,5254,19,277,12448
+"326","060","23","Knox","013","Criehaven UT","15125",15125,"Criehaven Twp","U","13801",13801,0,1,0,343
+"327","060","23","Knox","013","Cushing town","15780",15780,"Cushing","T","13030",13030,1322,19,70,12321
+"328","060","23","Knox","013","Friendship town","26805",26805,"Friendship","T","13040",13040,1204,14,86,9056
+"329","060","23","Knox","013","Hope town","33840",33840,"Hope","T","13050",13050,1310,24,55,15294
+"330","060","23","Knox","013","Isle au Haut town","35135",35135,"Isle au Haut","T","13060",13060,79,13,6,8054
+"331","060","23","Knox","013","Matinicus Isle plantation","44165",44165,"Matinicus Isle Plt","P","13070",13070,51,2,26,1543
+"332","060","23","Knox","013","North Haven town","51620",51620,"North Haven","T","13080",13080,381,12,32,7475
+"333","060","23","Knox","013","Owls Head town","56135",56135,"Owls Head","T","13090",13090,1601,9,178,5690
+"334","060","23","Knox","013","Rockland city","63590",63590,"Rockland","C","13100",13100,7609,13,585,8390
+"335","060","23","Knox","013","Rockport town","63660",63660,"Rockport","T","13110",13110,3209,23,140,14455
+"336","060","23","Knox","013","St. George town","65130",65130,"Saint George","T","13120",13120,2580,25,103,16028
+"337","060","23","Knox","013","South Thomaston town","72585",72585,"South Thomaston","T","13130",13130,1416,11,129,7313
+"338","060","23","Knox","013","Thomaston town","76365",76365,"Thomaston","T","13140",13140,3748,11,341,7058
+"339","060","23","Knox","013","Union town","78115",78115,"Union","T","13150",13150,2209,34,65,22055
+"340","060","23","Knox","013","Vinalhaven town","79130",79130,"Vinalhaven","T","13160",13160,1235,24,51,15198
+"341","060","23","Knox","013","Vinalhaven town","79130",79130,"Muscle Ridge Twp","U","13803",13803,0,1,0,597
+"342","060","23","Knox","013","Warren town","80215",80215,"Warren","T","13170",13170,3794,48,79,31011
+"343","060","23","Knox","013","Washington town","80425",80425,"Washington","T","13180",13180,1345,39,34,25065
+"344","060","23","Lincoln","015","Alna town","01010",1010,"Alna","T","15010",15010,675,21,32,13434
+"345","060","23","Lincoln","015","Boothbay town","06050",6050,"Boothbay","T","15020",15020,2960,22,135,14389
+"346","060","23","Lincoln","015","Boothbay Harbor town","06120",6120,"Boothbay Harbor","T","15030",15030,2334,6,389,3744
+"347","060","23","Lincoln","015","Bremen town","06855",6855,"Bremen","T","15040",15040,782,18,43,11642
+"348","060","23","Lincoln","015","Bristol town","07485",7485,"Bristol","T","15050",15050,2644,36,73,23155
+"349","060","23","Lincoln","015","Damariscotta town","16235",16235,"Damariscotta","T","15060",15060,2041,14,146,8844
+"350","060","23","Lincoln","015","Dresden town","18475",18475,"Dresden","T","15070",15070,1625,30,54,19487
+"351","060","23","Lincoln","015","Edgecomb town","22675",22675,"Edgecomb","T","15080",15080,1090,18,61,11643
+"352","060","23","Lincoln","015","Hibberts gore","32715",32715,"Hibberts Gore","U","15801",15801,1,1,1,481
+"353","060","23","Lincoln","015","Jefferson town","35695",35695,"Jefferson","T","15090",15090,2388,59,40,37461
+"354","060","23","Lincoln","015","Monhegan plantation","46335",46335,"Monhegan Island Plt","P","15100",15100,75,1,75,550
+"355","060","23","Lincoln","015","Newcastle town","48645",48645,"Newcastle","T","15110",15110,1748,30,58,19078
+"356","060","23","Lincoln","015","Nobleboro town","49660",49660,"Nobleboro","T","15120",15120,1626,23,71,14576
+"357","060","23","Lincoln","015","Somerville town","69645",69645,"Somerville","T","15130",15130,509,23,22,14588
+"358","060","23","Lincoln","015","South Bristol town","70240",70240,"South Bristol","T","15140",15140,897,13,69,8393
+"359","060","23","Lincoln","015","Southport town","71955",71955,"Southport","T","15150",15150,684,5,137,3460
+"360","060","23","Lincoln","015","Waldoboro town","79550",79550,"Waldoboro","T","15160",15160,4916,73,67,46537
+"361","060","23","Lincoln","015","Westport town","84135",84135,"Westport Island","T","15170",15170,745,9,83,5707
+"362","060","23","Lincoln","015","Whitefield town","85010",85010,"Whitefield","T","15180",15180,2273,47,48,30381
+"363","060","23","Lincoln","015","Wiscasset town","87075",87075,"Wiscasset","T","15190",15190,3603,25,144,15843
+"364","060","23","Oxford","017","Andover town","01325",1325,"Andover","T","17010",17010,864,57,15,36761
+"365","060","23","Oxford","017","Bethel town","04825",4825,"Bethel","T","17020",17020,2411,66,37,42170
+"366","060","23","Oxford","017","Brownfield town","08150",8150,"Brownfield","T","17030",17030,1251,45,28,29084
+"367","060","23","Oxford","017","Buckfield town","08710",8710,"Buckfield","T","17040",17040,1723,38,45,24161
+"368","060","23","Oxford","017","Byron town","09550",9550,"Byron","T","17050",17050,121,53,2,33627
+"369","060","23","Oxford","017","Canton town","10005",10005,"Canton","T","17060",17060,1121,30,37,19514
+"370","060","23","Oxford","017","Denmark town","17250",17250,"Denmark","T","17070",17070,1004,50,20,31949
+"371","060","23","Oxford","017","Dixfield town","17740",17740,"Dixfield","T","17080",17080,2514,42,60,26662
+"372","060","23","Oxford","017","Fryeburg town","26910",26910,"Fryeburg","T","17090",17090,3083,66,47,42155
+"373","060","23","Oxford","017","Gilead town","27505",27505,"Gilead","T","17100",17100,156,20,8,12585
+"374","060","23","Oxford","017","Greenwood town","29710",29710,"Greenwood","T","17110",17110,802,43,19,27563
+"375","060","23","Oxford","017","Hanover town","31110",31110,"Hanover","T","17120",17120,251,8,31,4832
+"376","060","23","Oxford","017","Hartford town","31670",31670,"Hartford","T","17130",17130,963,45,21,28835
+"377","060","23","Oxford","017","Hebron town","32370",32370,"Hebron","T","17140",17140,1053,23,46,14418
+"378","060","23","Oxford","017","Hiram town","33315",33315,"Hiram","T","17150",17150,1423,39,36,24869
+"379","060","23","Oxford","017","Lincoln plantation","39422",39422,"Lincoln Plt","P","17160",17160,46,37,1,23745
+"380","060","23","Oxford","017","Lovell town","41365",41365,"Lovell","T","17170",17170,974,48,20,30641
+"381","060","23","Oxford","017","Magalloway plantation","42835",42835,"Magalloway Plt","P","17180",17180,37,54,1,34608
+"382","060","23","Oxford","017","Mexico town","45285",45285,"Mexico","T","17190",17190,2959,24,123,15082
+"383","060","23","Oxford","017","Milton UT","46105",46105,"Milton Twp","U","17812",17812,123,15,8,9534
+"384","060","23","Oxford","017","Newry town","49275",49275,"Newry","T","17200",17200,344,62,6,39379
+"385","060","23","Oxford","017","North Oxford UT","52575",52575,"Andover West Surplus Twp","U","17804",17804,0,11,0,6914
+"386","060","23","Oxford","017","North Oxford UT","52575",52575,"Parkertown Twp","U","17814",17814,0,37,0,23960
+"387","060","23","Oxford","017","North Oxford UT","52575",52575,"Oxbow Twp","U","17813",17813,0,32,0,20500
+"388","060","23","Oxford","017","North Oxford UT","52575",52575,"Grafton Twp","U","17808",17808,0,53,0,34223
+"389","060","23","Oxford","017","North Oxford UT","52575",52575,"Andover North Surplus","U","17803",17803,0,26,0,16525
+"390","060","23","Oxford","017","North Oxford UT","52575",52575,"Bowmantown Twp","U","17806",17806,0,35,0,22249
+"391","060","23","Oxford","017","North Oxford UT","52575",52575,"Adamstown Twp","U","17801",17801,9,39,0,24724
+"392","060","23","Oxford","017","North Oxford UT","52575",52575,"Lower Cupsuptic Twp","U","17809",17809,3,34,0,21508
+"393","060","23","Oxford","017","North Oxford UT","52575",52575,"Lynchtown Twp","U","17810",17810,2,43,0,27370
+"394","060","23","Oxford","017","North Oxford UT","52575",52575,"C Surplus","U","17807",17807,0,18,0,11254
+"395","060","23","Oxford","017","North Oxford UT","52575",52575,"Upper Cupsuptic Twp","U","17819",17819,0,42,0,26892
+"396","060","23","Oxford","017","North Oxford UT","52575",52575,"Riley Twp","U","17817",17817,0,51,0,32474
+"397","060","23","Oxford","017","North Oxford UT","52575",52575,"Township C","U","17818",17818,3,43,0,27231
+"398","060","23","Oxford","017","North Oxford UT","52575",52575,"Parmachenee Twp","U","17815",17815,0,36,0,22985
+"399","060","23","Oxford","017","North Oxford UT","52575",52575,"Richardsontown Twp","U","17816",17816,0,48,0,30736
+"400","060","23","Oxford","017","Norway town","54000",54000,"Norway","T","17210",17210,4611,47,98,30280
+"401","060","23","Oxford","017","Otisfield town","55960",55960,"Otisfield","T","17217",17217,1560,44,35,28305
+"402","060","23","Oxford","017","Oxford town","56310",56310,"Oxford","T","17220",17220,3960,42,94,26785
+"403","060","23","Oxford","017","Paris town","56625",56625,"Paris","T","17230",17230,4793,41,117,26210
+"404","060","23","Oxford","017","Peru town","58270",58270,"Peru","T","17240",17240,1515,48,32,30450
+"405","060","23","Oxford","017","Porter town","60405",60405,"Porter","T","17250",17250,1438,33,44,21029
+"406","060","23","Oxford","017","Roxbury town","64185",64185,"Roxbury","T","17260",17260,384,44,9,28230
+"407","060","23","Oxford","017","Rumford town","64290",64290,"Rumford","T","17270",17270,6472,70,92,44686
+"408","060","23","Oxford","017","South Oxford UT","71755",71755,"Batchelders Grant Twp","U","17805",17805,0,23,0,15020
+"409","060","23","Oxford","017","South Oxford UT","71755",71755,"Albany Twp","U","17802",17802,422,51,8,32623
+"410","060","23","Oxford","017","South Oxford UT","71755",71755,"Mason Twp","U","17811",17811,93,23,4,14918
+"411","060","23","Oxford","017","Stoneham town","74510",74510,"Stoneham","T","17280",17280,255,35,7,22125
+"412","060","23","Oxford","017","Stow town","74685",74685,"Stow","T","17290",17290,288,24,12,15577
+"413","060","23","Oxford","017","Sumner town","75035",75035,"Sumner","T","17300",17300,854,45,19,28703
+"414","060","23","Oxford","017","Sweden town","75595",75595,"Sweden","T","17310",17310,324,30,11,19029
+"415","060","23","Oxford","017","Upton town","78465",78465,"Upton","T","17320",17320,62,42,1,26767
+"416","060","23","Oxford","017","Waterford town","80635",80635,"Waterford","T","17330",17330,1455,53,27,33977
+"417","060","23","Oxford","017","West Paris town","83890",83890,"West Paris","T","17340",17340,1722,24,72,15610
+"418","060","23","Oxford","017","Woodstock town","87355",87355,"Woodstock","T","17350",17350,1307,47,28,29991
+"419","060","23","Penobscot","019","Alton town","01115",1115,"Alton","T","19010",19010,816,43,19,27216
+"420","060","23","Penobscot","019","Argyle UT","01500",1500,"Argyle Twp","U","19801",19801,253,29,9,18409
+"421","060","23","Penobscot","019","Bangor city","02795",2795,"Bangor","C","19020",19020,31473,34,926,21906
+"422","060","23","Penobscot","019","Bradford town","06575",6575,"Bradford","T","19030",19030,1186,41,29,26337
+"423","060","23","Penobscot","019","Bradley town","06680",6680,"Bradley","T","19040",19040,1242,51,24,32396
+"424","060","23","Penobscot","019","Brewer city","06925",6925,"Brewer","C","19050",19050,8987,15,599,9746
+"425","060","23","Penobscot","019","Burlington town","09200",9200,"Burlington","T","19060",19060,351,56,6,35973
+"426","060","23","Penobscot","019","Carmel town","10670",10670,"Carmel","T","19070",19070,2416,37,65,23594
+"427","060","23","Penobscot","019","Carroll plantation","10810",10810,"Carroll Plt","P","19080",19080,144,44,3,28223
+"428","060","23","Penobscot","019","Charleston town","12105",12105,"Charleston","T","19090",19090,1397,41,34,25941
+"429","060","23","Penobscot","019","Chester town","12525",12525,"Chester","T","19100",19100,525,47,11,30326
+"430","060","23","Penobscot","019","Clifton town","13365",13365,"Clifton","T","19110",19110,743,36,21,22959
+"431","060","23","Penobscot","019","Corinna town","14310",14310,"Corinna","T","19120",19120,2145,39,55,25230
+"432","060","23","Penobscot","019","Corinth town","14380",14380,"Corinth","T","19130",19130,2511,40,63,25752
+"433","060","23","Penobscot","019","Dexter town","17530",17530,"Dexter","T","19140",19140,3890,37,105,23759
+"434","060","23","Penobscot","019","Dixmont town","17950",17950,"Dixmont","T","19150",19150,1065,36,30,23299
+"435","060","23","Penobscot","019","Drew plantation","18580",18580,"Drew Plt","P","19160",19160,57,39,1,25011
+"436","060","23","Penobscot","019","East Central Penobscot UT","19868",19868,"Grand Falls Twp","U","19250",19250,60,40,2,25415
+"437","060","23","Penobscot","019","East Central Penobscot UT","19868",19868,"Greenfield Twp","U","19270",19270,264,38,7,24152
+"438","060","23","Penobscot","019","East Central Penobscot UT","19868",19868,"Summit Twp","U","19812",19812,0,38,0,24470
+"439","060","23","Penobscot","019","East Millinocket town","21030",21030,"East Millinocket","T","19170",19170,1828,8,228,5066
+"440","060","23","Penobscot","019","Eddington town","22535",22535,"Eddington","T","19180",19180,2052,26,79,16960
+"441","060","23","Penobscot","019","Edinburg town","22710",22710,"Edinburg","T","19190",19190,98,36,3,23211
+"442","060","23","Penobscot","019","Enfield town","23620",23620,"Enfield","T","19200",19200,1616,34,48,21655
+"443","060","23","Penobscot","019","Etna town","23865",23865,"Etna","T","19210",19210,1012,25,40,15967
+"444","060","23","Penobscot","019","Exeter town","24110",24110,"Exeter","T","19220",19220,997,39,26,24676
+"445","060","23","Penobscot","019","Garland town","27190",27190,"Garland","T","19230",19230,990,38,26,24262
+"446","060","23","Hancock","009","Amherst town","01185",1185,"Amherst","T","09010",9010,230,40,6,25340
+"447","060","23","Hancock","009","Aurora town","02165",2165,"Aurora","T","09020",9020,121,39,3,25099
+"448","060","23","Hancock","009","Bar Harbor town","02865",2865,"Bar Harbor","T","09030",9030,4820,43,112,27733
+"449","060","23","Hancock","009","Blue Hill town","05700",5700,"Blue Hill","T","09040",9040,2390,64,37,41002
+"450","060","23","Hancock","009","Brooklin town","07800",7800,"Brooklin","T","09050",9050,841,18,47,11424
+"451","060","23","Hancock","009","Brooksville town","07975",7975,"Brooksville","T","09060",9060,911,33,28,20872
+"452","060","23","Hancock","009","Bucksport town","08815",8815,"Bucksport","T","09070",9070,4908,54,91,34482
+"453","060","23","Hancock","009","Castine town","11265",11265,"Castine","T","09080",9080,1343,8,168,5009
+"454","060","23","Hancock","009","Central Hancock UT","11800",11800,"Fletchers Landing Twp","U","09804",9804,138,16,9,10282
+"455","060","23","Hancock","009","Cranberry Isles town","14905",14905,"Cranberry Isles","T","09090",9090,128,3,43,1990
+"456","060","23","Hancock","009","Dedham town","16935",16935,"Dedham","T","09100",9100,1422,44,32,28380
+"457","060","23","Hancock","009","Deer Isle town","17145",17145,"Deer Isle","T","09110",9110,1876,30,63,18894
+"458","060","23","Hancock","009","Eastbrook town","19770",19770,"Eastbrook","T","09120",9120,370,38,10,24078
+"459","060","23","Hancock","009","East Hancock UT","20405",20405,"T41 MD","U","09815",9815,0,39,0,24659
+"460","060","23","Hancock","009","East Hancock UT","20405",20405,"T40 MD","U","09814",9814,0,39,0,24944
+"461","060","23","Hancock","009","East Hancock UT","20405",20405,"T35 MD","U","09812",9812,2,39,0,24703
+"462","060","23","Hancock","009","East Hancock UT","20405",20405,"T34 MD","U","09811",9811,0,37,0,23371
+"463","060","23","Hancock","009","East Hancock UT","20405",20405,"T39 MD","U","09813",9813,4,39,0,25129
+"464","060","23","Hancock","009","East Hancock UT","20405",20405,"Oqiton Twp","U","09802",9802,0,51,0,32852
+"465","060","23","Hancock","009","East Hancock UT","20405",20405,"T3 ND","U","09801",9801,5,52,0,33316
+"466","060","23","Hancock","009","East Hancock UT","20405",20405,"T9 SD","U","09805",9805,2,9,0,6004
+"467","060","23","Hancock","009","East Hancock UT","20405",20405,"T16 MD","U","09807",9807,0,38,0,24395
+"468","060","23","Hancock","009","East Hancock UT","20405",20405,"T10 SD","U","09806",9806,26,39,1,25157
+"469","060","23","Hancock","009","East Hancock UT","20405",20405,"T28 MD","U","09809",9809,7,37,0,23617
+"470","060","23","Hancock","009","East Hancock UT","20405",20405,"T22 MD","U","09808",9808,13,38,0,24600
+"471","060","23","Penobscot","019","Glenburn town","27645",27645,"Glenburn","T","19240",19240,3964,29,137,18640
+"472","060","23","Penobscot","019","Greenbush town","29185",29185,"Greenbush","T","19260",19260,1421,47,30,30090
+"473","060","23","Penobscot","019","Hampden town","30795",30795,"Hampden","T","19280",19280,6327,38,166,24378
+"474","060","23","Penobscot","019","Hermon town","32510",32510,"Hermon","T","19290",19290,4437,37,120,23535
+"475","060","23","Penobscot","019","Holden town","33490",33490,"Holden","T","19300",19300,2827,32,88,20804
+"476","060","23","Penobscot","019","Howland town","34190",34190,"Howland","T","19310",19310,1362,36,38,23304
+"477","060","23","Penobscot","019","Hudson town","34365",34365,"Hudson","T","19320",19320,1393,40,35,25596
+"478","060","23","Penobscot","019","Kenduskeag town","36325",36325,"Kenduskeag","T","19330",19330,1171,17,69,10714
+"479","060","23","Penobscot","019","Kingman UT","37075",37075,"Kingman Twp","U","19808",19808,213,25,9,16202
+"480","060","23","Penobscot","019","Lagrange town","37760",37760,"Lagrange","T","19340",19340,747,49,15,31663
+"481","060","23","Penobscot","019","Lakeville town","38005",38005,"Lakeville","T","19350",19350,63,66,1,42076
+"482","060","23","Penobscot","019","Lee town","38530",38530,"Lee","T","19360",19360,845,40,21,25429
+"483","060","23","Penobscot","019","Levant town","38705",38705,"Levant","T","19370",19370,2171,30,72,19229
+"484","060","23","Penobscot","019","Lincoln town","39475",39475,"Lincoln","T","19380",19380,5221,76,69,48682
+"485","060","23","Penobscot","019","Lowell town","41435",41435,"Lowell","T","19390",19390,291,40,7,25725
+"486","060","23","Penobscot","019","Mattawamkeag town","44270",44270,"Mattawamkeag","T","19400",19400,825,38,22,24605
+"487","060","23","Penobscot","019","Maxfield town","44340",44340,"Maxfield","T","19410",19410,87,19,5,12281
+"488","060","23","Penobscot","019","Medway town","45005",45005,"Medway","T","19420",19420,1489,43,35,27790
+"489","060","23","Penobscot","019","Milford town","45670",45670,"Milford","T","19430",19430,2950,46,64,29524
+"490","060","23","Penobscot","019","Millinocket town","45810",45810,"Millinocket","T","19440",19440,5203,18,289,11648
+"491","060","23","Penobscot","019","Mount Chase town","47560",47560,"Mount Chase","T","19450",19450,247,38,6,24123
+"492","060","23","Penobscot","019","Newburgh town","48505",48505,"Newburgh","T","19460",19460,1394,31,45,19846
+"493","060","23","Penobscot","019","Newport town","49065",49065,"Newport","T","19470",19470,3017,37,82,23644
+"494","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T3 R7 WELS","U","19821",19821,6,41,0,26046
+"495","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T4 Indian Purchase Twp","U","19807",19807,67,43,2,27678
+"496","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T1 R6 WELS","U","19815",19815,9,40,0,25400
+"497","060","23","Penobscot","019","North Penobscot UT","52710",52710,"Long A Twp","U","19809",19809,15,38,0,24125
+"498","060","23","Penobscot","019","North Penobscot UT","52710",52710,"TA R7 WELS","U","19814",19814,15,21,1,13194
+"499","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T4 R7 WELS","U","19824",19824,0,40,0,25864
+"500","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T3 R8 WELS","U","19822",19822,4,39,0,24779
+"501","060","23","Penobscot","019","North Penobscot UT","52710",52710,"Veazie Gore","U","19813",19813,0,2,0,1206
+"502","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T3 Indian Purchase Twp","U","19806",19806,124,32,4,20389
+"503","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T1 R8 WELS","U","19816",19816,18,29,1,18516
+"504","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T2 R9 NWP","U","19819",19819,0,57,0,36441
+"505","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T2 R8 WELS","U","19818",19818,0,41,0,26504
+"506","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T2 R8 NWP","U","19817",19817,1,30,0,19191
+"507","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T3 R9 NWP","U","19823",19823,0,58,0,37326
+"508","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T6 R8 WELS","U","19831",19831,4,38,0,24182
+"509","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T8 R8 WELS","U","19837",19837,0,37,0,23928
+"510","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T8 R7 WELS","U","19836",19836,9,37,0,23734
+"511","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T8 R6 WELS","U","19835",19835,2,38,0,24234
+"512","060","23","Penobscot","019","North Penobscot UT","52710",52710,"Herseytown Twp","U","19803",19803,43,41,1,26427
+"513","060","23","Penobscot","019","North Penobscot UT","52710",52710,"Mattamiscontis Twp","U","19810",19810,30,15,2,9650
+"514","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T7 R8 WELS","U","19834",19834,0,38,0,24086
+"515","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T7 R6 WELS","U","19832",19832,0,37,0,23863
+"516","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T4 R8 WELS","U","19825",19825,0,38,0,24572
+"517","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T6 R7 WELS","U","19830",19830,0,36,0,22805
+"518","060","23","Penobscot","019","North Penobscot UT","52710",52710,"T6 R6 WELS","U","19829",19829,0,35,0,22089
+"519","060","23","Penobscot","019","North Penobscot UT","52710",52710,"Hopkins Academy Grant Twp","U","19804",19804,0,23,0,14814
+"846","060","23","Washington","029","Northfield town","51375",51375,"Northfield","T","29320",29320,131,46,3,29320
+"847","060","23","Washington","029","North Washington UT","53500",53500,"T11 R3 NBPP","U","29817",29817,19,15,1,9852
+"848","060","23","Washington","029","North Washington UT","53500",53500,"T18 MD BPP","U","29819",29819,10,35,0,22532
+"849","060","23","Washington","029","North Washington UT","53500",53500,"Fowler Twp","U","29807",29807,22,29,1,18650
+"850","060","23","Washington","029","North Washington UT","53500",53500,"T19 MD BPP","U","29821",29821,4,26,0,16475
+"851","060","23","Washington","029","North Washington UT","53500",53500,"Forest Twp","U","29805",29805,20,43,0,27752
+"852","060","23","Washington","029","North Washington UT","53500",53500,"Brookton Twp","U","29801",29801,144,39,4,24887
+"853","060","23","Washington","029","North Washington UT","53500",53500,"Forest City Twp","U","29806",29806,29,10,3,6344
+"854","060","23","Washington","029","North Washington UT","53500",53500,"Devereaux Twp","U","29802",29802,6,39,0,24681
+"855","060","23","Washington","029","North Washington UT","53500",53500,"T8 R4 NBPP","U","29816",29816,0,29,0,18516
+"856","060","23","Washington","029","North Washington UT","53500",53500,"T8 R3 NBPP","U","29815",29815,0,36,0,23245
+"857","060","23","Washington","029","North Washington UT","53500",53500,"T6 R1 NBPP","U","29814",29814,2,36,0,23193
+"858","060","23","Washington","029","North Washington UT","53500",53500,"T6 ND BPP","U","29813",29813,2,48,0,30817
+"859","060","23","Washington","029","North Washington UT","53500",53500,"Sakom Twp","U","29812",29812,0,49,0,31312
+"860","060","23","Washington","029","North Washington UT","53500",53500,"T43 MD BPP","U","29831",29831,0,38,0,24294
+"861","060","23","Washington","029","North Washington UT","53500",53500,"Kossuth Twp","U","29808",29808,11,51,0,32830
+"862","060","23","Washington","029","North Washington UT","53500",53500,"T42 MD BPP","U","29830",29830,0,37,0,23921
+"863","060","23","Washington","029","North Washington UT","53500",53500,"Lambert Lake Twp","U","29809",29809,77,38,2,24591
+"864","060","23","Washington","029","North Washington UT","53500",53500,"T37 MD BPP","U","29829",29829,0,40,0,25745
+"865","060","23","Washington","029","North Washington UT","53500",53500,"T36 MD BPP","U","29828",29828,3,38,0,24418
+"866","060","23","Washington","029","North Washington UT","53500",53500,"Dyer Twp","U","29803",29803,5,36,0,22769
+"867","060","23","Washington","029","North Washington UT","53500",53500,"Day Block Twp","U","29827",29827,9,39,0,25178
+"868","060","23","Washington","029","North Washington UT","53500",53500,"Big Lake Twp","U","29340",29340,132,39,3,25077
+"869","060","23","Washington","029","North Washington UT","53500",53500,"Greenlaw Chopping Twp","U","29825",29825,38,38,1,24438
+"870","060","23","Washington","029","North Washington UT","53500",53500,"T26 ED BPP","U","29824",29824,1,29,0,18445
+"871","060","23","Washington","029","North Washington UT","53500",53500,"T24 MD BPP","U","29822",29822,9,39,0,25069
+"872","060","23","Washington","029","North Washington UT","53500",53500,"T25 MD BPP","U","29823",29823,0,37,0,23491
+"873","060","23","Washington","029","North Washington UT","53500",53500,"T30 MD BPP","U","29826",29826,4,38,0,24545
+"874","060","23","Washington","029","Passamaquoddy Indian Township Reservation","57082",57082,"Indian Twp Res","R","29832",29832,676,45,15,28668
+"875","060","23","Washington","029","Passamaquoddy Pleasant Point Reservation","57090",57090,"Pleasant Point","R","29480",29480,640,1,640,112
+"876","060","23","Washington","029","Pembroke town","57780",57780,"Pembroke","T","29350",29350,879,28,31,17784
+"877","060","23","Washington","029","Perry town","58165",58165,"Perry","T","29360",29360,847,32,26,20501
+"878","060","23","Washington","029","Princeton town","61035",61035,"Princeton","T","29370",29370,892,42,21,26734
+"879","060","23","Washington","029","Robbinston town","63275",63275,"Robbinston","T","29380",29380,525,29,18,18840
+"880","060","23","Washington","029","Roque Bluffs town","63940",63940,"Roque Bluffs","T","29390",29390,264,11,24,6838
+"881","060","23","Washington","029","Steuben town","74125",74125,"Steuben","T","29400",29400,1126,43,26,27739
+"882","060","23","Washington","029","Talmadge town","75770",75770,"Talmadge","T","29410",29410,70,39,2,24984
+"883","060","23","Washington","029","Topsfield town","76895",76895,"Topsfield","T","29420",29420,225,55,4,35383
+"884","060","23","Washington","029","Vanceboro town","78675",78675,"Vanceboro","T","29430",29430,147,22,7,14330
+"885","060","23","Washington","029","Waite town","79375",79375,"Waite","T","29440",29440,105,44,2,28174
+"886","060","23","Washington","029","Wesley town","81685",81685,"Wesley","T","29450",29450,114,51,2,32389
+"887","060","23","Washington","029","Whiting town","85185",85185,"Whiting","T","29460",29460,430,51,8,32961
+"888","060","23","Washington","029","Whitneyville town","85290",85290,"Whitneyville","T","29470",29470,262,15,17,9722
+"889","060","23","York","031","Acton town","00275",275,"Acton","T","31010",31010,2145,41,52,26402
+"890","060","23","York","031","Alfred town","00730",730,"Alfred","T","31020",31020,2497,28,89,17859
+"891","060","23","York","031","Arundel town","01605",1605,"Arundel","T","31030",31030,3571,24,149,15259
+"892","060","23","York","031","Berwick town","04720",4720,"Berwick","T","31040",31040,6353,38,167,24220
+"893","060","23","York","031","Biddeford city","04860",4860,"Biddeford","C","31050",31050,20942,30,698,19453
+"894","060","23","York","031","Buxton town","09410",9410,"Buxton","T","31060",31060,7452,41,182,26379
+"895","060","23","York","031","Cornish town","14485",14485,"Cornish","T","31070",31070,1269,22,58,14313
+"896","060","23","York","031","Dayton town","16725",16725,"Dayton","T","31080",31080,1805,18,100,11770
+"897","060","23","York","031","Eliot town","22955",22955,"Eliot","T","31090",31090,5954,20,298,12756
+"898","060","23","York","031","Hollis town","33665",33665,"Hollis","T","31100",31100,4114,33,125,21108
+"899","060","23","York","031","Kennebunk town","36535",36535,"Kennebunk","T","31110",31110,10476,35,299,22721
+"900","060","23","York","031","Kennebunkport town","36745",36745,"Kennebunkport","T","31120",31120,3720,21,177,13129
+"901","060","23","York","031","Kittery town","37270",37270,"Kittery","T","31130",31130,9543,18,530,11531
+"902","060","23","York","031","Lebanon town","38425",38425,"Lebanon","T","31140",31140,5083,56,91,35625
+"903","060","23","York","031","Limerick town","39195",39195,"Limerick","T","31150",31150,2240,28,80,18071
+"904","060","23","York","031","Limington town","39405",39405,"Limington","T","31160",31160,3403,43,79,27693
+"905","060","23","York","031","Lyman town","41750",41750,"Lyman","T","31170",31170,3795,40,95,25904
+"906","060","23","York","031","Newfield town","48750",48750,"Newfield","T","31180",31180,1328,33,40,21394
+"907","060","23","York","031","North Berwick town","50325",50325,"North Berwick","T","31190",31190,4293,38,113,24414
+"908","060","23","York","031","Ogunquit town","54980",54980,"Ogunquit","T","31197",31197,1226,4,306,2690
+"909","060","23","York","031","Old Orchard Beach town","55085",55085,"Old Orchard Beach","T","31200",31200,8856,8,1107,4812
+"910","060","23","York","031","Parsonsfield town","56870",56870,"Parsonsfield","T","31210",31210,1584,60,26,38336
+"911","060","23","York","031","Saco city","64675",64675,"Saco","C","31220",31220,16822,39,431,24888
+"912","060","23","York","031","Sanford town","65760",65760,"Sanford","T","31230",31230,20806,49,425,31194
+"913","060","23","York","031","Shapleigh town","67475",67475,"Shapleigh","T","31240",31240,2326,41,57,26353
+"914","060","23","York","031","South Berwick town","70030",70030,"South Berwick","T","31250",31250,6671,32,208,20704
+"915","060","23","York","031","Waterboro town","80530",80530,"Waterboro","T","31260",31260,6214,57,109,36571
+"916","060","23","York","031","Wells town","81475",81475,"Wells","T","31270",31270,9400,57,165,36532
+"917","060","23","York","031","York town","87985",87985,"York","T","31280",31280,12854,56,230,35586
+"922",,"07","Franklin","007",,,,"Franklin County Island",,"07000",7000,,,,
+"923",,"09","Hancock","009",,,,"Hancock County Island",,"09000",9000,,,,
+"924",,"11","Kennebec","011",,,,"Kennebec County Island",,"11000",11000,,,,
+"925",,"13","Knox","013",,,,"Knox County Island",,"13000",13000,,,,
+"926",,"15","Lincoln","015",,,,"Lincoln County Island",,"15000",15000,,,,
+"927",,"17","Oxford","017",,,,"Oxford County Island",,"17000",17000,,,,
+"928",,"19","Penobscot","019",,,,"Penobscot County Island",,"19000",19000,,,,
+"929",,"21","Piscataquis","021",,,,"Piscataquis County Island",,"21000",21000,,,,
+"930",,"23","Sagadahoc","023",,,,"Sagadahoc County Island",,"23000",23000,,,,
+"931",,"25","Somerset","025",,,,"Somerset County Island",,"25000",25000,,,,
+"932",,"27","Waldo","027",,,,"Waldo County Island",,"27000",27000,,,,
+"933",,"29","Washington","029",,,,"Washington County Island",,"29000",29000,,,,
+"934",,"31","York","031",,,,"York County Island",,"31000",31000,,,,
+"918",,"01","Androscoggin","001",,,,"Androscoggin County Island",,"01000",1000,,,,
+"919",,"03","Aroostook","003",,,,"Aroostook County Island",,"03000",3000,,,,
+"920",,"05","Cumberland","005",,,,"Cumberland County Island",,"05000",5000,,,,
+"921",,"05","Cumberland","005",,,,"Chebeague Island",,"05055",5055,,,,
+"679","060","23","Somerset","025","Embden town","23410",23410,"Embden","T","25110",25110,881,43,20,27815
+"680","060","23","Somerset","025","Fairfield town","24320",24320,"Fairfield","T","25120",25120,6573,55,120,34908
+"681","060","23","Somerset","025","Harmony town","31355",31355,"Harmony","T","25130",25130,954,40,24,25785
+"682","060","23","Somerset","025","Hartland town","31740",31740,"Hartland","T","25140",25140,1816,43,42,27471
+"683","060","23","Somerset","025","Highland plantation","32895",32895,"Highland Plt","P","25150",25150,52,42,1,26997
+"684","060","23","Somerset","025","Jackman town","35345",35345,"Jackman","T","25160",25160,718,42,17,27134
+"685","060","23","Somerset","025","Madison town","42660",42660,"Madison","T","25170",25170,4523,55,82,35062
+"686","060","23","Somerset","025","Mercer town","45110",45110,"Mercer","T","25180",25180,647,27,24,17496
+"687","060","23","Somerset","025","Moose River town","47140",47140,"Moose River","T","25190",25190,219,41,5,25938
+"688","060","23","Somerset","025","Moscow town","47455",47455,"Moscow","T","25200",25200,577,48,12,30674
+"689","060","23","Somerset","025","New Portland town","49205",49205,"New Portland","T","25210",25210,785,44,18,28292
+"690","060","23","Somerset","025","Norridgewock town","49835",49835,"Norridgewock","T","25220",25220,3294,51,65,32750
+"691","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Misery Twp","U","25836",25836,0,36,0,22819
+"692","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Misery Gore Twp","U","25837",25837,0,7,0,4284
+"693","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Indian Stream Twp","U","25828",25828,0,18,0,11547
+"694","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Brassua Twp","U","25814",25814,0,40,0,25682
+"695","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Johnson Mountain Twp","U","25829",25829,0,38,0,24467
+"696","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"East Moxie Twp","U","25821",25821,0,39,0,25054
+"697","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Parlin Pond Twp","U","25839",25839,6,23,0,15035
+"698","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Taunton & Raynham Academy Grant","U","25803",25803,97,23,4,14763
+"699","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Tomhegan Twp","U","25857",25857,73,36,2,22984
+"700","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Long Pond Twp","U","25833",25833,54,43,1,27524
+"701","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Squaretown Twp","U","25854",25854,0,38,0,24492
+"702","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Rockwood Strip T1 R1 NBKP","U","25844",25844,97,9,11,5792
+"703","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Bald Mountain Twp T2 R3","U","25805",25805,0,44,0,27945
+"704","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Sapling Twp","U","25851",25851,0,28,0,17974
+"705","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Mayfield Twp","U","25835",25835,14,43,0,27793
+"706","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Sandwich Academy Grant Twp","U","25849",25849,0,24,0,15053
+"707","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Sandbar Tract Twp","U","25848",25848,0,1,0,735
+"708","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Moxie Gore","U","25838",25838,13,20,1,12724
+"709","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Rockwood Strip T2 R1 NBKP","U","25845",25845,0,8,0,5338
+"710","060","23","Somerset","025","Northeast Somerset UT","51114",51114,"Chase Stream Twp","U","25816",25816,0,40,0,25867
+"711","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Hobbstown Twp","U","25826",25826,0,35,0,22592
+"712","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Dead River Twp","U","25819",25819,1,43,0,27674
+"713","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Upper Enchanted Twp","U","25858",25858,15,39,0,24934
+"714","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Flagstaff Twp","U","25823",25823,0,34,0,21667
+"715","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"T3 R5 BKP WKR","U","25862",25862,0,40,0,25522
+"716","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Pierce Pond Twp","U","25840",25840,4,42,0,26742
+"717","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Bradstreet Twp","U","25813",25813,7,26,0,16610
+"718","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"T3 R4 BKP WKR","U","25861",25861,0,37,0,23423
+"719","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Forsyth Twp","U","25824",25824,0,37,0,23606
+"720","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Appleton Twp","U","25802",25802,0,26,0,16698
+"721","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Carrying Place Town Twp","U","25815",25815,11,42,0,27119
+"722","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Bigelow Twp","U","25807",25807,0,18,0,11240
+"723","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Carrying Place Twp","U","25860",25860,0,16,0,10095
+"724","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Holeb Twp","U","25827",25827,3,42,0,26825
+"725","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Bowtown Twp","U","25812",25812,0,28,0,17908
+"726","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Attean Twp","U","25804",25804,0,42,0,27025
+"727","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"King & Bartlett Twp","U","25830",25830,0,39,0,25005
+"728","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"T5 R6 BKP WKR","U","25865",25865,0,36,0,22971
+"729","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"T5 R7 BKP WKR","U","25866",25866,5,24,0,15555
+"730","060","23","Somerset","025","Northwest Somerset UT","53636",53636,"Lower Enchanted Twp","U","25834",25834,0,38,0,24640
+"731","060","23","Somerset","025","Palmyra town","56520",56520,"Palmyra","T","25230",25230,1953,41,48,26500
+"732","060","23","Somerset","025","Pittsfield town","59005",59005,"Pittsfield","T","25240",25240,4214,49,86,31152
+"733","060","23","Somerset","025","Pleasant Ridge plantation","59705",59705,"Pleasant Ridge Plt","P","25250",25250,83,25,3,15713
+"734","060","23","Somerset","025","Ripley town","62995",62995,"Ripley","T","25260",25260,452,25,18,15993
+"735","060","23","Somerset","025","St. Albans town","64850",64850,"Saint Albans","T","25270",25270,1836,47,39,30120
+"736","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T5 R20 WELS","U","25870",25870,0,33,0,21279
+"737","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T9 R17 WELS","U","25882",25882,0,39,0,24730
+"738","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T7 R18 WELS","U","25875",25875,4,39,0,24814
+"739","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T5 R19 WELS","U","25869",25869,0,27,0,17306
+"740","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T6 R17 WELS","U","25871",25871,0,38,0,24089
+"741","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T6 R18 WELS","U","25872",25872,0,38,0,24322
+"742","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Comstock Twp","U","25817",25817,4,44,0,27986
+"743","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Soldiertown Twp T2 R3 NBKP","U","25853",25853,0,47,0,30090
+"744","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T8 R17 WELS","U","25878",25878,0,37,0,23753
+"745","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"West Middlesex Canal Grant","U","25859",25859,15,38,0,24085
+"746","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T9 R16 WELS","U","25881",25881,0,39,0,25096
+"747","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T5 R18 WELS","U","25868",25868,0,35,0,22714
+"748","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T8 R16 WELS","U","25877",25877,0,38,0,24445
+"749","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T10 R16 WELS","U","25884",25884,0,37,0,23838
+"750","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Little W Twp","U","25832",25832,0,5,0,3067
+"751","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T7 R16 WELS","U","25873",25873,0,39,0,24862
+"752","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Big W Twp","U","25810",25810,0,18,0,11758
+"753","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T7 R19 WELS","U","25876",25876,0,39,0,25231
+"754","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T8 R18 WELS","U","25879",25879,0,38,0,24449
+"755","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Bald Mountain Twp T4 R3","U","25806",25806,0,39,0,25224
+"756","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Blake Gore","U","25811",25811,0,6,0,3956
+"757","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T8 R19 WELS","U","25880",25880,0,17,0,11116
+"758","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Big Six Twp","U","25808",25808,3,43,0,27790
+"759","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T7 R17 WELS","U","25874",25874,0,38,0,24281
+"760","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Big Ten Twp","U","25809",25809,4,53,0,34240
+"761","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Dole Brook Twp","U","25820",25820,0,40,0,25379
+"762","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Prentiss Twp T4 R4 NBKP","U","25843",25843,0,28,0,17708
+"763","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Pittston Academy Grant","U","25841",25841,5,45,0,28786
+"764","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Thorndike Twp","U","25856",25856,0,36,0,23175
+"765","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Elm Stream Twp","U","25822",25822,0,31,0,19547
+"766","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Russell Pond Twp","U","25846",25846,0,36,0,22827
+"767","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Hammond Twp","U","25825",25825,0,37,0,23901
+"768","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Sandy Bay Twp","U","25850",25850,0,30,0,19266
+"769","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T5 R17 WELS","U","25867",25867,0,36,0,22788
+"770","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T4 R17 WELS","U","25864",25864,0,38,0,24373
+"771","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T4 R5 NBKP","U","25863",25863,0,14,0,8750
+"772","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Alder Brook Twp","U","25801",25801,0,35,0,22540
+"773","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Plymouth Twp","U","25842",25842,9,41,0,26135
+"774","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"T9 R18 WELS","U","25883",25883,0,26,0,16524
+"775","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Saint John Twp","U","25847",25847,0,38,0,24506
+"776","060","23","Somerset","025","Seboomook Lake UT","67238",67238,"Seboomook Twp","U","25852",25852,1,42,0,26675
+"777","060","23","Somerset","025","Skowhegan town","68910",68910,"Skowhegan","T","25280",25280,8824,60,147,38667
+"778","060","23","Somerset","025","Smithfield town","69155",69155,"Smithfield","T","25290",25290,930,25,37,15834
+"779","060","23","Somerset","025","Solon town","69505",69505,"Solon","T","25300",25300,940,41,23,26055
+"780","060","23","Somerset","025","Starks town","73845",73845,"Starks","T","25310",25310,578,32,18,20547
+"781","060","23","Somerset","025","The Forks plantation","76190",76190,"The Forks Plt","P","25320",25320,35,41,1,26525
+"782","060","23","Somerset","025","West Forks plantation","82840",82840,"West Forks Plt","P","25330",25330,47,49,1,31422
+"783","060","23","Waldo","027","Belfast city","03950",3950,"Belfast","C","27010",27010,6381,34,188,21999
+"784","060","23","Waldo","027","Belmont town","04125",4125,"Belmont","T","27020",27020,821,14,59,9073
+"785","060","23","Waldo","027","Brooks town","07870",7870,"Brooks","T","27030",27030,1022,25,41,16222
+"786","060","23","Waldo","027","Burnham town","09270",9270,"Burnham","T","27040",27040,1142,41,28,26363
+"787","060","23","Waldo","027","Frankfort town","26280",26280,"Frankfort","T","27050",27050,1041,25,42,15929
+"788","060","23","Waldo","027","Freedom town","26420",26420,"Freedom","T","27060",27060,645,22,29,14208
+"789","060","23","Waldo","027","Islesboro town","35240",35240,"Islesboro","T","27070",27070,603,14,43,9136
+"790","060","23","Waldo","027","Jackson town","35450",35450,"Jackson","T","27080",27080,506,25,20,16222
+"791","060","23","Waldo","027","Knox town","37585",37585,"Knox","T","27090",27090,747,29,26,18655
+"792","060","23","Waldo","027","Liberty town","39055",39055,"Liberty","T","27100",27100,927,28,33,18162
+"793","060","23","Waldo","027","Lincolnville town","39755",39755,"Lincolnville","T","27110",27110,2042,39,52,25116
+"794","060","23","Waldo","027","Monroe town","46475",46475,"Monroe","T","27120",27120,882,39,23,24956
+"795","060","23","Waldo","027","Montville town","46790",46790,"Montville","T","27130",27130,1002,43,23,27589
+"796","060","23","Waldo","027","Morrill town","47245",47245,"Morrill","T","27140",27140,774,17,46,10908
+"797","060","23","Waldo","027","Northport town","52845",52845,"Northport","T","27150",27150,1331,24,55,15521
+"798","060","23","Waldo","027","Palermo town","56450",56450,"Palermo","T","27160",27160,1220,44,28,27863
+"799","060","23","Waldo","027","Prospect town","61210",61210,"Prospect","T","27170",27170,642,18,36,11642
+"800","060","23","Waldo","027","Searsmont town","66565",66565,"Searsmont","T","27180",27180,1174,39,30,25036
+"801","060","23","Waldo","027","Searsport town","66635",66635,"Searsport","T","27190",27190,2641,29,91,18806
+"802","060","23","Waldo","027","Stockton Springs town","74475",74475,"Stockton Springs","T","27200",27200,1481,20,74,12559
+"803","060","23","Waldo","027","Swanville town","75525",75525,"Swanville","T","27210",27210,1357,22,62,13839
+"804","060","23","Waldo","027","Thorndike town","76610",76610,"Thorndike","T","27220",27220,712,25,28,16151
+"805","060","23","Waldo","027","Troy town","77625",77625,"Troy","T","27230",27230,963,36,27,22975
+"806","060","23","Waldo","027","Unity town","78255",78255,"Unity","T","27240",27240,1889,41,46,26444
+"807","060","23","Waldo","027","Waldo town","79480",79480,"Waldo","T","27250",27250,733,19,39,12342
+"808","060","23","Waldo","027","Winterport town","86760",86760,"Winterport","T","27260",27260,3602,36,100,22740
+"809","060","23","Washington","029","Addison town","00380",380,"Addison","T","29010",29010,1209,42,29,27057
+"810","060","23","Washington","029","Alexander town","00660",660,"Alexander","T","29020",29020,514,46,11,29198
+"811","060","23","Washington","029","Baileyville town","02480",2480,"Baileyville","T","29030",29030,1686,42,40,26812
+"812","060","23","Washington","029","Baring plantation","02970",2970,"Baring Plt","U","29040",29040,273,24,11,15558
+"813","060","23","Washington","029","Beals town","03670",3670,"Beals","T","29050",29050,618,6,103,3617
+"814","060","23","Washington","029","Beddington town","03810",3810,"Beddington","T","29060",29060,29,38,1,24216
+"815","060","23","Washington","029","Calais city","09585",9585,"Calais","C","29070",29070,3447,36,96,23364
+"816","060","23","Washington","029","Centerville town","11755",11755,"Centerville Twp","U","29080",29080,26,42,1,27124
+"817","060","23","Washington","029","Charlotte town","12175",12175,"Charlotte","T","29090",29090,324,34,10,21591
+"818","060","23","Washington","029","Cherryfield town","12455",12455,"Cherryfield","T","29100",29100,1157,45,26,28689
+"819","060","23","Washington","029","Codyville plantation","13610",13610,"Codyville Plt","P","29110",29110,19,55,0,35073
+"820","060","23","Washington","029","Columbia town","13750",13750,"Columbia","T","29120",29120,459,37,12,23415
+"821","060","23","Washington","029","Columbia Falls town","13820",13820,"Columbia Falls","T","29130",29130,599,25,24,15700
+"822","060","23","Washington","029","Cooper town","14100",14100,"Cooper","T","29140",29140,145,33,4,20837
+"823","060","23","Washington","029","Crawford town","14940",14940,"Crawford","T","29150",29150,108,38,3,24167
+"824","060","23","Washington","029","Cutler town","15920",15920,"Cutler","T","29160",29160,623,47,13,29992
+"825","060","23","Washington","029","Danforth town","16410",16410,"Danforth","T","29170",29170,629,60,10,38671
+"826","060","23","Washington","029","Deblois town","16865",16865,"Deblois","T","29180",29180,49,36,1,23080
+"827","060","23","Washington","029","Dennysville town","17355",17355,"Dennysville","T","29190",29190,319,15,21,9539
+"828","060","23","Washington","029","East Central Washington UT","19870",19870,"Marion Twp","U","29810",29810,47,42,1,26635
+"829","060","23","Washington","029","East Central Washington UT","19870",19870,"T19 ED BPP","U","29820",29820,4,38,0,24533
+"830","060","23","Washington","029","East Central Washington UT","19870",19870,"Trescott Twp","U","29811",29811,340,28,12,17824
+"831","060","23","Washington","029","East Central Washington UT","19870",19870,"Edmunds Twp","U","29804",29804,342,39,9,24793
+"832","060","23","Washington","029","East Central Washington UT","19870",19870,"Cathance Twp","U","29330",29330,35,39,1,24964
+"833","060","23","Washington","029","East Central Washington UT","19870",19870,"Berry Twp","U","29818",29818,0,38,0,24173
+"834","060","23","Washington","029","East Machias town","20960",20960,"East Machias","T","29200",29200,1298,39,33,25204
+"835","060","23","Washington","029","Eastport city","21730",21730,"Eastport","C","29210",29210,1640,4,410,2326
+"836","060","23","Washington","029","Grand Lake Stream plantation","28660",28660,"Grand Lake Stream Plt","P","29220",29220,150,48,3,31025
+"837","060","23","Washington","029","Harrington town","31530",31530,"Harrington","T","29230",29230,882,21,42,13540
+"838","060","23","Washington","029","Jonesboro town","35905",35905,"Jonesboro","T","29240",29240,594,37,16,23411
+"839","060","23","Washington","029","Jonesport town","36010",36010,"Jonesport","T","29250",29250,1408,29,49,18255
+"840","060","23","Washington","029","Lubec town","41610",41610,"Lubec","T","29260",29260,1652,33,50,21292
+"841","060","23","Washington","029","Machias town","41960",41960,"Machias","T","29270",29270,2353,14,168,8958
+"842","060","23","Washington","029","Machiasport town","42100",42100,"Machiasport","T","29280",29280,1160,21,55,13706
+"843","060","23","Washington","029","Marshfield town","43640",43640,"Marshfield","T","29290",29290,494,18,27,11222
+"844","060","23","Washington","029","Meddybemps town","44760",44760,"Meddybemps","T","29300",29300,150,16,9,10280
+"845","060","23","Washington","029","Milbridge town","45600",45600,"Milbridge","T","29310",29310,1279,24,53,15539
