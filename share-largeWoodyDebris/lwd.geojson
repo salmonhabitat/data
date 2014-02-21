@@ -1,0 +1,1482 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.566765,
+              44.92662
+            ],
+            [
+              -67.568997,
+              44.925514
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 1,
+        "notes": "",
+        "contact": "Sue Aygran",
+        "owner": "Landvest",
+        "shelter": "2010",
+        "utm_tby": "4975672",
+        "utm_tbx": "612931",
+        "utm_tty": "4975798",
+        "utm_ttx": "613105",
+        "type": "study",
+        "trib": "Seavey Stream",
+        "watershed": "East Machias",
+        "id": 1,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "2012",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.574317,
+              44.92252
+            ],
+            [
+              -67.572938,
+              44.923979
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 2,
+        "notes": "",
+        "contact": "Sue Aygran",
+        "owner": "Landvest",
+        "shelter": "2010",
+        "utm_tby": "4975496",
+        "utm_tbx": "612623",
+        "utm_tty": "4975332",
+        "utm_ttx": "612517",
+        "type": "study",
+        "trib": "Seavey Stream",
+        "watershed": "East Machias",
+        "id": 2,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "2012",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.49905,
+              44.931871
+            ],
+            [
+              -67.501101,
+              44.933384
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 3,
+        "notes": "Probably use index site as controls",
+        "contact": "Sue Aygran",
+        "owner": "Landvest",
+        "shelter": "2011",
+        "utm_tby": "4976643",
+        "utm_tbx": "618273",
+        "utm_tty": "4976478",
+        "utm_ttx": "618438",
+        "type": "study",
+        "trib": "Northern Stream (Lower)",
+        "watershed": "East Machias",
+        "id": 3,
+        "utm_ctx": "618717",
+        "utm_cty": "4974147",
+        "utm_cbx": "98",
+        "utm_cby": "4976080",
+        "stocked": "Natural Recruitment",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.503056,
+              44.934751
+            ],
+            [
+              -67.505109,
+              44.936191
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 4,
+        "notes": "Probably use index site as controls",
+        "contact": "Sue Aygran",
+        "owner": "Landvest",
+        "shelter": "2011",
+        "utm_tby": "4976949",
+        "utm_tbx": "617951",
+        "utm_tty": "4976792",
+        "utm_ttx": "618116",
+        "type": "study",
+        "trib": "Northern Stream (Upper)",
+        "watershed": "East Machias",
+        "id": 4,
+        "utm_ctx": "617816",
+        "utm_cty": "4977160",
+        "utm_cbx": "617878",
+        "utm_cby": "4977054",
+        "stocked": "Natural Recruitment",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.578614,
+              44.918351
+            ],
+            [
+              -67.577129,
+              44.916937
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 5,
+        "notes": "",
+        "contact": "Sue Aygran",
+        "owner": "Landvest",
+        "shelter": "2010",
+        "utm_tby": "4974708",
+        "utm_tbx": "612306",
+        "utm_tty": "4974863",
+        "utm_ttx": "612186",
+        "type": "study",
+        "trib": "Long lake Stream",
+        "watershed": "East Machias",
+        "id": 5,
+        "utm_ctx": "612186",
+        "utm_cty": "4974863",
+        "utm_cbx": "612389",
+        "utm_cby": "4974562",
+        "stocked": "2012",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2010"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.630335,
+              44.985373
+            ],
+            [
+              -67.629202,
+              44.985044
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:48:22.947Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 6,
+        "notes": "",
+        "contact": "Allan Brooks (QLT), Michael Andrew 207-318-9248 (Private owner)",
+        "owner": "Quoddy Land trust (river right), Private Landowner (river left)",
+        "shelter": "2011",
+        "utm_tby": "4982203",
+        "utm_tbx": "608068",
+        "utm_tty": "4982238",
+        "utm_ttx": "607978",
+        "type": "study",
+        "trib": "Beaver Dam",
+        "watershed": "East Machias",
+        "id": 6,
+        "utm_ctx": "607740",
+        "utm_cty": "4982316",
+        "utm_cbx": "607821",
+        "utm_cby": "4982355",
+        "stocked": "2012",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.51625,
+              44.966187
+            ],
+            [
+              -67.518034,
+              44.965355
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:50:32.268Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 7,
+        "notes": "",
+        "contact": "Sue Aygran",
+        "owner": "Landvest",
+        "shelter": "",
+        "utm_tby": "4980170",
+        "utm_tbx": "616872",
+        "utm_tty": "4980265",
+        "utm_ttx": "617011",
+        "type": "study",
+        "trib": "Creamer (Upper)",
+        "watershed": "East Machias",
+        "id": 7,
+        "utm_ctx": "617249",
+        "utm_cty": "4980449",
+        "utm_cbx": "617167",
+        "utm_cby": "4980357",
+        "stocked": "2007",
+        "treatment": "2007",
+        "efish": "Annual",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.510073,
+              44.970157
+            ],
+            [
+              -67.511559,
+              44.969573
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 8,
+        "notes": "",
+        "contact": "Sue Aygran",
+        "owner": "Landvest",
+        "shelter": "",
+        "utm_tby": "4980648",
+        "utm_tbx": "617374",
+        "utm_tty": "4980715",
+        "utm_ttx": "617490",
+        "type": "study",
+        "trib": "Creamer (Lower)",
+        "watershed": "East Machias",
+        "id": 8,
+        "utm_ctx": "617888",
+        "utm_cty": "4981376",
+        "utm_cbx": "617968",
+        "utm_cby": "4981380",
+        "stocked": "2007",
+        "treatment": "2007",
+        "efish": "Annual",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.069497,
+              44.840551
+            ],
+            [
+              -68.069117,
+              44.839036
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 9,
+        "notes": "Not part of study",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2011",
+        "utm_tby": "4965491",
+        "utm_tbx": "573573",
+        "utm_tty": "4965659",
+        "utm_ttx": "573541",
+        "type": "study",
+        "trib": "Guagus Main Stem Below Rt. 9",
+        "watershed": "Narraguagus",
+        "id": 9,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "2012",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.108976,
+              44.947856
+            ],
+            [
+              -68.110691,
+              44.947635
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 10,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2011",
+        "utm_tby": "4977518",
+        "utm_tbx": "570155",
+        "utm_tty": "4977544",
+        "utm_ttx": "570290",
+        "type": "study",
+        "trib": "Main Stem below 31-00-0 rd",
+        "watershed": "Narraguagus",
+        "id": 10,
+        "utm_ctx": "570487",
+        "utm_cty": "4977785",
+        "utm_cbx": "570410",
+        "utm_cby": "4977680",
+        "stocked": "",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.094888,
+              44.954587
+            ],
+            [
+              -68.096054,
+              44.955424
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 11,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "",
+        "utm_tby": "4978396",
+        "utm_tbx": "571300",
+        "utm_tty": "4978304",
+        "utm_ttx": "571393",
+        "type": "study",
+        "trib": "Baker (Lower)",
+        "watershed": "Narraguagus",
+        "id": 11,
+        "utm_ctx": "571542",
+        "utm_cty": "4978323",
+        "utm_cbx": "571440",
+        "utm_cby": "4978342",
+        "stocked": "2009",
+        "treatment": "2008",
+        "efish": "Annual",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.098819,
+              44.91725
+            ],
+            [
+              -68.099479,
+              44.91884
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 12,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2011",
+        "utm_tby": "4974329",
+        "utm_tbx": "571075",
+        "utm_tty": "4974153",
+        "utm_ttx": "571129",
+        "type": "study",
+        "trib": "Baker (Mid)",
+        "watershed": "Narraguagus",
+        "id": 12,
+        "utm_ctx": "571586",
+        "utm_cty": "4974125",
+        "utm_cbx": "571329",
+        "utm_cby": "4974052",
+        "stocked": "2010",
+        "treatment": "2011",
+        "efish": "",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.087748,
+              44.915515
+            ],
+            [
+              -68.088526,
+              44.916007
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 13,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2011",
+        "utm_tby": "4974024",
+        "utm_tbx": "571943",
+        "utm_tty": "4973970",
+        "utm_ttx": "572005",
+        "type": "study",
+        "trib": "Baker (Upper)",
+        "watershed": "Narraguagus",
+        "id": 13,
+        "utm_ctx": "572116",
+        "utm_cty": "4973843",
+        "utm_cbx": "571943",
+        "utm_cby": "4974024",
+        "stocked": "2012",
+        "treatment": "2008",
+        "efish": "2011",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.048173,
+              44.833111
+            ],
+            [
+              -68.047237,
+              44.831545
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 14,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2009",
+        "utm_tby": "4964679",
+        "utm_tbx": "575312",
+        "utm_tty": "4964852",
+        "utm_ttx": "575236",
+        "type": "study",
+        "trib": "Shorey",
+        "watershed": "Narraguagus",
+        "id": 14,
+        "utm_ctx": "575116",
+        "utm_cty": "4965206",
+        "utm_cbx": "575218",
+        "utm_cby": "4965036",
+        "stocked": "2009",
+        "treatment": "2009",
+        "efish": "2012",
+        "longpro": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.063896,
+              44.879332
+            ],
+            [
+              -68.065233,
+              44.880441
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 15,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2009",
+        "utm_tby": "4970094",
+        "utm_tbx": "573827",
+        "utm_tty": "4969972",
+        "utm_ttx": "573934",
+        "type": "study",
+        "trib": "Sinclair (Upper)",
+        "watershed": "Narraguagus",
+        "id": 15,
+        "utm_ctx": "574058",
+        "utm_cty": "4969688",
+        "utm_cbx": "573964",
+        "utm_cby": "4969826",
+        "stocked": "2009",
+        "treatment": "2009",
+        "efish": "2012",
+        "longpro": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.070011,
+              44.883333
+            ],
+            [
+              -68.071681,
+              44.883383
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 16,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2009",
+        "utm_tby": "4970415",
+        "utm_tbx": "573314",
+        "utm_tty": "4970411",
+        "utm_ttx": "573446",
+        "type": "study",
+        "trib": "Sinclair (Lower)",
+        "watershed": "Narraguagus",
+        "id": 16,
+        "utm_ctx": "573690",
+        "utm_cty": "4970295",
+        "utm_cbx": "573638",
+        "utm_cby": "4970367",
+        "stocked": "2009",
+        "treatment": "2009",
+        "efish": "2012",
+        "longpro": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.089245,
+              44.898522
+            ],
+            [
+              -68.090484,
+              44.897875
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 17,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2009",
+        "utm_tby": "4972008",
+        "utm_tbx": "571811",
+        "utm_tty": "4972081",
+        "utm_ttx": "571908",
+        "type": "study",
+        "trib": "Rocky Brook",
+        "watershed": "Narraguagus",
+        "id": 17,
+        "utm_ctx": "572162",
+        "utm_cty": "4972062",
+        "utm_cbx": "572098",
+        "utm_cby": "4972084",
+        "stocked": "2009",
+        "treatment": "2009",
+        "efish": "2012",
+        "longpro": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.113237,
+              44.882696
+            ],
+            [
+              -68.111494,
+              44.882385
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 18,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2009",
+        "utm_tby": "4970269",
+        "utm_tbx": "570171",
+        "utm_tty": "4970302",
+        "utm_ttx": "570033",
+        "type": "study",
+        "trib": "Humpback (Upper)",
+        "watershed": "Narraguagus",
+        "id": 18,
+        "utm_ctx": "569598",
+        "utm_cty": "4970471",
+        "utm_cbx": "569692",
+        "utm_cby": "4970526",
+        "stocked": "2009",
+        "treatment": "2009",
+        "efish": "2012",
+        "longpro": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.114033,
+              44.88281
+            ],
+            [
+              -68.116988,
+              44.884958
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 19,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2009",
+        "utm_tby": "4970550",
+        "utm_tbx": "569734",
+        "utm_tty": "4970314",
+        "utm_ttx": "569970",
+        "type": "study",
+        "trib": "Humpback (Lower)",
+        "watershed": "Narraguagus",
+        "id": 19,
+        "utm_ctx": "570307",
+        "utm_cty": "4970160",
+        "utm_cbx": "570402",
+        "utm_cby": "4970104",
+        "stocked": "2009",
+        "treatment": "2009",
+        "efish": "2012",
+        "longpro": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.113237,
+              44.882696
+            ],
+            [
+              -68.111494,
+              44.882385
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 20,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "2009",
+        "utm_tby": "4970269",
+        "utm_tbx": "570171",
+        "utm_tty": "4970302",
+        "utm_ttx": "570033",
+        "type": "study",
+        "trib": "35 Brook",
+        "watershed": "Narraguagus",
+        "id": 20,
+        "utm_ctx": "569598",
+        "utm_cty": "4970471",
+        "utm_cbx": "569692",
+        "utm_cby": "4970526",
+        "stocked": "2009",
+        "treatment": "2009",
+        "efish": "2012",
+        "longpro": "2009"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -68.105154,
+              44.907479
+            ],
+            [
+              -68.106473,
+              44.906553
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 21,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "",
+        "utm_tby": "4972958",
+        "utm_tbx": "570538",
+        "utm_tty": "4973062",
+        "utm_ttx": "570641",
+        "type": "study",
+        "trib": "Gould",
+        "watershed": "Narraguagus",
+        "id": 21,
+        "utm_ctx": "570316",
+        "utm_cty": "4973191",
+        "utm_cbx": "570484",
+        "utm_cby": "4973175",
+        "stocked": "2007",
+        "treatment": "2007",
+        "efish": "Annual",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.68222,
+              44.924815
+            ],
+            [
+              -67.683155,
+              44.923269
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 22,
+        "notes": "State Owns the Timber",
+        "contact": "Sue Girourd",
+        "owner": "Isrealty",
+        "shelter": "2011",
+        "utm_tby": "4975270",
+        "utm_tbx": "603926",
+        "utm_tty": "4975443",
+        "utm_ttx": "603997",
+        "type": "study",
+        "trib": "New Stream",
+        "watershed": "Old Stream",
+        "id": 22,
+        "utm_ctx": "604070",
+        "utm_cty": "4975834",
+        "utm_cbx": "603928",
+        "utm_cby": "4975670",
+        "stocked": "2009",
+        "treatment": "2011",
+        "efish": "2013",
+        "longpro": "2011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.794052,
+              44.972879
+            ],
+            [
+              -67.789726,
+              44.972366
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 23,
+        "notes": "",
+        "contact": "Bob Murphy",
+        "owner": "GMO",
+        "shelter": "",
+        "utm_tby": "4980593",
+        "utm_tbx": "595434",
+        "utm_tty": "4980645",
+        "utm_ttx": "595092",
+        "type": "study",
+        "trib": "Dead Stream",
+        "watershed": "Old Stream",
+        "id": 23,
+        "utm_ctx": "594762",
+        "utm_cty": "4980712",
+        "utm_cbx": "594928",
+        "utm_cby": "4980676",
+        "stocked": "",
+        "treatment": "2007",
+        "efish": "Annual",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -69.511617,
+              44.37672
+            ],
+            [
+              -69.510369,
+              44.377626
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 24,
+        "notes": "Not part of the study",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4913943",
+        "utm_tbx": "459342",
+        "utm_tty": "",
+        "utm_ttx": "",
+        "type": "study",
+        "trib": "WB Sheepscot",
+        "watershed": "Sheepscot",
+        "id": 24,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "20??",
+        "efish": "2013",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.76937,
+              44.955233
+            ],
+            [
+              -67.768551,
+              44.954396
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 25,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4978622",
+        "utm_tbx": "597134",
+        "utm_tty": "4978714",
+        "utm_ttx": "597068",
+        "type": "production",
+        "trib": "Old Stream",
+        "watershed": "Old Stream",
+        "id": 25,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.753575,
+              44.947545
+            ],
+            [
+              -67.75235,
+              44.947298
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 26,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4977853",
+        "utm_tbx": "598424",
+        "utm_tty": "4977879",
+        "utm_ttx": "598327",
+        "type": "production",
+        "trib": "Old Stream",
+        "watershed": "Old Stream",
+        "id": 26,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.74674,
+              44.945337
+            ],
+            [
+              -67.746134,
+              44.944637
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 27,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4977565",
+        "utm_tbx": "598919",
+        "utm_tty": "4977642",
+        "utm_ttx": "598870",
+        "type": "production",
+        "trib": "Old Stream",
+        "watershed": "Old Stream",
+        "id": 27,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.937091,
+              44.983194
+            ],
+            [
+              -67.935966,
+              44.983652
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 28,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4981685",
+        "utm_tbx": "583886",
+        "utm_tty": "4981633",
+        "utm_ttx": "583798",
+        "type": "production",
+        "trib": "West Branch",
+        "watershed": "Machias",
+        "id": 28,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.935424,
+              44.984862
+            ],
+            [
+              -67.934498,
+              44.985511
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 29,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4981893",
+        "utm_tbx": "583999",
+        "utm_tty": "4981820",
+        "utm_ttx": "583927",
+        "type": "production",
+        "trib": "West Branch",
+        "watershed": "Machias",
+        "id": 29,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.903677,
+              44.975416
+            ],
+            [
+              -67.901517,
+              44.975629
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 30,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4980830",
+        "utm_tbx": "586614",
+        "utm_tty": "4980804",
+        "utm_ttx": "586444",
+        "type": "production",
+        "trib": "West Branch",
+        "watershed": "Machias",
+        "id": 30,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.890398,
+              44.969499
+            ],
+            [
+              -67.889757,
+              44.969853
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 31,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4980201",
+        "utm_tbx": "587550",
+        "utm_tty": "4980161",
+        "utm_ttx": "587500",
+        "type": "production",
+        "trib": "West Branch",
+        "watershed": "Machias",
+        "id": 31,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.875663,
+              44.966259
+            ],
+            [
+              -67.87502,
+              44.966702
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 32,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4979867",
+        "utm_tbx": "588717",
+        "utm_tty": "4979817",
+        "utm_ttx": "588667",
+        "type": "production",
+        "trib": "West Branch",
+        "watershed": "Machias",
+        "id": 32,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -67.874243,
+              44.966857
+            ],
+            [
+              -67.873601,
+              44.9673
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "updated_at": "2013-05-27T16:14:42.829Z",
+        "created_at": "2013-05-27T16:14:42.591Z",
+        "cartodb_id": 33,
+        "notes": "",
+        "contact": "",
+        "owner": "",
+        "shelter": "",
+        "utm_tby": "4979935",
+        "utm_tbx": "588828",
+        "utm_tty": "4979885",
+        "utm_ttx": "588778",
+        "type": "production",
+        "trib": "West Branch",
+        "watershed": "Machias",
+        "id": 33,
+        "utm_ctx": "",
+        "utm_cty": "",
+        "utm_cbx": "",
+        "utm_cby": "",
+        "stocked": "",
+        "treatment": "",
+        "efish": "",
+        "longpro": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "updated_at": "2013-06-26T20:02:59.346Z",
+        "created_at": "2013-06-26T20:02:59.346Z",
+        "cartodb_id": 34,
+        "notes": null,
+        "contact": null,
+        "owner": null,
+        "shelter": null,
+        "utm_tby": null,
+        "utm_tbx": null,
+        "utm_tty": null,
+        "utm_ttx": null,
+        "type": null,
+        "trib": null,
+        "watershed": null,
+        "id": null,
+        "utm_ctx": null,
+        "utm_cty": null,
+        "utm_cbx": null,
+        "utm_cby": null,
+        "stocked": null,
+        "treatment": null,
+        "efish": null,
+        "longpro": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "updated_at": "2013-06-26T20:04:27.209Z",
+        "created_at": "2013-06-26T20:04:27.209Z",
+        "cartodb_id": 35,
+        "notes": null,
+        "contact": null,
+        "owner": null,
+        "shelter": null,
+        "utm_tby": null,
+        "utm_tbx": null,
+        "utm_tty": null,
+        "utm_ttx": null,
+        "type": null,
+        "trib": null,
+        "watershed": null,
+        "id": null,
+        "utm_ctx": null,
+        "utm_cty": null,
+        "utm_cbx": null,
+        "utm_cby": null,
+        "stocked": null,
+        "treatment": null,
+        "efish": null,
+        "longpro": null
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
