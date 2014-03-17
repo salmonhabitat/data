@@ -1,0 +1,3 @@
+- create datapackage.json
+- create a makefile: csv -> geojson -> shapefile
+- include Wes' Thesis
