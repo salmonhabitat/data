@@ -1,0 +1,2 @@
+- convert *.xls to *.csv
+- create README
