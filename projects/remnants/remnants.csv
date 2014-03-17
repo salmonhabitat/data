@@ -1,120 +1,120 @@
-dam_id,name,completed,source,waterbody,focusarea,type,x,y,condition,comments,passage,reference,cartodb_id,created_at,updated_at
-0,Mill Stream,,,,Spring River,dam,567259,4945180,suspect,,,,1,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-1,Mohanon Brook,,,,West Branch Narraguagus River,dam,568414,4955324,suspect,,,,2,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-2,Oaks Camp Dam,,,,Beddington Lake,dam,569444,4970128,suspect,,,,3,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-3,Spring River Dam,,,,Spring River,dam,570047,4947525,suspect,,,,4,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-4,28 Pond,,,,Beddington Lake,dam,571508,4971611,suspect,,,,5,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-5,35 stream dam,scheduled,American Rivers,,Beddington Lake,dam,571716,4978287,remnent structure,2 dam in vicinity,,,6,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-6,Pork Brook,completed,,,West Branch Narraguagus River,dam,572031,4957754,remnant structure,borrow pit evident,,,7,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-7,Above 73-00-0 Road,,,,West Branch Narraguagus River,dam,572649,4959373,suspect,,,,8,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-8,Rocky Brook,,,,Beddington Lake,dam,572723,4971605,suspect,,,,9,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-9,Above 35 dam,,,,Beddington Lake,dam,572732,4977610,suspect,,,,10,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-10,Pork Brook,,,,West Branch Narraguagus River,dam,572753,4957318,2 berms river left,borrow pit evident,,,11,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-11,Shoppe Mill,,,,Beddington Lake,dam,572826,4968226,suspect,,,,12,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-12,Above 73-00-0 Road,,,,West Branch Narraguagus River,dam,572882,4960349,suspect,,,,13,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-13,Hemlock Dam,scheduled,American Rivers,Narraguagus River,Beddington Lake,dam,573081,4967552,berms,berm evident,,,14,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-14,Little Narraguagus,,,,Beddington Lake,dam,573393,4964621,suspect,,,,15,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-15,Baker Brook,,,,Beddington Lake,dam,573582,4972839,suspect,,,,16,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-16,below snowmobile bridge,,,,West Branch Narraguagus River,dam,573991,4955689,suspect,,,,17,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-17,Knight Dam,Assess,NOAA 2013,5th Lake Stream,Fifth Machias Lake-Fourth Machias Lake,dam,577089,4992876,historic,,,"""UNH topo",18,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-18,5th Lake 42000,completed,completed,5th Lake Stream,Fifth Machias Lake-Fourth Machias Lake,dam,577897,4988824,historic,25' open bottom arch 2010,,Elder 1987,19,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-19,5th Lake Outlet,,,5th Lake Stream,Fifth Machias Lake-Fourth Machias Lake,dam,578646,4988116,historic,,,"""Elder 1987",20,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-20,Unknown,scheduled,EBTJV,Unknown Stream,Fifth Machias Lake-Fourth Machias Lake,dam,575926,5000420,historic,,,,21,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-21,Lower Sabao Dam,,,,West Branch Machias River,dam,579436,4981758,modern,,no,,22,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-22,Sprague Falls (mill site,,,,West Branch Narraguagus River,dam,579756,4943764,suspect,,,,23,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-23,Mopang Lake,,,,Mopang Lake-Mopang Stream,dam,580559,4973358,historic,no sign of remnants,,Elder 1987,24,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-24,4th Lake Outlet,,,,Fifth Machias Lake-Fourth Machias Lake,dam,580630,5001983,historic,remnant log drive dam,yes,Elder 1987,25,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-25,Gravel Dam (2nd Lake Out,,,,Mopang Lake-Mopang Stream,dam,581755,4972491,historic,removed,yes,field observation,26,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-26,road culvert,,,,West Branch Machias River,dam,581906,4976769,historic,undersized culvert,,,27,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-27,1st Lake Inlet,,,,Mopang Lake-Mopang Stream,dam,582997,4971121,historic,removed,yes,field observation,28,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-28,Mopang,,,,Mopang Lake-Mopang Stream,dam,583204,4970070,historic,need survey,,1881 Atlas of Washington C,29,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-29,Robinson Dam,,,,Mopang Lake-Mopang Stream,dam,583614,4968980,historic,need survey. remnant log drive dam,yes,"""Wells 1869",30,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-30,dam indicated,,,,Third Machias Lake-First Machias Lake,dam,583939,4991403,suspect,,,1881 Atlas of Washington C,31,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-31,Fletcher,scheduled,EBTJV,,Third Machias Lake-First Machias Lake,dam,584700,4990869,remnant,,,,32,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-32,Rolford,completed,,,West Branch Machias River,dam,584910,4981316,historic,remnant log drive dam,yes,,33,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-33,Fletcher1,completed,,,Third Machias Lake-First Machias Lake,dam,585167,4990236,historic,remnant rock check dam,,,34,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-34,Fletcher2,,,,Third Machias Lake-First Machias Lake,dam,585542,4988901,suspect,,,,35,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-35,Fletcher3,,,,Third Machias Lake-First Machias Lake,dam,585812,4988385,suspect,,,,36,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-36,Elwell Dam,scheduled,EBTJV,,,dam,580415,4989152,historic,,,Wells 1869,37,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-37,Fletcher Field,,,,Third Machias Lake-First Machias Lake,dam,587349,4987269,historic,,,,38,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-38,,,,,Pocumcus Lake,dam,588125,4999010,modern,,,,39,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-39,Pope Dam,,,,Crooked River,dam,588314,4971600,historic,snowmobile bridge,,,40,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-40,51-00-0 road,,,,Third Machias Lake-First Machias Lake,dam,588678,4986437,historic,removed,,,41,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-41,2nd Lake Outlet,,,,Third Machias Lake-First Machias Lake,dam,588955,4987394,historic,,,,42,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-42,,,,,Crooked River,dam,589063,4971491,suspect,,,Wells 1869,43,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-43,Robinson Dam (the lower),completed,,,Crooked River,dam,589213,4973897,historic,decommissioned crossing,,Wells 1869,44,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-44,3rd Lake Outlet,,,,Third Machias Lake-First Machias Lake,dam,589380,4993231,historic,removed,yes,,45,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-45,1st Lake Outlet,,,,Third Machias Lake-First Machias Lake,dam,589461,4984469,historic,removed,,,46,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-46,,,,,Crooked River,dam,589495,4971049,suspect,,,,47,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-47,,,,,Crooked River,dam,589851,4971491,suspect,,,Wells 1869,48,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-48,Bowles Brook 1,completed,,,Old Stream,dam,594688,4980729,remnant crib,,,,49,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-56,Bowles Brook 2,completed,,,Old Stream,dam,594649,4980726,remnant crib,,,,50,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-49,6 Mile Dam,scheduled,American Rivers,,Mopang Lake-Mopang Stream,dam,592647,4961281,remnant crib,,,Wells 1869,51,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-50,Bowles Brook 3,completed,,,Old Stream,dam,593506,4981693,historic,,,,52,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-51,Dead Stream 1,scheduled,EBTJV,,Old Stream,dam,592423,4984544,historic,,,,53,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-52,,,,,Pembroke Stream-Machias River,dam,593806,4975680,historic,decommissioned,,,54,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-53,Dead Stream 2,scheduled,EBTJV,,Old Stream,dam,593505,4985460,,,,,55,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-54,Pembroke Stream,completed,EBTJV,,Pembroke Stream-Machias River,dam,594279,4972332,remnant crib,under' Route 9,,,56,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-55,Dead Stream 3,scheduled,EBTJV,,Old Stream,dam,594156,4983727,,,,,57,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-57,Whizgig dam,,,Old Stream,Old Stream,dam,595509,4983124,historic,remnant log drive dam,no,field observation,58,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-58,2nd Lake Outlet,,,Old Stream,Old Stream,dam,595775,4984262,historic,road-undersized,no,Elder 1987,59,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-59,Canaan Dam,completed,completed,,Old Stream,dam,596561,4979733,historic,"""historic","but hydraulic check remains""",yes,60,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-60,Canaan Dam ? historic,,,,Old Stream,dam,596612,4980113,historic,remnant log drive dam,,,61,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-61,Hayward Dam,,,,Old Stream,dam,598613,4977833,historic,,,Wells 1869,62,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-62,Chain Lake Dam (Bacon Da,,,,Old Stream,dam,601588,4978098,modern,working dam,no,"""Elder 1987",63,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-63,Joe Hill Dam,,,Old Stream,Old Stream,dam,601998,4973203,historic,,,Wells 1869,64,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-64,Cates Dam,,,New Stream,Bog Lake-New Stream,dam,604043,4975806,suspect,,,Wells 1869,65,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-65,Suspect,,,,Bog Lake-New Stream,dam,604082,4977409,suspect,,,,66,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-66,Huntley Brook1,,,,Crawford Lake,dam,607478,4995050,suspect,beaver dam,,,67,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-67,7 suspect locations,,,,Crawford Lake,dam,608953,4989959,suspect,,,,68,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-68,Huntley Brook2,,,,Crawford Lake,dam,609029,4994586,suspect,,,Wells 1869,69,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-69,6 suspect locations,,,,Crawford Lake,dam,609624,4988157,suspect,,,,70,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-70,5 suspect locations,,,,Crawford Lake,dam,610100,4987496,suspect,,,,71,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-71,Barstow Dam,,,,East Machias River-Round Lake,dam,610183,4983820,historic,,,Wells 1869,72,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-72,7 suspect locations,,,,Crawford Lake,dam,610185,5002353,suspect,,,,73,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-73,4 suspect locations,,,,Crawford Lake,dam,610476,4986902,suspect,,,Wells 1869,74,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-74,5 suspect locations,,,,Crawford Lake,dam,610799,5001000,suspect,,,,75,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-75,6 suspect locations,,,,Crawford Lake,dam,610949,5002037,suspect,,,,76,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-76,4 suspect locations,,,,Crawford Lake,dam,611005,5000363,suspect,,,Wells 1869,77,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-77,Pokey Dam,,,E. Machias River,Crawford Lake,dam,611327,4986074,modern,working dam,,Wells 1869,78,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-78,Whitneyville,removed,removed,Machias River,Lower Machias River,dam,616777,4953377,historic,removed 1973,,,79,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-79,Barrows Str1,,NOAA 2013,Barrows Stream,Barrows Lake-Northern Stream,dam,617293,4985640,remnant,,,Wells 1869,80,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-80,Barrows Lake outlet,Assess,NOAA 2013,Barrows Stream,Barrows Lake-Northern Stream,dam,617604,4986300,remnant,,,,81,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-81,Machias,,,,Lower Machias River,dam,619909,4951820,historic,removed in the 50's or 60's,,Wells 1869,82,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-82,Groves Dam,completed,completed,,Old Stream,dam,597100,4978861,historic,,,,83,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-83,,,,,Beddington Lake,dam,565727,4980221,suspect,LiDAR suspect,,,84,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-84,,,,,Beddington Lake,dam,567365,4978998,suspect,LiDAR suspect,,,85,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-85,,,,,Beddington Lake,dam,568033,4978724,suspect,LiDAR suspect,,,86,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-86,,,,,Beddington Lake,dam,568128,4978092,suspect,LiDAR suspect,,,87,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-87,Log Drive Dam,,,,Beddington Lake,dam,569853,4976881,suspect,remnant's evident,,,88,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-88,35 Pond dam,scheduled,American Rivers,,Beddington Lake,dam,570444,4978413,remnant structure,likely a mill site,,,89,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-89,,,,,Beddington Lake,dam,569829,4979175,suspect,LiDAR suspect,,,90,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-90,,,,,Beddington Lake,dam,569252,4980932,suspect,,,,91,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-91,Deer Lake outlet,,,,Beddington Lake,dam,569329,4982485,historic,,,,92,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-92,,,,,Beddington Lake,dam,565193,4981166,suspect,LiDAR suspect,,,93,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-93,,,,,Beddington Lake,dam,571569,4979481,suspect,LiDAR suspect,,,94,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-94,,,,,Beddington Lake,dam,570124,4974950,suspect,LiDAR suspect,,,95,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-95,,,,,Beddington Lake,dam,570385,4974314,suspect,LiDAR suspect,,,96,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-96,,,,,Barrows Lake-Northern Stream,dam,616609,4981337,suspect,Field survey by Kyle Winslow,,,97,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-97,Northern Stream,scheduled,American Rivers,,Barrows Lake-Northern Stream,dam,617255,4978192,remnant crib,Field survey by Kyle Winslow,,,98,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-98,,,,,Barrows Lake-Northern Stream,dam,619574,4976040,suspect,Field survey by Kyle Winslow,,,99,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-99,Creamer Brook,scheduled,American Rivers,,,dam,618722,4982518,remnant crib,Field survey by Kyle Winslow,,,100,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-100,Beaver Dam Brook,scheduled,American Rivers,,,dam,604973,4983656,remnant crib,,,,101,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-101,Thompson Brook,scheduled,EBTJV,,,,589145,4991940,,,,,102,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-103,Ingles Brook,complete,completed,Ingles Brook,,,583597,4982935,,,,,103,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-104,Ingles Brook,,,Ingles Brook,,,583000,4983600,,,,,104,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-105,35 stream dam 3,scheduled,American Rivers,35 Stream,Beddington Lake,dam,572771,4977863,remnent structure,,,,105,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-106,35 stream dam 4rock,scheduled,American Rivers,35 Stream,Beddington Lake,dam,572560,4978012,remnent structure,,,,106,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-107,35 stream 5crib,scheduled,American Rivers,35 Stream,Beddington Lake,dam,572530,4977942,remnant structure,,,,107,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-108,35 Stream 6,scheduled,American Rivers,35 Stream,Beddington Lake,dam,573929,4976395,remnant berm,,,,108,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-109,Barrel Brook confluence,completed,completed,Barrel Brook,Beddington Lake,dam,569855,4976893,remnant structure,,,,109,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-110,Barrel Brook 2,completed,completed,Barrel Brook,Beddington Lake,dam,569045,4977634,remant structure,,,,110,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-111,Barrel Brook,scheduled,NOAA Barrel,Barrel Brook,Beddington Lake,dam,568129,4978101,remnant structure,under beaver debris,,,111,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-112,Fletcher,scheduled,EBTJV,Fletcher Brook,Third Machias Lake-First Machias Lake,dam,583946,4991901,remnant,,,,112,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-113,Holmes Brook 1,scheduled,EBTJV,Holmes Brook,,dam,603208,4963706,significant structure,,,,113,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-114,Holmes Brook 2,scheduled,EBTJV,Holmes Brook,,dam,603569,4963543,remnant,,,,114,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-115,Fletcher 1a,completed,completed,Fletcher Brook,third Machias Lake-First Machias Lake,dam,585201,4990215,historic,remnant rock crib with berms,,,115,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-116,Crooked River,,NOAA 2013,Crooked River,Crooked River,dam,589903,4971861,remnant rock crib,,,,116,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-117,Bowles 4,completed,completed,Bowles Brook,old Stream,dam,593908,4981757,remnant crib,,,,117,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-118,Dead Stream 4,completed,completed,Dead Stream,Old Stream,dam,593673,4984494,remnant crib,,,,118,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
-119,Kerwin Brook,completed,completed,Kerwin Brook,,dam,589100,4982954,mill site,,,,119,2013-02-21T18:41:27.774Z,2013-02-21T18:41:28.117Z
+dam_id,utme,utmn,name,condition,status,focusarea,comments,reference,long,lat
+0,567259,4945180,Mill Stream,suspect,,Spring River,,,-68.151674,44.656833
+1,568414,4955324,Mohanon Brook,suspect,,West Branch Narraguagus River,,,-68.13575,44.748034
+2,569444,4970128,Oaks Camp Dam,suspect,,Beddington Lake,,,-68.120718,44.881188
+3,570047,4947525,Spring River Dam,suspect,,Spring River,,,-68.116193,44.677674
+4,571508,4971611,28 Pond,suspect,,Beddington Lake,,,-68.094377,44.894332
+5,571716,4978287,35 stream dam,remnant,scheduled,Beddington Lake,Two dams nearby.,,-68.090796,44.954401
+6,572031,4957754,Pork Brook,remnant,completed,West Branch Narraguagus River,Borrow pit evident.,,-68.08972,44.769552
+7,572649,4959373,Above 73-00-0 Road,suspect,,West Branch Narraguagus River,,,-68.08168,44.784062
+8,572723,4971605,Rocky Brook,suspect,,Beddington Lake,,,-68.078993,44.894155
+9,572732,4977610,Above 35 dam,suspect,,Beddington Lake,,,-68.078015,44.948204
+10,572753,4957318,Pork Brook,remnant,,West Branch Narraguagus River,Borrow pit evident. Two berms on the river left side.,,-68.08066,44.765554
+11,572826,4968226,Shoppe Mill,suspect,,Beddington Lake,,,-68.078174,44.86373
+12,572882,4960349,Above 73-00-0 Road,suspect,,West Branch Narraguagus River,,,-68.078596,44.792823
+13,573081,4967552,Hemlock Dam,remnant,scheduled,Beddington Lake,Berm evident.,,-68.075044,44.857637
+14,573393,4964621,Little Narraguagus,suspect,,Beddington Lake,,,-68.07152,44.831223
+15,573582,4972839,Baker Brook,suspect,,Beddington Lake,,,-68.067936,44.905174
+16,573991,4955689,unnamed,suspect,,West Branch Narraguagus River,,,-68.065254,44.750764
+17,577089,4992876,Knight Dam,historic,,Fifth Machias Lake-Fourth Machias Lake,,UNH topographical maps,-68.020451,45.085148
+18,577897,4988824,5th Lake,historic,completed,Fifth Machias Lake-Fourth Machias Lake,Replaced with a 25' OBA in 2010.,Elder 1987,-68.010815,45.048589
+19,578646,4988116,5th Lake Outlet,historic,,Fifth Machias Lake-Fourth Machias Lake,,Elder 1987,-68.001416,45.042134
+20,575926,5000420,unnamed,historic,scheduled,Fifth Machias Lake-Fourth Machias Lake,,,-68.034082,45.153173
+21,579436,4981758,Lower Sabao Dam,modern,,West Branch Machias River,,,-67.992391,44.984821
+22,579756,4943764,Sprague Falls,suspect,,West Branch Narraguagus River,Old mill site.,,-67.994294,44.642808
+23,580559,4973358,Mopang Lake,historic,,Mopang Lake-Mopang Stream,No sign of the remnant structure.,Elder 1987,-67.979489,44.90909
+24,580630,5001983,4th Lake Outlet,historic,,Fifth Machias Lake-Fourth Machias Lake,Historic log drive dam.,Elder 1987,-67.973995,45.166719
+25,581755,4972491,Gravel Dam,historic,completed,Mopang Lake-Mopang Stream,Has since been removed.,Field observation,-67.964481,44.90115
+26,581906,4976769,unnamed,historic,,West Branch Machias River,Currently home to an undersized culvert.,,-67.961875,44.939637
+27,582997,4971121,1st Lake inlet,historic,completed,Mopang Lake-Mopang Stream,,Field observation,-67.948977,44.888675
+28,583204,4970070,Mopang,historic,,Mopang Lake-Mopang Stream,Survey is required.,1881 Atlas of Washington County,-67.946528,44.879191
+29,583614,4968980,Robinson Dam,historic,,Mopang Lake-Mopang Stream,Historic log drive dam. Requires a survey.,Wells 1869,-67.941518,44.869333
+30,583939,4991403,unnamed,suspect,,Third Machias Lake-First Machias Lake,,1881 Atlas of Washington County,-67.933671,45.071111
+31,584700,4990869,Fletcher,remnant,scheduled,Third Machias Lake-First Machias Lake,,,-67.924096,45.066214
+32,584910,4981316,Rolford,historic,completed,West Branch Machias River,A remnant log drive dam.,,-67.923042,44.980209
+33,585167,4990236,Fletcher,historic,completed,Third Machias Lake-First Machias Lake,A remnant rock check dam.,,-67.918272,45.060461
+34,585542,4988901,Fletcher,suspect,,Third Machias Lake-First Machias Lake,,,-67.913737,45.0484
+35,585812,4988385,Fletcher,suspect,,Third Machias Lake-First Machias Lake,,,-67.910398,45.043724
+36,580415,4989152,Elwell Dam,historic,scheduled,,,Wells 1869,-67.978792,45.05126
+37,587349,4987269,Fletcher Field,historic,,Third Machias Lake-First Machias Lake,,,-67.891079,45.033492
+38,588125,4999010,unnamed,modern,,Pocumcus Lake,,,-67.879165,45.139065
+39,588314,4971600,Pope Dam,historic,,Crooked River,Currently a snowmobile bridge.,,-67.881574,44.892347
+40,588678,4986437,51-00-0 road,historic,completed,Third Machias Lake-First Machias Lake,,,-67.874357,45.025838
+41,588955,4987394,2nd Lake Outlet,historic,,Third Machias Lake-First Machias Lake,,,-67.870672,45.034417
+42,589063,4971491,unnamed,suspect,,Crooked River,,Wells 1869,-67.87211,44.891273
+43,589213,4973897,Robinson Dam,historic,completed,Crooked River,The crossing has been decommisioned.,Wells 1869,-67.869786,44.912909
+44,589380,4993231,3rd Lake Outlet,historic,completed,Third Machias Lake-First Machias Lake,Structure has been previously removed.,,-67.864238,45.086897
+45,589461,4984469,1st Lake Outlet,historic,completed,Third Machias Lake-First Machias Lake,Structure has been previously removed.,,-67.86477,45.008028
+46,589495,4971049,unnamed,suspect,,Crooked River,,,-67.866718,44.88724
+47,589851,4971491,unnamed,suspect,,Crooked River,,Wells 1869,-67.862133,44.891174
+48,594688,4980729,Bowles Brook,remnant,completed,Old Stream,Cribwork present.,,-67.799159,44.973689
+56,594649,4980726,Bowles Brook,remnant,completed,Old Stream,Cribwork present.,,-67.799654,44.973668
+49,592647,4961281,6 Mile Dam,remnant,scheduled,Mopang Lake-Mopang Stream,Cribwork present.,Wells 1869,-67.828595,44.798922
+50,593506,4981693,Bowles Brook,historic,completed,Old Stream,,,-67.813967,44.982522
+51,592423,4984544,Dead Stream,historic,scheduled,Old Stream,,,-67.827177,45.008323
+52,593806,4975680,unnamed,historic,,Pembroke Stream-Machias River,,,-67.81128,44.928365
+53,593505,4985460,Dead Stream,remnant,scheduled,Old Stream,,,-67.81328,45.016425
+54,594279,4972332,Pembroke Stream,remnant,completed,Pembroke Stream-Machias River,Underneath Route 9. Cribwork evident.,,-67.805912,44.89817
+55,594156,4983727,Dead Stream,remnant,scheduled,Old Stream,,,-67.805344,45.000742
+57,595509,4983124,Whizgig Dam,historic,,Old Stream,A remnant log drive dam.,Field observation,-67.788295,44.995134
+58,595775,4984262,2nd Lake Outlet,historic,,Old Stream,"Currently, the road is undersized.",Elder 1987,-67.784704,45.00534
+59,596561,4979733,Canaan Dam,historic,completed,Old Stream,,,-67.775601,44.964473
+60,596612,4980113,Canaan Dam,historic,,Old Stream,A remnant log drive dam.,,-67.774882,44.967886
+61,598613,4977833,Hayward Dam,historic,,Old Stream,,Wells 1869,-67.749959,44.947092
+62,601588,4978098,Chain Lake Dam,modern,,Old Stream,"A modern, working dam.",Elder 1987,-67.712203,44.949058
+63,601998,4973203,Joe Hill Dam,historic,,Old Stream,,Wells 1869,-67.707995,44.904945
+64,604043,4975806,Cates Dam,suspect,,Bog Lake-New Stream,,Wells 1869,-67.681563,44.928075
+65,604082,4977409,unnamed,suspect,,Bog Lake-New Stream,,,-67.680738,44.942496
+66,607478,4995050,Huntley Brook,suspect,,Crawford Lake,Currently home to a beaver dam.,,-67.633934,45.100748
+67,608953,4989959,unnamed,suspect,,Crawford Lake,7 suspect sites,,-67.616299,45.054708
+68,609029,4994586,Huntley Brook,suspect,,Crawford Lake,,Wells 1869,-67.614328,45.096335
+69,609624,4988157,unnamed,suspect,,Crawford Lake,6 suspect sites,,-67.608173,45.038387
+70,610100,4987496,unnamed,suspect,,Crawford Lake,5 suspect sites,,-67.602276,45.032365
+71,610183,4983820,Barstow Dam,historic,,East Machias River-Round Lake,,Wells 1869,-67.602028,44.999271
+72,610185,5002353,unnamed,suspect,,Crawford Lake,7 suspect sites,,-67.597928,45.166051
+73,610476,4986902,unnamed,suspect,,Crawford Lake,4 suspect sites,Wells 1869,-67.597635,45.026961
+74,610799,5001000,unnamed,suspect,,Crawford Lake,5 suspect sites,,-67.590418,45.153779
+75,610949,5002037,unnamed,suspect,,Crawford Lake,6 suspect sites,,-67.58828,45.163088
+76,611005,5000363,unnamed,suspect,,Crawford Lake,4 suspect sites,Wells 1869,-67.58794,45.148015
+77,611327,4986074,Pokey Dam,modern,,Crawford Lake,"A modern, working dam.",Wells 1869,-67.587019,45.019377
+78,616777,4953377,Whitneyville,historic,completed,Lower Machias River,Removed in 1973.,,-67.525403,44.724256
+79,617293,4985640,Barrows Stream,remnant,,Barrows Lake-Northern Stream,,Wells 1869,-67.511423,45.014509
+80,617604,4986300,Barrows Lake outlet,remnant,,Barrows Lake-Northern Stream,,,-67.507324,45.020397
+81,619909,4951820,Machias,historic,completed,Lower Machias River,Removed sometime in the 50's or 60's/,Wells 1869,-67.486233,44.709726
+82,597100,4978861,Groves Dam,historic,completed,Old Stream,,,-67.768936,44.956552
+83,565727,4980221,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.166463,44.972388
+84,567365,4978998,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.145856,44.961227
+85,568033,4978724,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.137424,44.958697
+86,568128,4978092,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.136305,44.952999
+87,569853,4976881,unnamed,suspect,,Beddington Lake,Remnant structures visible.,,-68.114607,44.941931
+88,570444,4978413,35 Pond dam,remnant,scheduled,Beddington Lake,Was likely a mill site.,,-68.106903,44.955662
+89,569829,4979175,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.114593,44.962582
+90,569252,4980932,unnamed,suspect,,Beddington Lake,,,-68.121667,44.978453
+91,569329,4982485,Deer Lake outlet,historic,,Beddington Lake,,,-68.120477,44.992424
+92,565193,4981166,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.173112,44.980943
+93,571569,4979481,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.09249,44.965163
+94,570124,4974950,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.11144,44.924524
+95,570385,4974314,unnamed,suspect,,Beddington Lake,,Narraguas LiDAR,-68.108222,44.918773
+96,616609,4981337,unnamed,suspect,,Barrows Lake-Northern Stream,,,-67.521098,44.9759
+97,617255,4978192,Northern Stream,remnant,scheduled,Barrows Lake-Northern Stream,Cribwork evident.,,-67.513639,44.947492
+98,619574,4976040,unnamed,suspect,,Barrows Lake-Northern Stream,,,-67.484762,44.92774
+99,618722,4982518,Creamer Brook,remnant,scheduled,,Cribwork evident.,,-67.49403,44.986177
+100,604973,4983656,Beaver Dam Brook,remnant,scheduled,,Cribwork evident.,,-67.668147,44.998585
+101,589145,4991940,Thompson Brook,remnant,scheduled,,,,-67.867453,45.075307
+103,583597,4982935,Ingles Brook,remnant,complete,,,,-67.939424,44.994937
+104,583000,4983600,Ingles Brook,remnant,,,,,-67.946887,45.000992
+105,572771,4977863,35 Stream,remnant,scheduled,Beddington Lake,,,-68.077484,44.950477
+106,572560,4978012,35 Stream,remnant,scheduled,Beddington Lake,,,-68.080137,44.95184
+107,572530,4977942,35 Stream,remnant,scheduled,Beddington Lake,,,-68.080527,44.951213
+108,573929,4976395,35 Stream,remnant,scheduled,Beddington Lake,,,-68.063021,44.937145
+109,569855,4976893,Barrel Brook confluence,remnant,completed,Beddington Lake,,,-68.11458,44.942039
+110,569045,4977634,Barrel Brook,remnant,completed,Beddington Lake,,,-68.124744,44.948788
+111,568129,4978101,Barrel Brook,remnant,scheduled,Beddington Lake,Hidden under significant beaver debris.,,-68.136291,44.95308
+112,583946,4991901,Fletcher,remnant,scheduled,Third Machias Lake-First Machias Lake,,,-67.933499,45.075592
+113,603208,4963706,Holmes Brook,remnant,scheduled,,,,-67.694606,44.8193
+114,603569,4963543,Holmes Brook,remnant,scheduled,,,,-67.690074,44.81778
+115,585201,4990215,Fletcher Brook,historic,completed,third Machias Lake-First Machias Lake,Rock crib and berms evident.,,-67.917844,45.060268
+116,589903,4971861,Crooked River,remnant,,Crooked River,Rock crib evident.,,-67.861408,44.894497
+117,593908,4981757,Bowles Brook,remnant,completed,old Stream,,,-67.808857,44.983045
+118,593673,4984494,Dead Stream,remnant,completed,Old Stream,Cribwork visible.,,-67.811328,45.007709
+119,589100,4982954,Kerwin Brook,remnant,completed,,At the location of an old mill site.,,-67.869618,44.994438
