@@ -1,4 +1,4 @@
-id,utme,utmn,watershed,focusarea,name,type,year-compl,upstream,drainage,bankfull-estimated,bankfull-calculated,sponsor,cost-culve,cost-total,survey-date-pre,survey-date-post,design,permit,dimension-length,dimension-height,dimension-width,longitude,latitude
+id,utme,utmn,huc10,huc12,name,type,year-compl,upstream-miles,drainage,bankfull-estimated,bankfull-calculated,sponsor,cost-culve,cost-total,survey-date-pre,survey-date-post,design,permit,dimension-length,dimension-height,dimension-width,longitude,latitude
 0,588873,4978913,Middle Machias River,West Branch Machias River,West Branch Machias tributary,Decommission,2006,0.5,0.4,,6.4,,,,,,,,,,,-67.87321,44.958097
 1,591159,4986723,Old Stream,Old Stream,Unnamed tributary,Open Arch,2009,0.29,0.18,5,4.8,,11791,33546,,,,,48,8,"4'2""",-67.842819,45.028098
 2,589883,4991837,Upper Machias River,Third Machias Lake-First Machias Lake,43 Washout,Open Arch,2009,0.63,0.8,7,8.1,,11566,25124,,,,,44,9,"4'8""",-67.858098,45.074287
@@ -145,3 +145,21 @@ id,utme,utmn,watershed,focusarea,name,type,year-compl,upstream,drainage,bankfull
 143,615179,4988201,East Machias River,Rocky Lake Stream,Dead stream,Open Arch,2011,0.25,0.43,,6.5,NFPP,,,,,,,44,9,"4'8""",-67.537657,45.037902
 144,617493,4986372,East Machias River,Rocky Lake Stream,Barrows brook tributary,Open Arch,2011,0.67,0.75,,7.9,NFPP,,,,,,,44,10,"5'3""",-67.508715,45.021063
 145,617653,4977643,East Machias River,Rocky Lake Stream,Northern stream,Decommission,2011,23,20.9,,37.3,NFPP,,,,,,,,,,-67.508723,44.942486
+146,584433,4954295,,,Rearing Pond dam,Dam,,12.86,,,,,,11260,,,,,,,,-67.93359,44.737061
+147,584263,4956555,,,Hatchery dam,Dam,,0.39,,,,,,11260,,,,,,,,-67.935363,44.757423
+148,588354,4957142,,,Colonel Brook,Open Arch,,2.31,,,,,,47630,,,,,,,13',-67.883583,44.762213
+149,587514,4956148,,,Ingersol Brook,Open Arch,,6.52,,,,,,40630,,,,,,,11',-67.894365,44.75337
+150,584496,4954531,,,Bog Stream,Bridge,,13.24,,,,,,630,,,,,,,,-67.932755,44.739178
+151,569796,4977189,,,West Branch Brook,Open Arch,,21.69,,,,,,100000,,,,,,,,-68.115286,44.944709
+152,570000,4980920,,,Allen Brook,Open Arch,,4.47,,,,,,0,,,,,,,,-68.112183,44.978271
+153,569064,4977609,,,Barrel Brook,Open Arch,,3.18,,,,,,4000,,,,,,,,-68.124507,44.948561
+154,569064,4977609,,,Barrel Brook,Open Arch,,3.42,,,,,,4000,,,,,,,,-68.124507,44.948561
+155,567930,4978095,,,Barrel Brook,Open Arch,,1.84,,,,,,0,,,,,,,6',-68.138815,44.953045
+156,628545,4980493,,,Curry Brook,Open Arch,,0,,,,,,28000,,,,,,,6',-67.369992,44.966245
+157,628674,4980269,,,Curry Brook,Open Arch,,0,,,,,,35000,,,,,,,8',-67.368414,44.964206
+158,633850,4977700,,,Curry Brook,Open Arch,,4.04,,,,,,66000,,,,,,,18',-67.303492,44.940134
+159,630580,4980900,,,Gilman Brook,Open Arch,,1.34,,,,,,37500,,,,,,,10',-67.344093,44.969536
+160,633960,4976820,,,Preston Brook,Open Arch,,2.98,,,,,,47000,,,,,,,12',-67.302332,44.932195
+161,618944,4975886,,,Richardson Brook,Open Arch,,6.77,,,,,,59800,,,,,,,24',-67.492779,44.92646
+162,614755,4980682,,,19 Road,Open Arch,,0.87,,,,,,,,,,,,,,-67.544753,44.970307
+163,567946,4970575,Narraguagas,Beddington Lake,Humpback Brook,Decommision,,,,,,,,,,,,,,,,-68.139623,44.885355
