@@ -1,0 +1,165 @@
+id,utme,utmn,huc10,huc12,name,type,year-compl,upstream-miles,drainage,bankfull-estimated,bankfull-calculated,sponsor,cost-culve,cost-total,survey-date-pre,survey-date-post,design,permit,dimension-length,dimension-height,dimension-width,longitude,latitude
+0,588873,4978913,Middle Machias River,West Branch Machias River,West Branch Machias tributary,Decommission,2006,0.5,0.4,,6.4,,,,,,,,,,,-67.87321,44.958097
+1,591159,4986723,Old Stream,Old Stream,Unnamed tributary,Open Arch,2009,0.29,0.18,5,4.8,,11791,33546,,,,,48,8,"4'2""",-67.842819,45.028098
+2,589883,4991837,Upper Machias River,Third Machias Lake-First Machias Lake,43 Washout,Open Arch,2009,0.63,0.8,7,8.1,,11566,25124,,,,,44,9,"4'8""",-67.858098,45.074287
+3,588329,4979450,Middle Machias River,West Branch Machias River,West Branch Machias tributary,Open Arch,2007,0.5,0.21,6,5.1,,11748,28189,,,,,,10,,-67.880012,44.962998
+4,588996,4976904,Middle Machias River,Pembroke Stream-Machias River,,Open Arch,2007,0.2,0.22,4,5.2,,13793,41332,,,,,,10,,-67.872005,44.94
+5,588909,4977458,Middle Machias River,Pembroke Stream-Machias River,,Open Arch,2007,0.3,0.61,6,7.4,,15735,38728,,,,,,12,,-67.87301,44.944997
+6,589146,4983029,Middle Machias River,Pembroke Stream-Machias River,Kerwin brook,Open Arch,2010,3.3,4.5,,14.6,NOAA,20810,58235,,,NRCS,LURC,56,20,"6'4""",-67.869022,44.995107
+7,600370,4977498,Old Stream,Old Stream,Colson brook,Open Arch,2010,1.5,0.95,,8.6,DPS,14387,32712,8/13/2009,,,,48,11,"5'9""",-67.727759,44.943831
+8,596868,4979786,Old Stream,Old Stream,Unnamed brook,Open Arch,2010,0.29,0.13,,4.3,NOAA,8489,17646,11/4/2009,,Contech,LURC,40,6,"3'2""",-67.771699,44.964908
+9,596034,4979651,Old Stream,Old Stream,Unnamed brook,Open Arch,2010,0.38,0.21,,5.1,NOAA,10122,17063,10/6/2009,,Contech,LURC,44,7,"3'8""",-67.782298,44.963807
+10,594945,4980679,Old Stream,Old Stream,Dead Stream-Bowles brook,Open Arch,2009,5.1,4.5,16,14.6,,22189,79636.5,,,NRCS,LURC,60,20,"8'3""",-67.795909,44.973205
+11,598582,4976612,Old Stream,Old Stream,Honeymoon,Open Arch,2009,2.1,1.7,9,10.5,,14285.76,29488.91,8/16/2009,,NRCS,LURC,48,11,"5'9""",-67.75059,44.936107
+12,598429,4976809,Old Stream,Old Stream,Honeymoon tributary,Open Arch,2009,0.48,0.88,6,8.3,,11566.1,29239.71,,,NRCS,LURC,44,9,"4'8""",-67.752491,44.937901
+13,597013,4978543,Old Stream,Old Stream,Old Stream tributary,Open Arch,2010,0.21,0.22,,5.2,NOAA,10525,20499,,,Contech,LURC,50,6,,-67.7701,44.953702
+14,597226,4978091,Old Stream,Old Stream,Old Stream tributary,Open Arch,2010,0.31,0.22,,5.2,NOAA,9172,16247,10/8/2009,,Contech,LURC,40,7,"3'8""",-67.767487,44.949605
+15,597256,4976591,Old Stream,Old Stream,Honeymoon tributary,Decommission,2008,0.5,0.44,,6.6,,,,,,,,,,,-67.767396,44.936101
+16,598144,4976849,Old Stream,Old Stream,Honeymoon tributary,Decommission,2008,1.49,0.9,,8.4,,,,,,,,,,,-67.756094,44.938301
+17,595284,4982906,Old Stream,Old Stream,Dead Stream into 1st Lake,Open Arch,2010,5.8,6.25,,16.3,Old Stream,31060,,6/22/2010,,,,60,20,"8'3.5""",-67.79119,44.993203
+18,595386,4983629,Old Stream,Old Stream,Unnamed tributary,Open Arch,2009,0.18,0.12,5,4.2,,7212.65,15055.65,,,Contech,LURC,34,6,"3'2""",-67.789759,44.999696
+19,596189,4983292,Old Stream,Old Stream,Tributary to 1st Lake,Open Arch,2010,2.2,1.7,,10.5,Old Stream,15969,38812,,,,,52,12,"6'3""",-67.779638,44.996554
+20,593588,4983002,Old Stream,Old Stream,Dead Stream tributary,Decommission,2009,0.51,0.49,9,6.8,Old Stream,0,5513.5,9/3/2009,,Contech,LURC,,,,-67.812684,44.994292
+21,592766,4982525,Old Stream,Old Stream,Dead stream,Open Arch,2009,1.12,1.01,10,8.7,,15141.68,54385.24,8/25/2009,,NRCS,LURC,48,12,"6'3""",-67.823198,44.990107
+22,591979,4988946,Old Stream,Old Stream,Lanpher brook,Open Arch,2007,0.4,0.62,9,7.4,,16922,32088,,,,,,12,,-67.832005,45.047999
+23,591700,4987575,Old Stream,Old Stream,Dead stream,Open Arch,2009,0.41,0.43,6,6.5,,13429,43044,,,,,48,10,"5'3""",-67.835797,45.035696
+24,592555,4987175,Old Stream,Old Stream,Dead stream,Open Arch,2009,0.63,0.69,8,7.7,,15141.68,36722.82,,,Contech,LURC,48,12,"6'3""",-67.825018,45.031985
+25,593414,4987744,Old Stream,Old Stream,Lanpher brook,Decommission,2010,1.1,1.5,,10,,,2000,,7/12/2011,,,,,,-67.81401,45.036993
+26,593749,4987248,Old Stream,Old Stream,Lanpher brook,Open Arch,2010,1.65,1.7,,10.5,Old Stream,20760,43228,,,,,54,15,"6'2""",-67.80985,45.032485
+27,593700,4984415,Old Stream,Old Stream,Dead stream,Decommission,2010,5.6,3.85,,13.8,Old Stream,,2000,,,,,,,,-67.811,45.006994
+28,607548,4995245,East Machias River-Round Lake,Crawford Lake,Huntley brook,Open Arch,2006,2.1,3.8,13,13.8,,29934,63209,,,,,,16,,-67.633003,45.102492
+29,583082,4972913,Lower Machias River,Mopang Lake-Mopang Stream,Mopang tributary,Decommission,2006,0.3,0.62,,7.4,,,,,,,,,,,-67.947606,44.904794
+30,565012,4980403,Narraguagus River-Narraguagus Bay,Beddington Lake,Tributary to Jimmy's Pond,Open Arch,2006,1.6,0.6,6,7.3,,11814,34346.94,,,,,,13,,-68.175506,44.974092
+31,572085,4957948,Narraguagus River-Narraguagus Bay,West Branch Narraguagus River,Pork brook,Open Arch,2006,2.1,2.04,12,11.1,,18942,43636.44,,,,,,14,,-68.089011,44.771292
+32,596480,4982457,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.5,0.47,7,6.7,,4386,10894,,,,,30,9,,-67.776106,44.989
+33,564351,4980274,Narraguagus River-Narraguagus Bay,Beddington Lake,West Branch Narraguagas tributary,Open Arch,2006,1.4,0.63,6,7.4,,17902,43458.32,,,,,,13,,-68.183905,44.972991
+34,596979,4984897,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.7,0.22,5,5.2,,2637,6535,,,,,30,6,,-67.769308,45.010892
+35,597233,4983768,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.5,0.55,8,7.1,,3730,9498,,,,,30,8,,-67.766303,45.000696
+36,596190,4988619,Old Stream,First Chain Lake,Chain Lake tributary,Open Arch,2006,0.5,0.45,7,6.6,,4849,10720,,,,,30,8,,-67.778606,45.044496
+37,596589,4986725,Old Stream,First Chain Lake,Chain Lake tributary,Open Arch,2006,0.5,0.1,3,4,,2132,5820,,,,,30,4,,-67.773905,45.027397
+38,594753,4973920,Middle Machias River,Pembroke Stream-Machias River,Pembroke tributary,Decommission,2006,1,1.59,,10.2,,,,,,,,,,,-67.799612,44.912399
+39,596764,4979861,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.5,0.07,4,3.5,,2454,6169,,,,,30,5,,-67.773003,44.965598
+40,597746,4978553,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.5,0.07,3,3.5,,2132,4718,,,,,30,4,,-67.760807,44.953691
+41,598329,4978085,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.5,0.1,4,4,,2472,5572,,,,,30,5,,-67.753509,44.949399
+42,598495,4978076,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.5,0.06,3,3.3,,2133,5005,,,,,30,4,,-67.751407,44.949295
+43,577618,5002065,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,4th Machias Lake tributary,Decommission,2006,1,0.82,,8.1,,,,,,,,,,,-68.012304,45.167795
+44,599104,4977997,Old Stream,Old Stream,Old Stream tributary,Open Arch,2006,0.5,0.06,4,3.3,,2472,6600,,,,,30,5,,-67.743704,44.948499
+45,588646,4978762,Middle Machias River,West Branch Machias River,Pilot Project,Open Arch,2005,0.31,0.37,7,6.2,,,27000,,,,,,10,,-67.876114,44.956766
+46,594258,4987573,Old Stream,Old Stream,Old Stream 3rd Lake tributary,Open Arch,2009,0.55,0.36,6,6.1,,10458.35,22818.85,8/28/2009,,Contech,LURC,46,7,"3'8""",-67.803329,45.035342
+47,595500,4985874,Old Stream,Old Stream,Old Stream 3rd Lake tributary,Open Arch,2009,0.34,0.1,,4,,8003.97,19879.97,,,Contech,LURC,38,6,"3'2""",-67.787887,45.019885
+48,594048,4987531,Old Stream,Old Stream,4th Lake outlet,Open Arch,2010,0.46,0.35,,6.1,Old Stream,18699,40433,11/4/2009,,,,68,10,5',-67.806002,45.034992
+49,585644,4944082,Narraguagus River-Narraguagus Bay,Narraguagus River,Lawrence brook,Open Arch,2007,4,1.83,12,10.7,,17452,47592,,,,,,14,,-67.920007,44.644992
+50,588286,4992372,Upper Machias River,Third Machias Lake-First Machias Lake,Thompson brook,Open Arch,2008,1.43,0.9,9,8.4,,18953,43360.33,,,,,,12,,-67.878288,45.079303
+51,588053,4991569,Upper Machias River,Third Machias Lake-First Machias Lake,Magazine brook,Open Arch,2008,1.62,1.16,8,9.2,,14035,36678.8,,,,,,12,,-67.881389,45.072105
+52,582426,4984665,Middle Machias River,West Branch Machias River,Ingalls brook,Open Arch,2009,0.49,0.61,6,7.4,,9838.78,23598.74,8/4/2009,7/14/2011,,,40,10,"5'3""",-67.953994,45.010644
+53,600419,4978184,Old Stream,Old Stream,Grover Lake tributary,Bridge,2010,1,0.84,,8.2,DPS,,24127,,,,,,11,,-67.727002,44.949998
+54,590757,4991474,Upper Machias River,Third Machias Lake-First Machias Lake,Machias tributary,Decommission,2008,0.37,0.35,,6.1,,,,,,,,,,,-67.847062,45.070908
+55,587087,4979688,Middle Machias River,West Branch Machias River,West Branch Machias tributary,Decommission,2008,0.37,0.43,,6.5,,,,,,,,,,,-67.895716,44.965293
+56,585897,4979749,Middle Machias River,West Branch Machias River,Unnamed tributary,Open Arch,2010,0.39,0.26,,5.5,NOAA,7607,14123,,,Contech,LURC,36,6,"3'2""",-67.910793,44.965987
+57,587799,4989331,Upper Machias River,Third Machias Lake-First Machias Lake,2nd Machias Lake tributary,Open Arch,2007,0.9,0.96,8,8.6,,16251,55407,,,,,,14,,-67.885007,45.051994
+58,587308,4990658,Upper Machias River,Third Machias Lake-First Machias Lake,Dunning brook,Open Arch,2007,1.2,1.03,8,8.8,,14767,50910,,,,,,12,,-67.89101,45.063998
+59,586910,4990986,Upper Machias River,Third Machias Lake-First Machias Lake,Dunning brook,Open Arch,2007,0.9,0.94,8,8.5,,14767,47031,,,,,,12,,-67.896008,45.066999
+60,585253,4990157,Upper Machias River,Third Machias Lake-First Machias Lake,Fletcher brook,Open Arch,2009,4.1,4.5,13,14.6,,24807.1,54014.7,9/14/2009,6/15/2011,NRCS,LURC,56,15,"7'9""",-67.917193,45.05974
+61,577938,4989037,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,5th Lake Machias,Open Arch,2010,22,16.15,,32.6,NOAA,45471,88024,,,NRCS,LURC,68,25,,-68.010261,45.050502
+62,585448,4979585,Middle Machias River,West Branch Machias River,Unnamed tributary,Open Arch,2009,0.5,0.55,6,7.1,,10565.72,18610.47,8/14/2009,7/13/2011,Contech,LURC,40,10,"4'5""",-67.916513,44.964565
+63,584802,4981293,Middle Machias River,West Branch Machias River,Unnamed tributary,Decommission,2010,0.65,0.18,,4.8,NOAA,,3486,5/25/2010,7/13/2011,Contech,LURC,,,,-67.924415,44.980015
+64,582684,4982588,Middle Machias River,West Branch Machias River,Libby brook,Open Arch,2009,0.83,0.77,,8,,11203.78,31364.99,9/23/2009,,Contech,LURC,40,10,"5'3""",-67.951062,44.99192
+65,582978,4977956,Middle Machias River,West Branch Machias River,Cranberry Lake tributary,Open Arch,2010,0.49,0.37,,6.2,EBTJV,,,,,,,,6,,-67.948095,44.950196
+66,582774,4978339,Middle Machias River,West Branch Machias River,West Branch Machias tributary,Open Arch,2010,0.18,0.09,,3.8,NOAA,8442,17023,,,Contech,LURC,40,6,"3'2""",-67.950618,44.953667
+67,581255,4978829,Middle Machias River,West Branch Machias River,Unnamed tributary,Open Arch,2010,0.26,0.09,,3.8,NOAA,7710,18795,,,Contech,LURC,40,5,"2'7""",-67.969793,44.958253
+68,580799,4979562,Middle Machias River,West Branch Machias River,Cranberry Lake tributary,Open Arch,2010,0.29,0.09,,3.8,NOAA,9324,21323,6/12/2010?,,Contech,LURC,44,6,"3'2""",-67.975456,44.964902
+69,579967,4980249,Middle Machias River,West Branch Machias River,Unnamed tributary,Open Arch,2010,0.31,0.21,,5.1,NOAA,7558,14386,6/2/2010?,,Contech,LURC,36,6,"3'2""",-67.985896,44.971179
+70,580397,4980414,Middle Machias River,West Branch Machias River,Unnamed tributary,Open Arch,2010,0.68,0.39,,6.3,NOAA,12105,23259,,,Contech,LURC,46,9,"4'8""",-67.980417,44.972616
+71,582728,4974257,Middle Machias River,West Branch Machias River,West Branch Machias tributary,Open Arch,2009,0.25,0.15,3,4.5,,7212.65,24862.36,7/31/2009,,Contech,LURC,34,6,"3'2""",-67.95187,44.916932
+72,577481,4987026,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,Unnamed tributary,Open Arch,2010,0.91,0.88,,8.3,NOAA,11359,24916,,,Contech,LURC,,6,,-68.016374,45.032452
+73,597384,4975359,Old Stream,Old Stream,Honeymoon brook tributary,Decommission,2010,0.5,0.26,,5.5,DPS,,2500,5/26/2010,6/27/2011,,,,,,-67.766012,44.924995
+74,578751,4985968,Middle Machias River,West Branch Machias River,Lower Sabeo Lake tributary,Open Arch,2010,0.15,0.07,,3.5,NOAA,10676,20464,,,Contech,LURC,50,6,"3'2""",-68.000419,45.02279
+75,576363,4980475,Middle Machias River,West Branch Machias River,Thompson brook,Open Arch,2009,1.1,1.3,9,9.5,,16365.23,48710.73,,,Contech,LURC,52,12,"6'3""",-68.031559,44.97361
+76,577802,5001848,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,Beldon brook,Open Arch,2009,1.1,1.08,11,8.9,,14279.24,45192.45,7/30/2009,,NRCS,LURC,48,11,"5'9""",-68.009997,45.165821
+77,573471,4982063,Middle Machias River,West Branch Machias River,Thompson brook,Open Arch,2009,1.2,1.03,9,8.8,,17597.24,46889.66,7/27/2009,,NRCS,LURC,56,12,"6'3""",-68.067999,44.988209
+78,573634,4982124,Middle Machias River,West Branch Machias River,Thompson brook,Open Arch,2010,0.93,0.54,,7.1,NOAA,18878,44770,,,Contech,LURC,60,12,"6'3""",-68.065923,44.988741
+79,574160,4982334,Middle Machias River,West Branch Machias River,Thompson brook,Open Arch,2010,0.29,0.13,,4.3,NOAA,11853,34871,6/14/2010,,Contech,LURC,50,7,"3'8""",-68.05922,44.990576
+80,575255,4983239,Middle Machias River,West Branch Machias River,Sabeo Lake tributary,Open Arch,2010,0.75,0.49,,6.8,NOAA,17853,32352,9/1/2009,,Contech,LURC,,11,,-68.045196,44.998607
+81,575625,4983796,Middle Machias River,West Branch Machias River,Campbell Lake outlet,Open Arch,2008,1.62,1.3,9,9.5,,18400,63380.02,,,,,,14.5,,-68.040418,45.003581
+82,576242,4984843,Middle Machias River,West Branch Machias River,Sabeo Lake tributary,Open Arch,2010,0.18,0.17,,4.7,NOAA,31659,62893,5/24/2010,6/20/2011,Contech,LURC,90,12,,-68.032432,45.012938
+83,576816,4985738,Middle Machias River,West Branch Machias River,Lower Sabeo Lake tributary,Open Arch,2010,0.63,0.32,,5.9,NOAA,11777,24202,,,Contech,LURC,56,6,"3'2""",-68.025012,45.020932
+84,577534,4985901,Middle Machias River,West Branch Machias River,Humphrey brook,Open Arch,2010,1.4,0.74,,7.9,NOAA,20558,37493,,,Contech,LURC,62,12,"6'3""",-68.015875,45.022321
+85,573411,4986982,Middle Machias River,West Branch Machias River,Burntland pond tributary,Open Arch,2009,0.34,0.25,7,5.4,,8341.45,24090.45,8/18/2009,,Contech,LURC,36,7,"3'8""",-68.068042,45.032489
+86,574107,4986886,Middle Machias River,West Branch Machias River,Pughole pond tributary,Bridge,2009,0.86,0.41,6,6.4,,,10164.75,8/17/2009,8/8/2011,Contech,LURC,24,,,-68.059222,45.031553
+87,574355,4986877,Middle Machias River,West Branch Machias River,Burntland pond tributary,Bridge,2009,4,5.11,20,15.2,,,8907.5,8/17/2009,,SHARE,LURC,24,,,-68.056075,45.031446
+88,581246,4953247,Narraguagus River-Narraguagus Bay,Schoodic Brook,Great Falls Branch,Open Arch,2007,7.2,2.74,10,12.3,,17332,43495,,,,,,14,,-67.974003,44.727997
+89,609063,4984881,East Machias River-Round Lake,East Machias River-Round Lake,Harmon brook,Open Arch,2007,4.4,3.82,14,13.8,,28905,57231,,,,,,16,,-67.616004,45.008992
+90,615507,4985995,East Machias River,Barrows Lake-Northern Stream,Dead brook,Open Arch,2007,1.9,1.36,12,9.7,,17177,41678,,,,,,14,,-67.534001,45.017997
+91,587389,4990548,Upper Machias River,Third Machias Lake-First Machias Lake,Dunning brook,Decommission,2007,1.3,1.1,,9,,,,,,,,,,,-67.890001,45.062998
+92,635157,4973711,Dennys River,Dennys River,Venture brook,Open Arch,2007,3.3,3.2,16,13,,35989,77313,,,,,,20,,-67.288,44.903993
+93,574110,4969533,Narraguagus River-Narraguagus Bay,Beddington Lake,Sinclair brook,Remnant Dam,2008,1,2.5,,11.9,,,,,,,,,,,-68.061733,44.875362
+94,577702,4984903,Middle Machias River,West Branch Machias River,Lower Sabeo Lake tributary,Decommission,2009,0.33,0.11,4,4.1,,,1254,,,,,,,,-68.013897,45.01332
+95,574642,4986969,Middle Machias River,West Branch Machias River,Pughole pond tributary,Open Arch,2009,0.31,0.25,4,5.4,,8503.87,16522.87,7/16/2009,6/20/2011,Contech,LURC,40,6,"3'2""",-68.052419,45.032244
+96,575520,4986284,Middle Machias River,West Branch Machias River,Pughole pond tributary,Open Arch,2009,0.24,0.17,5,4.7,,7586.6,14098.6,,6/20/2011,Contech,LURC,36,6,"3'2""",-68.041377,45.025985
+97,577643,4985211,Middle Machias River,West Branch Machias River,Lower Sabeo Lake tributary,Decommission,2009,0.28,0.31,5,5.8,,,1254,8/16/2009,,,,,,,-68.014598,45.016098
+98,583610,4982929,Middle Machias River,West Branch Machias River,Ingalls brook,Decommission,2009,1.8,1.9,11,10.9,,,5000,7/20/2009,,SHARE,LURC,,,,-67.93926,44.994881
+99,589997,5002593,Big Lake-Grand Falls Flowage,Little River,Rolfe brook,Open Arch,2008,1.86,1.38,11,9.7,,,40865.92,,,,,52,12,"6'3""",-67.854714,45.171076
+100,592561,5004269,Big Lake-Grand Falls Flowage,Little River,Scott brook,Open Arch,2008,1.18,1.38,10,9.7,,,42249.78,,,,,52,12,"6'3""",-67.821781,45.185828
+101,597928,4970507,Lower Machias River,Peaked Mountain Pond-Machias River,Big Springy River tributary,Decommission,2008,0.25,0.51,,6.9,,,,,,,,,,,-67.760059,44.881253
+102,596990,4976646,Old Stream,Old Stream,Honeymoon brook tributary,Decommission,2008,0.25,0.12,,4.2,,,,,,,,,,,-67.770756,44.936632
+103,580179,4983894,Middle Machias River,West Branch Machias River,West Branch Machias tributary,Decommission,2009,0.27,0.25,,5.4,,,927.5,,,,,,,,-67.982627,45.003963
+104,581375,4976663,Middle Machias River,West Branch Machias River,Upper Cranberry Lake tributary,Decommission,2010,1.5,0.95,,8.6,DPS,,2000,,,,,,,,-67.968621,44.938744
+105,575377,4984204,Middle Machias River,West Branch Machias River,Campbell Lake outlet,Decommission,2008,1.3,1.08,,8.9,,,,,,,,,,,-68.043504,45.007279
+106,575812,4983045,Middle Machias River,West Branch Machias River,Unnamed tributary,Open Arch,2009,0.81,0.54,9,7.1,,8829.07,24756.57,,,Contech,LURC,48,8,"4'2""",-68.038159,44.996801
+107,592938,4981851,Old Stream,Old Stream,Dead Stream tributary,Open Arch,2009,0.44,0.23,7,5.3,,9256.1,29005.6,,,Contech,LURC,44,6,"3'2""",-67.821141,44.984019
+108,582281,4974910,Middle Machias River,West Branch Machias River,Upper Cranberry Lake tributary,Open Arch,2009,0.15,0.12,6,4.2,,8623.22,18699,,,Contech,LURC,36,7,"3'8""",-67.957426,44.922861
+109,582747,4978042,Middle Machias River,West Branch Machias River,Unnamed tributary,Decommission,2010,1,0.49,,6.8,DPS,,2000,,,,,,,,-67.951009,44.950997
+110,617203,4985610,East Machias River,Barrows Lake-Northern Stream,Barrows brook,Open Arch,2008,9.51,6.8,18,16.8,,37909,77870.1,,,,,60,21.5,,-67.512572,45.014254
+111,606367,4988517,East Machias River-Round Lake,East Machias River-Round Lake,Harmon brook,Decommission,2008,0.75,0.58,,7.2,,,,,,,,,,,-67.649437,45.042124
+112,599065,4970406,Old Stream,Old Stream,Sam Hill brook,Open Arch,2008,3.42,2.49,10,11.9,,26191,57426.29,,,,,52,15,,-67.745686,44.880187
+113,604921,4965302,Old Stream,Old Stream,Bear brook,Open Arch,2009,1.15,0.9,,8.4,,18279.96,58552.09,7/15/2009,,NRCS,LURC,42,14,"7'3""",-67.672615,44.833414
+114,584162,4955730,Pleasant River-Pleasant Bay,Upper Pleasant River,Beaver Meadow,Open Arch,2009,1.5,0.95,,8.6,,15104.76,30053.93,9/9/2009,,NRCS,DEP,48,12,"6'3""",-67.936775,44.750009
+115,585220,4957834,Pleasant River-Pleasant Bay,Upper Pleasant River,Crebo,Open Arch,2008,38.96,23.83,,39.9,,64906,182424.36,,,,,,30.5,"11'5""",-67.92306,44.768822
+116,585916,4955051,Pleasant River-Pleasant Bay,Upper Pleasant River,Bog stream,Open Arch,2008,20.01,7.68,13,22.1,,22713,88314.08,,,,,56,16,,-67.914735,44.743689
+117,608838,4985256,East Machias River-Round Lake,East Machias River-Round Lake,Harmon brook,Remnant Dam,2008,3.23,3.8,,13.8,,,,,,,,,,,-67.618777,45.012402
+118,608974,4985086,East Machias River-Round Lake,East Machias River-Round Lake,Harmon brook,Remnant Dam,2008,3.36,3.82,,13.8,,,,,,,,,,,-67.617089,45.010851
+119,509350,4946849,Penobscot River-Penobscot Bay,Cove Brook-Penobscot River,Meadow brook,Open Arch,2008,4.66,1.83,13,10.7,,,140000,,,,,,16,,-68.882033,44.674948
+120,588099,4992486,Upper Machias River,Third Machias Lake-First Machias Lake,Thompson brook,Decommission,2008,1.3,0.91,,8.4,,,,,,,,,,,-67.880644,45.080352
+121,583663,4969234,Lower Machias River,Mopang Lake-Mopang Stream,Mopang stream,Remnant Dam,2008,19.57,16,,32.4,,,,,,,,,,,-67.940856,44.871613
+122,572096,4958004,Narraguagus River-Narraguagus Bay,West Branch Narraguagus River,Pork brook,Remnant Dam,2008,2.17,2.03,,11.1,,,,,,,,,,,-68.088864,44.771795
+123,580609,4990479,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,Elwell brook tributary,Open Arch,2010,0.27,0.57,,7.2,NOAA,11810,23017,,6/15/2011,Contech,LURC,50,7,"3'8""",-67.976116,45.063182
+124,579384,4990103,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,Elwell brook,Open Arch,2010,0.48,0.55,,7.1,NOAA,11771,19639,,,Contech,LURC,50,7,"3'8""",-67.991733,45.059936
+125,583755,5001732,Upper Machias River,Third Machias Lake-First Machias Lake,Hayes brook,Bridge,2009,0.65,0.9,11,8.4,,,37052.9,,,NRCS,LURC,,14,,-67.934279,45.164096
+126,577349,4988233,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,Unnamed tributary,Open Arch,2010,0.33,0.62,,7.4,NOAA,10408,20164,,,Contech,LURC,,8,,-68.017864,45.04333
+127,591733,4973164,Middle Machias River,Pembroke Stream-Machias River,Machias River,Side channel,2010,0.5,195,,53.2,DPS,,2000,,,,,,,,-67.838001,44.905991
+128,584513,4965886,Lower Machias River,Mopang Lake-Mopang Stream,Allen brook,Open Arch,2009,2.1,1.68,,10.4,,14285.75,29886,,,,,48,11,"5'9""",-67.930655,44.841379
+129,583180,4949465,Narraguagus River-Narraguagus Bay,Schoodic Brook,Middle Schoodic brook,Open Arch,2009,2.6,1.5,,10,,15104.76,30837.37,9/10/2009,,NRCS,DEP,48,12,"6'3""",-67.950199,44.693734
+130,587823,4998998,Grand Lake Stream,Pocumcus Lake,Wabassus tributary,Open Arch,2009,0.56,0.53,,7,,,,,,,,44,10,"5'3""",-67.883007,45.138995
+131,594699,4980763,Old Stream,Old Stream,Bowles brook,Remnant Dam,2010,5,4.5,,14.6,Old Stream,,2159,,,,,,,,-67.799013,44.973994
+132,584016,4985066,Upper Machias River,Fifth Machias Lake-Fourth Machias Lake,Lake brook,Open Arch,2010,0.44,0.44,,6.6,NOAA,10823,20275,,7/20/2011,,,44,8,"4'2""",-67.933753,45.014067
+133,604603,4960035,Lower Machias River,Peaked Mountain Pond-Machias River,Palmer brook,Open Arch,2010,0.84,0.87,,8.3,NOAA,14558,28504,,7/18/2011,,,48,12,5',-67.677721,44.786058
+134,604017,4963784,Lower Machias River,Peaked Mountain Pond-Machias River,Holmes brook,Open Arch,2010,9,4.91,,15,NOAA,18765,52183,,,,,60,20,"6'4""",-67.68436,44.819884
+135,592254,4992695,Big Lake-Grand Falls Flowage,Little Musquash Stream,North Branch stream,Open Arch,2010,0.82,0.83,,8.2,,,,,,,,52,13,"6'9""",-67.827824,45.081704
+136,585244,4990169,Upper Machias River,Third Machias Lake-First Machias Lake,Fletcher brook,Remnant Dam,2010,4.1,4.5,,14.6,NOAA,,2000,,,,,,,,-67.917306,45.059849
+137,589109,4982940,Middle Machias River,Pembroke Stream-Machias River,Kerwin brook,Remnant Dam,2010,3.3,4.5,,14.6,,,2000,,,,,,,,-67.869507,44.994311
+138,587504,4986648,,,Know Lake outlet,Open Arch,2011,1.64,,,,NOAA,,,,,,,,,,-67.88922,45.027883
+139,586865,4993426,,,Thompson brook,Open Arch,2011,0.31,,,,NOAA,,,,,,,,,,-67.896157,45.088965
+140,584630,4996452,,,Dead Stream - Washington Bald,Open Arch,2011,1.14,,,9,NOAA,,,,,,,,,,-67.924041,45.116471
+141,587977,4982477,,,Kerwin brook tributary,Open Arch,2011,0.8,,,,,,,,,,,,,,-67.883946,44.990285
+142,589908,4993027,,,Unnamed tributary,Bridge,2011,0.53,,,,,,,,,,,,,,-67.857567,45.084994
+143,615179,4988201,East Machias River,Rocky Lake Stream,Dead stream,Open Arch,2011,0.25,0.43,,6.5,NFPP,,,,,,,44,9,"4'8""",-67.537657,45.037902
+144,617493,4986372,East Machias River,Rocky Lake Stream,Barrows brook tributary,Open Arch,2011,0.67,0.75,,7.9,NFPP,,,,,,,44,10,"5'3""",-67.508715,45.021063
+145,617653,4977643,East Machias River,Rocky Lake Stream,Northern stream,Decommission,2011,23,20.9,,37.3,NFPP,,,,,,,,,,-67.508723,44.942486
+146,584433,4954295,,,Rearing Pond dam,Dam,,12.86,,,,,,11260,,,,,,,,-67.93359,44.737061
+147,584263,4956555,,,Hatchery dam,Dam,,0.39,,,,,,11260,,,,,,,,-67.935363,44.757423
+148,588354,4957142,,,Colonel Brook,Open Arch,,2.31,,,,,,47630,,,,,,,13',-67.883583,44.762213
+149,587514,4956148,,,Ingersol Brook,Open Arch,,6.52,,,,,,40630,,,,,,,11',-67.894365,44.75337
+150,584496,4954531,,,Bog Stream,Bridge,,13.24,,,,,,630,,,,,,,,-67.932755,44.739178
+151,569796,4977189,,,West Branch Brook,Open Arch,,21.69,,,,,,100000,,,,,,,,-68.115286,44.944709
+152,570000,4980920,,,Allen Brook,Open Arch,,4.47,,,,,,0,,,,,,,,-68.112183,44.978271
+153,569064,4977609,,,Barrel Brook,Open Arch,,3.18,,,,,,4000,,,,,,,,-68.124507,44.948561
+154,569064,4977609,,,Barrel Brook,Open Arch,,3.42,,,,,,4000,,,,,,,,-68.124507,44.948561
+155,567930,4978095,,,Barrel Brook,Open Arch,,1.84,,,,,,0,,,,,,,6',-68.138815,44.953045
+156,628545,4980493,,,Curry Brook,Open Arch,,0,,,,,,28000,,,,,,,6',-67.369992,44.966245
+157,628674,4980269,,,Curry Brook,Open Arch,,0,,,,,,35000,,,,,,,8',-67.368414,44.964206
+158,633850,4977700,,,Curry Brook,Open Arch,,4.04,,,,,,66000,,,,,,,18',-67.303492,44.940134
+159,630580,4980900,,,Gilman Brook,Open Arch,,1.34,,,,,,37500,,,,,,,10',-67.344093,44.969536
+160,633960,4976820,,,Preston Brook,Open Arch,,2.98,,,,,,47000,,,,,,,12',-67.302332,44.932195
+161,618944,4975886,,,Richardson Brook,Open Arch,,6.77,,,,,,59800,,,,,,,24',-67.492779,44.92646
+162,614755,4980682,,,19 Road,Open Arch,,0.87,,,,,,,,,,,,,,-67.544753,44.970307
+163,567946,4970575,Narraguagas,Beddington Lake,Humpback Brook,Decommision,,,,,,,,,,,,,,,,-68.139623,44.885355
